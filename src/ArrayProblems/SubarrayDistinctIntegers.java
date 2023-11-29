@@ -4,6 +4,13 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
+/*
+ * <metadata>
+ *   Status: Partially Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/subarray-with-distinct-integers_893062,
+ *   Notes: Optimization Required
+ * </metadata>
+ * */
 public class SubarrayDistinctIntegers {
 
     public static int goodSubarrays(int arr[], int n,int b) {

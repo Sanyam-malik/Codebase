@@ -1,5 +1,11 @@
 package ArrayProblems;
 
+/*
+* <metadata>
+*   Status: Completed,
+*   URL: https://www.codingninjas.com/studio/problems/maximum-subarray-sum_630526
+* </metadata>
+* */
 public class MaximumSubarraySum {
 
     public static long maxSubarraySum(int[] arr, int n) {

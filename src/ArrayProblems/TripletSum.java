@@ -1,5 +1,12 @@
 package ArrayProblems;
 import java.util.*;
+
+/*
+ * <metadata>
+ *   Status: InComplete,
+ *   URL: https://www.codingninjas.com/studio/problems/triplets-with-given-sum_893028
+ * </metadata>
+ * */
 public class TripletSum {
 
     public static ArrayList<ArrayList<Integer>> findTriplets(ArrayList<Integer> arr, int n) {

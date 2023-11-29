@@ -3,7 +3,12 @@ package ArrayProblems;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/triangle-with-the-largest-perimeter_1463974
+ * </metadata>
+ * */
 public class LargestPerimeterTraingle {
         public static int maxPerimeterTriangle(ArrayList<Integer> arr, int n) {
             Collections.sort(arr, Collections.reverseOrder());

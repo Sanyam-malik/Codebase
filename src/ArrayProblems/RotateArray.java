@@ -3,6 +3,12 @@ package ArrayProblems;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: Unknown
+ * </metadata>
+ * */
 public class RotateArray {
 
     public static void CyclicRotate(ArrayList<Integer> arr, int k, int n) {

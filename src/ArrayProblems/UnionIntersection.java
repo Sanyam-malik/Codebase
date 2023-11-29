@@ -2,6 +2,12 @@ package ArrayProblems;
 
 import java.util.*;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/find-similarities-between-two-arrays_1229070
+ * </metadata>
+ * */
 public class UnionIntersection {
     public static ArrayList<Integer> findSimilarity(ArrayList<Integer> arr1, ArrayList<Integer> arr2, int n, int m) {
         int intersectionSize = 0;

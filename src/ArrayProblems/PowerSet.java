@@ -2,6 +2,13 @@ package ArrayProblems;
 
 import java.util.*;
 
+/*
+* <metadata>
+*   Status: InComplete,
+*   URL: https://www.codingninjas.com/studio/problems/power-set_1062667,
+*   Notes: Sorting of Sets Are Pending
+* </metadata>
+* */
 public class PowerSet {
 
     public static void main(String[] args) {
@@ -11,8 +18,6 @@ public class PowerSet {
         input.add(3);
 
         ArrayList<ArrayList<Integer>> powerSet = pwset(input);
-
-        System.out.println(powerSet);
     }
 
     public static ArrayList<ArrayList<Integer>> pwset(ArrayList<Integer> arr) {

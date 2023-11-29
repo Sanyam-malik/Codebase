@@ -2,7 +2,12 @@ package ArrayProblems;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+* <metadata>
+*   Status: Completed,
+*   URL: https://www.codingninjas.com/studio/problems/container-with-most-water_873860
+* </metadata>
+* */
 public class MostWaterContainer {
 
     public static int maxArea(int[] height) {

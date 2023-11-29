@@ -3,6 +3,12 @@ package ArrayProblems;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/reverse-the-array_1262298
+ * </metadata>
+ * */
 public class ReverseArray
 {
     /*
