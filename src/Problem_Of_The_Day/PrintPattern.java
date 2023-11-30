@@ -7,8 +7,8 @@ import java.util.Stack;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/print-the-pattern_893299
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/print-the-pattern_893299
  * </metadata>
  * */
 public class PrintPattern {

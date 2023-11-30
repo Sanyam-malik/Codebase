@@ -4,8 +4,8 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Status: InComplete,
- *   URL: https://www.codingninjas.com/studio/problems/shuffle-two-strings_1115692
+ *   Status:- InComplete,
+ *   URL:- https://www.codingninjas.com/studio/problems/shuffle-two-strings_1115692
  * </metadata>
  * */
 public class ShuffleStrings {

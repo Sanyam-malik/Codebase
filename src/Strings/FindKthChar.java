@@ -2,9 +2,9 @@ package Strings;
 
 /*
  * <metadata>
- *   Status: InComplete,
- *   URL: https://www.codingninjas.com/studio/problems/find-k-th-character-of-decrypted-string_630508,
- *   Notes: Memory out of bounds
+ *   Status:- InComplete,
+ *   URL:- https://www.codingninjas.com/studio/problems/find-k-th-character-of-decrypted-string_630508,
+ *   Notes:- Memory out of bounds
  * </metadata>
  * */
 public class FindKthChar {

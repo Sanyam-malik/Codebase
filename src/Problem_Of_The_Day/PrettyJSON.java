@@ -2,8 +2,8 @@ package Problem_Of_The_Day;
 import java.util.*;
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/pretty-json_1112618
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/pretty-json_1112618
  * </metadata>
  * */
 public class PrettyJSON {

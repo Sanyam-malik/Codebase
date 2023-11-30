@@ -2,8 +2,8 @@ package Problem_Of_The_Day;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/print-the-kth-digit_1214937
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/print-the-kth-digit_1214937
  * </metadata>
  * */
 public class PrintKthDigitEasy {

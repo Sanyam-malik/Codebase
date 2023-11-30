@@ -5,8 +5,8 @@ import java.util.Collections;
 import java.util.List;
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/triangle-with-the-largest-perimeter_1463974
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/triangle-with-the-largest-perimeter_1463974
  * </metadata>
  * */
 public class LargestPerimeterTraingle {

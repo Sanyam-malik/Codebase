@@ -2,8 +2,8 @@ package Strings;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/encode-the-message_699836
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/encode-the-message_699836
  * </metadata>
  * */
 public class EncodeString {

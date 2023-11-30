@@ -2,8 +2,8 @@ package Strings;
 
 /*
  * <metadata>
- *   Status: InComplete,
- *   URL: https://www.codingninjas.com/studio/problems/compare-versions_1062582
+ *   Status:- InComplete,
+ *   URL:- https://www.codingninjas.com/studio/problems/compare-versions_1062582
  * </metadata>
  * */
 public class CompareVersions {

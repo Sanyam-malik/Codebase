@@ -2,8 +2,8 @@ package Problem_Of_The_Day;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/ninja-and-the-storyteller_1264947
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/ninja-and-the-storyteller_1264947
  * </metadata>
  * */
 public class NinjaStoryteller {

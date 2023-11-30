@@ -2,8 +2,8 @@ package Arrays;
 
 /*
 * <metadata>
-*   Status: Completed,
-*   URL: https://www.codingninjas.com/studio/problems/maximum-subarray-sum_630526
+*   Status:- Completed,
+*   URL:- https://www.codingninjas.com/studio/problems/maximum-subarray-sum_630526
 * </metadata>
 * */
 public class MaximumSubarraySum {

@@ -5,8 +5,8 @@ import java.util.List;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: Unknown
+ *   Status:- Completed,
+ *   URL:- Unknown
  * </metadata>
  * */
 public class RotateArray {

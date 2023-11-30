@@ -2,8 +2,8 @@ package Strings;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/minimum-parentheses-_1075018,
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/minimum-parentheses-_1075018,
  * </metadata>
  * */
 public class Paranthesis {

@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Status: InComplete,
- *   URL: https://www.codingninjas.com/studio/problems/move-all-negative-numbers-to-beginning-and-positive-to-end_1112620?leftPanelTabValue=PROBLEM
+ *   Status:- InComplete,
+ *   URL:- https://www.codingninjas.com/studio/problems/move-all-negative-numbers-to-beginning-and-positive-to-end_1112620?leftPanelTabValue=PROBLEM
  * </metadata>
  * */
 public class SeparatingNegativeNumbers {

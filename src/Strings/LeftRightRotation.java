@@ -2,8 +2,8 @@ package Strings;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/left-and-right-rotation-of-a-string_840707
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/left-and-right-rotation-of-a-string_840707
  * </metadata>
  * */
 public class LeftRightRotation {

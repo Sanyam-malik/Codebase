@@ -2,8 +2,8 @@ package Strings;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/check-if-one-string-is-a-rotation-of-another-string_1115683
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/check-if-one-string-is-a-rotation-of-another-string_1115683
  * </metadata>
  * */
 public class RotationofOther {

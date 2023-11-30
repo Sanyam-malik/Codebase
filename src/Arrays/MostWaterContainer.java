@@ -2,8 +2,8 @@ package Arrays;
 
 /*
 * <metadata>
-*   Status: Completed,
-*   URL: https://www.codingninjas.com/studio/problems/container-with-most-water_873860
+*   Status:- Completed,
+*   URL:- https://www.codingninjas.com/studio/problems/container-with-most-water_873860
 * </metadata>
 * */
 public class MostWaterContainer {

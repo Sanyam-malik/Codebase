@@ -2,8 +2,8 @@ package Strings;
 import java.util.*;
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/anagram-difference_799485
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/anagram-difference_799485
  * </metadata>
  * */
 public class AnagramDifference {

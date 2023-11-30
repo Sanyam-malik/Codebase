@@ -2,8 +2,8 @@ package Strings;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/reverse-the-string_799927
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/reverse-the-string_799927
  * </metadata>
  * */
 public class ReverseString {

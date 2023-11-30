@@ -2,8 +2,8 @@ package Strings;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/remove-vowels_839735,
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/remove-vowels_839735,
  * </metadata>
  * */
 public class RemoveVowels {

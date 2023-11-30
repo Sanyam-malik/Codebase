@@ -4,8 +4,8 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/find-similarities-between-two-arrays_1229070
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/find-similarities-between-two-arrays_1229070
  * </metadata>
  * */
 public class UnionIntersection {

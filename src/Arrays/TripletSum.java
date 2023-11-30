@@ -3,8 +3,8 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Status: InComplete,
- *   URL: https://www.codingninjas.com/studio/problems/triplets-with-given-sum_893028
+ *   Status:- InComplete,
+ *   URL:- https://www.codingninjas.com/studio/problems/triplets-with-given-sum_893028
  * </metadata>
  * */
 public class TripletSum {

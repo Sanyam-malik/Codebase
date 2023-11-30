@@ -6,8 +6,8 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/match-specific-pattern_981301
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/match-specific-pattern_981301
  * </metadata>
  * */
 public class MatchPattern {

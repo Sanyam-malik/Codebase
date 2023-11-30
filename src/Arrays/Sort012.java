@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/sort-0-1-2_631055
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/sort-0-1-2_631055
  * </metadata>
  * */
 public class Sort012 {

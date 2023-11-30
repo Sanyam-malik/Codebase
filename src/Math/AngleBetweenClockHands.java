@@ -2,8 +2,8 @@ package Math;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/angle-between-hour-hand-and-minute-hand_1062726
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/angle-between-hour-hand-and-minute-hand_1062726
  * </metadata>
  * */
 public class AngleBetweenClockHands {

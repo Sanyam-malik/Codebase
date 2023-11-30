@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/problem-selection_2824965
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/problem-selection_2824965
  * </metadata>
  * */
 public class ProblemSelection {

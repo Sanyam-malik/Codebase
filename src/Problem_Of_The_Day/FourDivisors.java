@@ -6,8 +6,8 @@ import java.util.List;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/four-divisors_1463975
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/four-divisors_1463975
  * </metadata>
  * */
 public class FourDivisors {

@@ -4,9 +4,9 @@ import java.util.*;
 
 /*
 * <metadata>
-*   Status: InComplete,
-*   URL: https://www.codingninjas.com/studio/problems/power-set_1062667,
-*   Notes: Sorting of Sets Are Pending
+*   Status:- InComplete,
+*   URL:- https://www.codingninjas.com/studio/problems/power-set_1062667,
+*   Notes:- Sorting of Sets Are Pending
 * </metadata>
 * */
 public class PowerSet {

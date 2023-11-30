@@ -2,8 +2,8 @@ package Arrays;
 
 /*
  * <metadata>
- *   Status: Completed,
- *   URL: https://www.codingninjas.com/studio/problems/longest-mountain-subarray_893069
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/longest-mountain-subarray_893069
  * </metadata>
  * */
 public class LongestMountainSubarray {

@@ -5,9 +5,9 @@ import java.util.Set;
 
 /*
  * <metadata>
- *   Status: Partially Completed,
- *   URL: https://www.codingninjas.com/studio/problems/subarray-with-distinct-integers_893062,
- *   Notes: Optimization Required
+ *   Status:- Partially Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/subarray-with-distinct-integers_893062,
+ *   Notes:- Optimization Required
  * </metadata>
  * */
 public class SubarrayDistinctIntegers {
