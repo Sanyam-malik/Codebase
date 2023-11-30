@@ -1,5 +1,11 @@
 package ProblemOfDay;
 import java.util.*;
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/pretty-json_1112618
+ * </metadata>
+ * */
 public class PrettyJSON {
 
     public static ArrayList<String> prettyJSON(String str) {

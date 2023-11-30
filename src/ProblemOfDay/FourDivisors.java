@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/four-divisors_1463975
+ * </metadata>
+ * */
 public class FourDivisors {
 
     public static int sumFourDivisors(ArrayList<Integer> arr, int n) {

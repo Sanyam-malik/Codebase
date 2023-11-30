@@ -5,6 +5,12 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/print-the-pattern_893299
+ * </metadata>
+ * */
 public class PrintPattern {
 
     public static String[] NumberPattern(int n) {

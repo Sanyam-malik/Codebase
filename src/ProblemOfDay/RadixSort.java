@@ -2,8 +2,14 @@ package ProblemOfDay;
 
 import java.util.Arrays;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/radix-sort_4605994
+ * </metadata>
+ * */
 public class RadixSort {
-    public static void radixSort(int[] arr) {
+    public static int[] radixSort(int n, int[] arr) {
         // Find the maximum number to know the number of digits
         int max = Arrays.stream(arr).max().getAsInt();
 
@@ -11,6 +17,8 @@ public class RadixSort {
         for (int exp = 1; max / exp > 0; exp *= 10) {
             countingSort(arr, exp);
         }
+
+        return arr;
     }
 
     private static void countingSort(int[] arr, int exp) {
@@ -48,7 +56,7 @@ public class RadixSort {
 
         System.out.println("Original Array: " + Arrays.toString(arr));
 
-        radixSort(arr);
+        radixSort(0, arr);
 
         System.out.println("Sorted Array: " + Arrays.toString(arr));
     }

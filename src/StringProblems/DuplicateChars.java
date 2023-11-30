@@ -3,6 +3,13 @@ package StringProblems;
 import java.util.ArrayList;
 import java.util.*;
 
+/*
+ * <metadata>
+ *   Status: InComplete,
+ *   URL: https://www.codingninjas.com/studio/problems/duplicate-characters_3189116,
+ *   Notes: Partially accepted
+ * </metadata>
+ * */
 public class DuplicateChars {
 
     public class Pair {

@@ -2,6 +2,12 @@ package ProblemOfDay;
 
 import java.util.*;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/find-smallest-integer_973253
+ * </metadata>
+ * */
 public class FindSmallestInteger {
 
     public static int findSmallestInteger(int[] arr) {

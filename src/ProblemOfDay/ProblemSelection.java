@@ -2,6 +2,12 @@ package ProblemOfDay;
 
 import java.util.Arrays;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/problem-selection_2824965
+ * </metadata>
+ * */
 public class ProblemSelection {
 
     public static long maxValue(int[] A, int k){

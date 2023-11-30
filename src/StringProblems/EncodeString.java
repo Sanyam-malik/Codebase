@@ -1,5 +1,11 @@
 package StringProblems;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/encode-the-message_699836
+ * </metadata>
+ * */
 public class EncodeString {
     public static String encode(String message) {
         StringBuilder sb = new StringBuilder();

@@ -1,5 +1,11 @@
 package ProblemOfDay;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/ninja-and-the-storyteller_1264947
+ * </metadata>
+ * */
 public class NinjaStoryteller {
 
     public static int countStories(int x, int y, int z) {

@@ -1,5 +1,11 @@
 package StringProblems;
 import java.util.*;
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/anagram-difference_799485
+ * </metadata>
+ * */
 public class AnagramDifference {
 
     public static int getMinimumAnagramDifference(String str1, String str2) {

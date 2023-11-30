@@ -1,5 +1,11 @@
 package ProblemOfDay;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/maximum-swap_1262144
+ * </metadata>
+ * */
 public class MaximumSwap {
 
     public static int maximumSwap(int n){
