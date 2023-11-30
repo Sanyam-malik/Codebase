@@ -1,4 +1,4 @@
-package BitManipulation;
+package Bit_Manipulation;
 
 public class UpdateBit {
     public static void main(String args[]) {

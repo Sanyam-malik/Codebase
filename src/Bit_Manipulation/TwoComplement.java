@@ -1,4 +1,4 @@
-package BitManipulation;
+package Bit_Manipulation;
 
 public class TwoComplement {
     public static void main(String[] args) {

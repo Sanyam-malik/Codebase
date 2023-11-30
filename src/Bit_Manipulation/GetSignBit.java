@@ -1,4 +1,4 @@
-package BitManipulation;
+package Bit_Manipulation;
 
 public class GetSignBit {
     public static void main(String[] args) {
