@@ -1,5 +1,11 @@
 package StringProblems;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/check-if-one-string-is-a-rotation-of-another-string_1115683
+ * </metadata>
+ * */
 public class RotationofOther {
 
     public static int isCyclicRotation(String p, String q)  {
@@ -18,6 +24,17 @@ public class RotationofOther {
         }
         return 0;
     }
+
+    /*public static int isCyclicRotation(String p, String q) {
+        if (p.length() != q.length()) {
+            return 0; // Lengths are different, not a cyclic rotation
+        }
+
+        String doubledP = p + p;
+        if (doubledP.contains(q)) {
+            return 1; // q is a cyclic rotation of p
+        }
+    }*/
 
     public static void main(String[] a) {
         System.out.println(isCyclicRotation("abac", "baca"));

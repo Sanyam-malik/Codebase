@@ -1,5 +1,11 @@
 package StringProblems;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/remove-vowels_839735,
+ * </metadata>
+ * */
 public class RemoveVowels {
     public static String removeVowels(String str) {
         StringBuilder sb = new StringBuilder();

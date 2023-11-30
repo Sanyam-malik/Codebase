@@ -3,6 +3,13 @@ package StringProblems;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ * <metadata>
+ *   Status: InComplete,
+ *   URL: Unknown,
+ *   Notes: Memory Out of bounds
+ * </metadata>
+ * */
 public class NextLargestPalindrome {
 
     public static String nextLargestPalindrome(String number, int length) {

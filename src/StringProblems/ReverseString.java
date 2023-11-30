@@ -3,9 +3,16 @@ package StringProblems;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/reverse-the-string_799927
+ * </metadata>
+ * */
 public class ReverseString {
 
-    public static void reverseArray(char[] a) {
+    public static String reverseString(String str) {
+        char[] a = str.toCharArray();
         int start = 0;
         int end = a.length - 1;
 
@@ -16,12 +23,11 @@ public class ReverseString {
             start++;
             end--;
         }
+        return new String(a);
     }
 
     public static void main(String[] a) {
         String s = "hello";
-        char[] arr = s.toCharArray();
-        reverseArray(arr);
-        System.out.println(Arrays.toString(arr));
+        System.out.println(reverseString(s));
     }
 }

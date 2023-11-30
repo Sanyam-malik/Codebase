@@ -2,6 +2,13 @@ package StringProblems;
 
 import java.util.Stack;
 
+/*
+ * <metadata>
+ *   Status: InComplete,
+ *   URL: https://www.codingninjas.com/studio/problems/multiply-strings_982763,
+ *   Notes: Memory Out of bounds
+ * </metadata>
+ * */
 public class MultiplyStrings {
 
     public static String multiplyStrings(String a, String b) {

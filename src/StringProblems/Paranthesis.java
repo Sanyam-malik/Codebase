@@ -2,6 +2,12 @@ package StringProblems;
 
 import java.util.Stack;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/minimum-parentheses-_1075018,
+ * </metadata>
+ * */
 public class Paranthesis {
 
     public static int minimumParentheses(String p) {

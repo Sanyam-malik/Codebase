@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.*;
 
+/*
+ * <metadata>
+ *   Status: Completed,
+ *   URL: https://www.codingninjas.com/studio/problems/match-specific-pattern_981301
+ * </metadata>
+ * */
 public class MatchPattern {
 
     public static List<String> matchSpecificPattern(List<String> words, int n, String pattern) {

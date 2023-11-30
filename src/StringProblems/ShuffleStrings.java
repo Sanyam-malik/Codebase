@@ -2,6 +2,12 @@ package StringProblems;
 
 import java.util.*;
 
+/*
+ * <metadata>
+ *   Status: InComplete,
+ *   URL: https://www.codingninjas.com/studio/problems/shuffle-two-strings_1115692
+ * </metadata>
+ * */
 public class ShuffleStrings {
 
     public static boolean isInterleave(String a, String b, String c) {
