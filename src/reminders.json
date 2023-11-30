@@ -1,20 +1,20 @@
 [
   {
-    "name": "Problem_Of_The_Day",
+    "name": "Problem Of The Day",
     "desc": "Solve Problem Everyday to enhance your skills.",
     "recurrence": "DAILY",
     "start_time": "00:00",
     "end_time": "24:00"
   },
   {
-    "name": "Weekly_Contest",
+    "name": "Weekly Contest",
     "desc": "Solve Problem Every Weekday to enhance your skills.",
     "recurrence": "EVERY SATURDAY",
     "start_time": "18:30",
     "end_time": "20:00"
   },
   {
-    "name": "Monthly_Contest",
+    "name": "Monthly Contest",
     "desc": "Solve Problem Every Month to enhance your skills.",
     "recurrence": "MONTHLY"
   },
