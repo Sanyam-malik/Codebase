@@ -5,7 +5,7 @@ import java.util.Stack;
 /*
  * <metadata>
  *   Status:- Completed,
- *   URL:- https://www.codingninjas.com/studio/problems/redundant-brackets_975473,
+ *   URL:- https://www.codingninjas.com/studio/problems/palindrom-linked-list_799352,
  *   Date:- 2023-12-03
  * </metadata>
  * */
