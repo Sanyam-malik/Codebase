@@ -1,5 +1,7 @@
 package Stacks;
 
+import java.util.Stack;
+
 /*
  * <metadata>
  *   Status:- Completed,
@@ -19,9 +21,20 @@ public class PalindromeLinkedList {
     }
 
     public static boolean isPalindrome(LinkedListNode<Integer> head) {
-        int size = getSize(head);
+        LinkedListNode<Integer> currNode = head;
+        Stack<Integer> stack = new Stack<>();
+        while(currNode != null) {
+            stack.push(currNode.data);
+            currNode = currNode.next;
+        }
 
-
+        currNode = head;
+        while(currNode != null) {
+            if(stack.peek() == currNode.data) stack.pop();
+            else return false;
+            currNode = currNode.next;
+        }
+        return stack.isEmpty();
     }
 
     private static int getSize(LinkedListNode<Integer> head) {
