@@ -1,0 +1,46 @@
+package Stacks;
+
+/*
+ * <metadata>
+ *   Status:- Completed,
+ *   URL:- https://www.codingninjas.com/studio/problems/redundant-brackets_975473,
+ *   Date:- 2023-12-03
+ * </metadata>
+ * */
+public class PalindromeLinkedList {
+
+    static class LinkedListNode<T> {
+        T data;
+        LinkedListNode<T> next;
+
+        public LinkedListNode(T data) {
+            this.data = data;
+        }
+    }
+
+    public static boolean isPalindrome(LinkedListNode<Integer> head) {
+        int size = getSize(head);
+
+
+    }
+
+    private static int getSize(LinkedListNode<Integer> head) {
+        int size = 0;
+        while(head.next != null) {
+            head = head.next;
+            size+=1;
+        }
+        size+=1;
+        return size;
+    }
+
+    public static void main(String args[]) {
+        LinkedListNode<Integer> head = new LinkedListNode<>(1);
+        head.next = new LinkedListNode<>(2);
+        head.next.next = new LinkedListNode<>(3);
+        head.next.next.next = new LinkedListNode<>(2);
+        head.next.next.next.next = new LinkedListNode<>(1);
+        System.out.println(isPalindrome(head));
+    }
+
+}
