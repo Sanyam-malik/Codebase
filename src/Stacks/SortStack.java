@@ -10,7 +10,7 @@ import java.util.*;
  * </metadata>
  * */
 public class SortStack {
-    /*public static void sortStack(Stack<Integer> stack) {
+    /*public static void sortStack(StackOperations<Integer> stack) {
         // Write your code here.
         Collections.sort(stack);
     }*/

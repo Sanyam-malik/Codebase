@@ -15,7 +15,7 @@ public class ImplementQueue {
         stack = new Stack<>();
     }
 
-    /*----------------- Public Functions of Queue -----------------*/
+    /*----------------- Public Functions of QueueOperations -----------------*/
 
     boolean isEmpty() {
         return stack.isEmpty();
