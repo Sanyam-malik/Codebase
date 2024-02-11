@@ -19,6 +19,6 @@ public class ArrayListInterator<T> implements CustomIterator<T> {
 
     @Override
     public T next() {
-        return dynamicArray[index++];
+        return dynamicArray[++index];
     }
 }

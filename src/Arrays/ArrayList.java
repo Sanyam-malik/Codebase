@@ -123,6 +123,10 @@ public class ArrayList<T> implements CustomList<T>, CustomIteratable<T> {
         list.add(89);
         list.add(3);
         list.add(46);
+        CustomIterator<Integer> iterator = list.iterator();
+        while (iterator.hasNext()) {
+            System.out.println(iterator.next());
+        }
     }
 }
 
