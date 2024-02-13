@@ -9,7 +9,8 @@ import java.util.Set;
  *   Status:- Needs Improvement,
  *   URL:- https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k,
  *   Date:- 2024-02-12,
- *   Notes: TLE Error
+ *   Type:- Medium
+ *   Notes:- TLE Error
  * </metadata>
  * */
 public class MaxSumSubArray {
