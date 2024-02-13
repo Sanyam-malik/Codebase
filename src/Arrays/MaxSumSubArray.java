@@ -3,6 +3,15 @@ package Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
+/*
+ * <metadata>
+ *   Name:- Maximum Sum of Distinct Subarrays With Length K,
+ *   Status:- Needs Improvement,
+ *   URL:- https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k,
+ *   Date:- 2024-02-12,
+ *   Notes: TLE Error
+ * </metadata>
+ * */
 public class MaxSumSubArray {
         public long maximumSubarraySum(int[] nums, int k) {
             int start=0;

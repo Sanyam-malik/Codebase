@@ -1,6 +1,13 @@
 package Arrays;
-
-
+/*
+ * <metadata>
+ *   Name:- Max Consecutive Ones,
+ *   Status:- Completed,
+ *   URL:- https://leetcode.com/problems/max-consecutive-ones,
+ *   Date:- 2024-02-12,
+ *   Notes: No Notes
+ * </metadata>
+ * */
 public class MaxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {
         int prevCount = 0;
