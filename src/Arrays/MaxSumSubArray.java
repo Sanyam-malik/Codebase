@@ -9,7 +9,7 @@ import java.util.Set;
  *   Status:- Needs Improvement,
  *   URL:- https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k,
  *   Date:- 2024-02-12,
- *   Type:- Medium,
+ *   Level:- Medium,
  *   Notes:- TLE Error,
  * </metadata>
  * */
