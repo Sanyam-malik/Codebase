@@ -8,8 +8,8 @@ import java.util.Arrays;
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/merge-sorted-array,
  *   Date:- 2024-02-12,
- *   Type:- Easy
- *   Notes:- No Notes
+ *   Type:- Easy,
+ *   Notes:- No Notes,
  * </metadata>
  * */
 public class MergeSortedArray {
