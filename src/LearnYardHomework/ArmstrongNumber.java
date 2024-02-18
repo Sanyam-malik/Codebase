@@ -1,4 +1,4 @@
-package Homework;
+package LearnYardHomework;
 
 public class ArmstrongNumber {
     static String armstrongNumber(int n){

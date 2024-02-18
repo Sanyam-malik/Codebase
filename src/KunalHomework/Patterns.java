@@ -1,4 +1,4 @@
-package Homework;
+package KunalHomework;
 
 public class Patterns {
 
