@@ -1,4 +1,4 @@
-package KunalHomework;
+package KunalHomework.Arrays;
 
 /*
  * <metadata>
@@ -25,7 +25,7 @@ public class MatrixDiagonalSum {
             int r = n-1-c;
             rightD += mat[r][c];
         }
-        
+
         return isEven ? leftD+rightD : leftD+rightD - middle;
     }
 

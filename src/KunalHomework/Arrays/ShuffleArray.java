@@ -1,4 +1,4 @@
-package KunalHomework;
+package KunalHomework.Arrays;
 
 /*
  * <metadata>

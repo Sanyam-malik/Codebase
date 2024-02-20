@@ -1,4 +1,4 @@
-package KunalHomework;
+package KunalHomework.Arrays;
 
 import java.util.ArrayList;
 import java.util.List;

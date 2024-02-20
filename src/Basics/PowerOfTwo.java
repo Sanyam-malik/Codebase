@@ -17,7 +17,6 @@ public class PowerOfTwo {
     * */
     public static boolean isPowerOfTwo(int n) {
         double temp = (Math.log(n)/Math.log(2));
-        System.out.println(temp);
         return temp % 1 == 0;
     }
 
