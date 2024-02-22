@@ -9,7 +9,7 @@ package KunalHomework.Arrays;
  *   URL:- https://leetcode.com/problems/maximum-subarray,
  *   Date:- 2024-02-12,
  *   Level:- Medium,
- *   Notes:- TLE Error,
+ *   Notes:- No Notes,
  * </metadata>
  * */
 public class MaxSubArray {
