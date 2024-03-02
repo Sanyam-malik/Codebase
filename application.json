@@ -1,0 +1,33 @@
+{
+  "dark": {
+    "primaryColor": "#09a430",
+    "secondaryColor": "#068626",
+    "headerColor": "rgb(40 40 40/1)",
+    "backgroundColor": "rgb(26, 26, 26/1)",
+    "alternativeTableColor": "rgba(255, 255, 255, 0.12)",
+    "textPrimaryColor": "#f5f5f5bf",
+    "textSecondaryColor": "white",
+    "boxColor": "#1E1E1E",
+    "boxShadow": "rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px",
+    "paginationDisabledBGColor": "#39383840",
+    "paginationActiveBGColor" : "rgb(92 92 92/1)",
+    "paginationBGColor": "#3c3b3b",
+    "paginationTXTColor": "white"
+  },
+
+  "light": {
+    "primaryColor": "#09a430",
+    "secondaryColor": "#068626",
+    "headerColor": "rgb(40 40 40/1)",
+    "backgroundColor": "rgb(26, 26, 26/1)",
+    "alternativeTableColor": "rgba(255, 255, 255, 0.12)",
+    "textPrimaryColor": "#f5f5f5bf",
+    "textSecondaryColor": "white",
+    "boxColor": "#1E1E1E",
+    "boxShadow": "rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px",
+    "paginationDisabledBGColor": "#39383840",
+    "paginationActiveBGColor" : "rgb(92 92 92/1)",
+    "paginationBGColor": "#3c3b3b",
+    "paginationTXTColor": "white"
+  }
+}
