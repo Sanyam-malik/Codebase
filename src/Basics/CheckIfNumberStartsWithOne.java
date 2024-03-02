@@ -15,11 +15,7 @@ public class CheckIfNumberStartsWithOne {
         List<Integer> list = List.of(123, 456, 789, 100);
         list = list.stream().filter(n -> {
             int nTimes = (int)Math.log10(n);
-            while (nTimes > 0) {
-                n = n/10;
-                nTimes--;
-            }
-            return n == 1;
+            return n / (int) Math.pow(10, nTimes) == 1;
         }).toList();
         System.out.println(list);
 
