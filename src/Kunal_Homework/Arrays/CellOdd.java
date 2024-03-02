@@ -1,4 +1,4 @@
-package KunalHomework.Arrays;
+package Kunal_Homework.Arrays;
 
 public class CellOdd {
     public static int oddCells(int m, int n, int[][] indices) {
