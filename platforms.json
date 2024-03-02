@@ -2,11 +2,26 @@
   {
     "name": "CodingNinjas",
     "url": "https://codingninjas.com",
-    "icon": ""
+    "icon": "https://files.codingninjas.in/cnlogo-32511.png"
+  },
+  {
+    "name": "CodeChef",
+    "url": "https://www.codechef.com",
+    "icon": "https://avatars.githubusercontent.com/u/11960354?v=4"
+  },
+  {
+    "name": "HackerRank",
+    "url": "https://www.hackerrank.com",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/800px-HackerRank_logo.png"
+  },
+  {
+    "name": "CodeForces",
+    "url": "https://codeforces.com",
+    "icon": "https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR"
   },
   {
     "name": "LeetCode",
     "url": "https://leetcode.com",
-    "icon": ""
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
   }
 ]
