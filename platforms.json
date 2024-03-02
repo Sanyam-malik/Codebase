@@ -1,27 +1,32 @@
 [
   {
-    "name": "CodingNinjas",
+    "name": "Codingninjas",
     "url": "https://codingninjas.com",
     "icon": "https://files.codingninjas.in/cnlogo-32511.png"
   },
   {
-    "name": "CodeChef",
+    "name": "Codechef",
     "url": "https://www.codechef.com",
     "icon": "https://avatars.githubusercontent.com/u/11960354?v=4"
   },
   {
-    "name": "HackerRank",
+    "name": "Hackerrank",
     "url": "https://www.hackerrank.com",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/800px-HackerRank_logo.png"
   },
   {
-    "name": "CodeForces",
+    "name": "Codeforces",
     "url": "https://codeforces.com",
     "icon": "https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR"
   },
   {
-    "name": "LeetCode",
+    "name": "Leetcode",
     "url": "https://leetcode.com",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+  },
+  {
+    "name": "Geekforgeeks",
+    "url": "https://www.geeksforgeeks.org",
+    "icon": "https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64"
   }
 ]
