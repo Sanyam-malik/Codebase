@@ -7,7 +7,6 @@ package Basics;
  *   URL:- https://www.geeksforgeeks.org/problems/prime-number2314,
  *   Date:- 2024-02-15,
  *   Level:- Easy,
- *   Companies:- Google:Microsoft,
  *   Notes:- No Notes Needed,
  * </metadata>
  * */
