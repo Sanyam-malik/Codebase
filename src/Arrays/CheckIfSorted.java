@@ -4,11 +4,12 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Check if array is sorted,
+ *   Description:- Given an array arr[] of size N check if it is sorted in non-decreasing order or not.
  *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701,
+ *   URL:- https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- By Comparing the previous element with current element we can check if the flow is ok or not.,
  * </metadata>
  * */
 public class CheckIfSorted {
