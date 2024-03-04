@@ -10,7 +10,7 @@ package Arrays;
  *   URL:- https://www.geeksforgeeks.org/problems/count-sorted-rows2702,
  *   Date:- 2024-02-28,
  *   Level:- Easy,
- *   Notes:- Solution - Iterate for Rows and inside iterate for column and compare it to next element and set the incr and decr variables if the length of either of these is equal to matrix size then true else false,
+ *   Notes:- Solution - Iterate for Rows and inside iterate for column and compare it to next element and set the incr and decr variables if the length of either of these is equal to column size then increse count else do nothing,
  * </metadata>
  * */
 public class CountSortedRows {
