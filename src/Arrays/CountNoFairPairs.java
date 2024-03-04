@@ -11,7 +11,7 @@ import java.util.*;
  *   URL:- https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target,
  *   Date:- 2024-02-27,
  *   Level:- Easy,
- *   Notes:- Solution 1 Hint - Two for Loops? </br></br> Solution 2 Hint Sort and iterate once using two pointers (N Log N)?,
+ *   Notes:- Solution 1 Hint - Two for Loops? </br></br> Solution 2 Hint - Sort and iterate once using two pointers (N Log N)?,
  * </metadata>
  * */
 public class CountNoFairPairs {
