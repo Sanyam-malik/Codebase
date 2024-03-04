@@ -3,11 +3,15 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Count Elements With Maximum Frequency,
+ *   Description: You are given an array nums consisting of positive integers.</br>
+        Return the total frequencies of elements in nums such that those elements all have the maximum frequency.</br>
+        The frequency of an element is the number of occurrences of that element in the array.,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/count-elements-with-maximum-frequency,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- Solution 1 Hint - Have Two Variables max and count and iterate over 2 times?</br>
+ *      Solution 2 Hint - Maybe Use Extra Space Probably Array or HashMap?,
  * </metadata>
  * */
 public class CountMaxFreq {
