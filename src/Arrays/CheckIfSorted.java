@@ -4,7 +4,8 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Check if array is sorted,
- *   Description:- Given an array arr[] of size N check if it is sorted in non-decreasing order or not.,
+ *   Description:- Given an array arr[] of size N check if it is sorted in non-decreasing order or not.</br></br>
+ *      <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMDEtNTUtMjcucG5n&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1,
  *   Date:- 2024-02-23,
