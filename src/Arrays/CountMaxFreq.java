@@ -5,7 +5,8 @@ package Arrays;
  *   Name:- Count Elements With Maximum Frequency,
  *   Description:- You are given an array nums consisting of positive integers.</br></br>
         Return the total frequencies of elements in nums such that those elements all have the maximum frequency.</br></br>
-        The frequency of an element is the number of occurrences of that element in the array.,
+        The frequency of an element is the number of occurrences of that element in the array.</br></br>
+        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMDItMDEtNDcucG5n&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/count-elements-with-maximum-frequency,
  *   Date:- 2024-02-23,
