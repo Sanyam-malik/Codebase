@@ -3,11 +3,13 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Rotate Image,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMjItNTgtMjIucG5n&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/rotate-image,
  *   Date:- 2024-02-21,
+ *   Companies:- Uber:Cisco:Apple:Adobe:Amazon:Google:Rubrik:Facebook:Microsoft:Bloomberg,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- Transpose the Matrix and Switch Columns for 90 degree if more than that divide degree by 90 and repeat this n times,
  * </metadata>
  * */
 public class RotateImage {
