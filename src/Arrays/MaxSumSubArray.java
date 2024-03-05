@@ -6,43 +6,31 @@ import java.util.Set;
 /*
  * <metadata>
  *   Name:- Maximum Sum of Distinct Subarrays With Length K,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTgtNDEtMjcucG5n&version_id=null">,
  *   Status:- Needs Improvement,
  *   URL:- https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k,
  *   Date:- 2024-02-12,
  *   Level:- Medium,
- *   Notes:- TLE Error,
+ *   Notes:- Solution1 - Uses the sliding window property with length k if the elements are distinct then check for equals if not then slide by 1 element</br></br>
+ *          Solution2 - Uses the Prefix Sum Technique with window shrinking,
  * </metadata>
  * */
 public class MaxSumSubArray {
-        public long maximumSubarraySum(int[] nums, int k) {
-            int start=0;
-            int end=start+k;
-
-            long maxSum = 0;
-            while(start < nums.length && end <= nums.length) {
-                long count = additionOfPair(start, end, nums, k);
-                if(count > 0) {
-                    maxSum = Math.max(maxSum, count);
-                }
-                // Increments
-                start = start+1;
-                end = start+k;
+    public long maximumSubarraySum(int[] nums, int k) {
+        Set<Integer> set = new HashSet<>();
+        long max = 0, sum = 0;
+        int windowStart = 0;
+        for (int i = 0; i < nums.length; i++) {
+            while (set.contains(nums[i]) || set.size() == k) {
+                set.remove(nums[windowStart]);
+                sum -= nums[windowStart++];
             }
-            return maxSum;
+            sum += nums[i];
+            set.add(nums[i]);
+            if (set.size() == k) {
+                max = Math.max(max, sum);
+            }
         }
-
-        long additionOfPair(int start, int end, int[] nums, int k) {
-            Set<Integer> set = new HashSet<>();
-            long count = 0;
-
-            for (int i = start; i < end; i++) {
-                set.add(nums[i]);
-                count += nums[i];
-            }
-
-            if (set.size() < k) {
-                return -1;
-            }
-            return count;
-        }
+        return max;
+    }
 }
