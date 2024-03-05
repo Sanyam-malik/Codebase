@@ -8,7 +8,7 @@ package Arrays;
  *   URL:- https://leetcode.com/problems/matrix-diagonal-sum,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
- *   Companies: Amazon:Bloomberg
+ *   Companies:- Amazon:Bloomberg
  *   Notes:- Solution - There are two cases for even column matrix and odd column matrix</br></br>.
  *          Old Matrix - Get all the left diagonal and right diagonal - element in the middle </br></br>
  *          Even Matrix - Get all the left diagonal and right diagonal,
