@@ -6,11 +6,12 @@ import java.util.List;
 /*
  * <metadata>
  *   Name:- Lucky Numbers in a Matrix,
+ *  Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTMtMzUtMTMucG5n&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/lucky-numbers-in-a-matrix,
  *   Date:- 2024-02-21,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- Solution - First get index of the min element in column and find max element in row and compare them if they are same add it.,
  * </metadata>
  * */
 public class LuckyNumbers {
