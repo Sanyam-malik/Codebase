@@ -6,7 +6,7 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Richest Customer Wealth,
- *   Description:- http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMjItNDctNDMucG5n&version_id=null,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMjItNDctNDMucG5n&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/richest-customer-wealth,
  *   Date:- 2024-02-27,
