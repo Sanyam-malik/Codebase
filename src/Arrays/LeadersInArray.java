@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * <metadata>
  *   Name:- Leaders in an array,
  *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620,
+ *   URL:- https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,

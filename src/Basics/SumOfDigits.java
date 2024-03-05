@@ -4,7 +4,7 @@ package LearnYardHomework;
  * <metadata>
  *   Name:- Sum Of Digits,
  *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/sum-of-digits1742,
+ *   URL:- https://www.geeksforgeeks.org/problems/sum-of-digits1742/1,
  *   Date:- 2024-02-14,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,

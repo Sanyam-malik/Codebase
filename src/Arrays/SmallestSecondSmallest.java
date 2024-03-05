@@ -4,7 +4,7 @@ package Arrays;
  * <metadata>
  *   Name:- Find the smallest and second-smallest element in an array,
  *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226,
+ *   URL:- https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,

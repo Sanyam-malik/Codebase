@@ -4,7 +4,7 @@ package Arrays;
  * <metadata>
  *   Name:- Sum of Array,
  *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/sum-of-array2326,
+ *   URL:- https://www.geeksforgeeks.org/problems/sum-of-array2326/1,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,

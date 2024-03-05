@@ -7,7 +7,7 @@ package Arrays;
  *   Status:- Completed,
  *   Description:- Given two integers N and M and a matrix of dimensions N*M. Count all the rows in a matrix that are sorted either in strictly increasing order or in strictly decreasing order.
      </br></br><img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMDItMTktMTIucG5n&version_id=null">,
- *   URL:- https://www.geeksforgeeks.org/problems/count-sorted-rows2702,
+ *   URL:- https://www.geeksforgeeks.org/problems/count-sorted-rows2702/1,
  *   Date:- 2024-02-28,
  *   Level:- Easy,
  *   Notes:- Solution - Iterate for Rows and inside iterate for column and compare it to next element and set the incr and decr variables if the length of either of these is equal to column size then increse count else do nothing,

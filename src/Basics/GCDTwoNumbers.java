@@ -4,7 +4,7 @@ package LearnYardHomework;
  * <metadata>
  *   Name:- GCD of two numbers,
  *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459,
+ *   URL:- https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1,
  *   Date:- 2024-02-14,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,

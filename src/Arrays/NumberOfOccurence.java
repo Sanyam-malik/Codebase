@@ -4,7 +4,7 @@ package Arrays;
  * <metadata>
  *   Name:- Number of occurrence,
  *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/number-of-occurrence2259,
+ *   URL:- https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,

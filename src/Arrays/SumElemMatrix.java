@@ -6,7 +6,7 @@ package Arrays;
  * <metadata>
  *   Name:- Sum of elements in a matrix,
  *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000,
+ *   URL:- https://www.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000/1,
  *   Date:- 2024-02-27,
  *   Level:- Easy,
  *   Notes:- No Notes,

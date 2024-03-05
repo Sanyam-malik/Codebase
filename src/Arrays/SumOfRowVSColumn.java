@@ -5,7 +5,7 @@ package Arrays;
  * <metadata>
  *   Name:- Sums of i-th row and i-th column,
  *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054,
+ *   URL:- https://www.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1,
  *   Date:- 2024-02-27,
  *   Level:- Easy,
  *   Notes:- No Notes,

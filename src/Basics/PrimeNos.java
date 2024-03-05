@@ -4,7 +4,7 @@ package Basics;
  * <metadata>
  *   Name:- Prime Number,
  *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/prime-number2314,
+ *   URL:- https://www.geeksforgeeks.org/problems/prime-number2314/1,
  *   Date:- 2024-02-15,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,
