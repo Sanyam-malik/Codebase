@@ -5,11 +5,13 @@ import java.util.Arrays;
 /*
  * <metadata>
  *   Name:- Merge Sorted Array,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTgtNDktMDUucG5n&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/merge-sorted-array,
  *   Date:- 2024-02-12,
  *   Level:- Easy,
- *   Notes:- No Notes,
+ *   Companies:- Uber:Apple:Amazon:Shopee:Indeed:Oracle:Facebook:LinkedIn:Microsoft:Bloomberg,
+ *   Notes:- Compare and merge you could use a new array or use hint,
  * </metadata>
  * */
 public class MergeSortedArray {
