@@ -8,10 +8,11 @@ import java.util.Set;
  * <metadata>
  *   Name:- Key Pair,
  *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/key-pair5616,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTMtMTctNTIucG5n&version_id=null">,
+ *   URL:- https://www.geeksforgeeks.org/problems/key-pair5616/1,
  *   Date:- 2024-02-26,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- Solution 1 - Two Four Loops? </br></br>Solution 2 - Iterate and save elements and check if the diff matches?,
  * </metadata>
  * */
 public class KeyPair {
