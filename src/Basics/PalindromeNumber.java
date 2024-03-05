@@ -8,7 +8,7 @@ package Basics;
  *   URL:- https://leetcode.com/problems/palindrome-number/description/,
  *   Date:- 2024-03-05,
  *   Level:- Easy,
- *   Companies:- Uber:Adobe:Apple:Yahoo:Google:Amazon:Facebook:Bloomberg:Accenture
+ *   Companies:- Uber:Adobe:Apple:Yahoo:Google:Amazon:Facebook:Bloomberg:Accenture,
  *   Notes:- Solution - Divide and Modulus strategy ,
  * </metadata>
  * */

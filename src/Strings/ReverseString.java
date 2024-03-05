@@ -8,7 +8,7 @@ package Strings;
  *   URL:- https://leetcode.com/problems/reverse-string/description,
  *   Date:- 2024-03-05,
  *   Level:- Easy,
- *   Companies:- Apple:Amazon:TCS:Intel:Adobe:Facebook:Microsoft
+ *   Companies:- Apple:Amazon:TCS:Intel:Adobe:Facebook:Microsoft,
  *   Notes:- Solution - Two pointers with replacing each time,
  * </metadata>
  * */
