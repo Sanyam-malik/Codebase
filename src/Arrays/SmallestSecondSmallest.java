@@ -3,11 +3,12 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Find the smallest and second-smallest element in an array,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTgtMjctMzcucG5n&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- Solution - To Find the smallest we have to find the smallest element with its index and using that we can find the second smallest by excluding that index from our search,
  * </metadata>
  * */
 public class SmallestSecondSmallest {
