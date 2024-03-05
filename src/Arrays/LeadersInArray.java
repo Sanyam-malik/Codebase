@@ -8,11 +8,12 @@ import java.util.ArrayList;
 /*
  * <metadata>
  *   Name:- Leaders in an array,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTMtMjktNDAucG5n&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- Solution - Start from last index upto first index why last index because last one is always the leader if you start from the first there is possibility of saving the same element.,
  * </metadata>
  * */
 public class LeadersInArray {
@@ -20,7 +21,7 @@ public class LeadersInArray {
     static ArrayList<Integer> leaders(int arr[], int n){
 
         // start traversing the loop from end and
-        // maintain max element while travesing from end
+        // maintain max element while traversing from end
         // if arr[i] > max then it is a leader otherwise not
 
         ArrayList<Integer> result= new ArrayList<Integer>();
