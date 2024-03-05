@@ -6,10 +6,12 @@ import java.util.Arrays;
  * <metadata>
  *   Name:- Plus One,
  *   Status:- Completed,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTktMjYtMzAucG5n&version_id=null">,
  *   URL:- https://leetcode.com/problems/plus-one,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Companies:- Adobe:Apple:Google:Amazon:Facebook:ByteDance,
+ *   Notes:- To Add One We have to reverse the no add the 1 to reversed no first digit if it exceeds 9 then add 1 to second digit and so on.,
  * </metadata>
  * */
 public class PlusOne {
