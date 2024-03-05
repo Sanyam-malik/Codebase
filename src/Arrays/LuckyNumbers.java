@@ -11,7 +11,7 @@ import java.util.List;
  *   URL:- https://leetcode.com/problems/lucky-numbers-in-a-matrix,
  *   Date:- 2024-02-21,
  *   Level:- Easy,
- *   Companies:- Apple
+ *   Companies:- Apple,
  *   Notes:- Solution - First get index of the min element in column and find max element in row and compare them if they are same add it.,
  * </metadata>
  * */
