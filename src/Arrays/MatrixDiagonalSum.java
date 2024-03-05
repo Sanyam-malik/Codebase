@@ -3,11 +3,15 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Matrix Diagonal Sum,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTQtMTQtMjQucG5n&version_id=null">
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/matrix-diagonal-sum,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Companies: Amazon:Bloomberg
+ *   Notes:- Solution - There are two cases for even column matrix and odd column matrix</br></br>.
+ *          Old Matrix - Get all the left diagonal and right diagonal - element in the middle </br></br>
+ *          Even Matrix - Get all the left diagonal and right diagonal,
  * </metadata>
  * */
 public class MatrixDiagonalSum {
