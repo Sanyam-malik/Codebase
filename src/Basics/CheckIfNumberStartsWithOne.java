@@ -1,6 +1,7 @@
 package Basics;
 
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class CheckIfNumberStartsWithOne {
 
@@ -16,7 +17,7 @@ public class CheckIfNumberStartsWithOne {
         list = list.stream().filter(n -> {
             int nTimes = (int)Math.log10(n);
             return n / (int) Math.pow(10, nTimes) == 1;
-        }).toList();
+        }).collect(Collectors.toList());
         System.out.println(list);
 
     }
