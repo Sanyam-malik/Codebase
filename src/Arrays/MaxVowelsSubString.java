@@ -12,6 +12,7 @@ import java.util.HashSet;
  *   URL:- https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/,
  *   Date:- 2024-03-08,
  *   Level:- Medium,
+ *   Companies:- Amazon,
  *   Notes:- Wow what a question</br></br>
  *           Solution 1 Hint - Naive Approach Two for loops</br></br>
  *           Solution 2 Hint - Sliding Window calculate vowels for first window then reduce the vowels in other for loop one by one,

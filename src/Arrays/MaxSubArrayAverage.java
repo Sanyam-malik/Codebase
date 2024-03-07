@@ -11,6 +11,7 @@ package Arrays;
  *   URL:- https://leetcode.com/problems/maximum-average-subarray-i/description/,
  *   Date:- 2024-03-08,
  *   Level:- Easy,
+ *   Companies:- Facebook,
  *   Notes:-
  *           Solution 1 Hint - Naive Approach Two for loops</br></br>
  *           Solution 2 Hint - Sliding Window calculate runningSum for first window then reduce the runningSum in other for loop one by one and add next element and calculate tempAverage,
