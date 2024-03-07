@@ -13,8 +13,8 @@ import java.util.HashSet;
  *   Date:- 2024-03-08,
  *   Level:- Medium,
  *   Notes:- Wow what a question</br></br>
- *           Solution 1 Hint - Naive Approach Two for loops</br></br>,
- *           Solution 2 Hint - Sliding Window calculate vowels for first window then reduce the vowels in other for loop one by one
+ *           Solution 1 Hint - Naive Approach Two for loops</br></br>
+ *           Solution 2 Hint - Sliding Window calculate vowels for first window then reduce the vowels in other for loop one by one,
  * </metadata>
  * */
 public class MaxVowelsSubString {
