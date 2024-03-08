@@ -9,6 +9,7 @@ package Arrays;
  *   URL:- https://leetcode.com/problems/maximum-population-year/description/,
  *   Date:- 2024-03-08,
  *   Level:- Easy,
+ *   Companies:- Cisco:Google:Bloomberg,
  *   Notes:-
  *           Solution 1 Hint - Create a array of 100 length and add the 1 for range and then find the max,
  * </metadata>
