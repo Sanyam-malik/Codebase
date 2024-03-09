@@ -1,6 +1,6 @@
 {
   "light": {
-    "primaryColor": "#609502",
+    "primaryColor": "#baca25",
     "secondaryColor": "#a6a310",
     "headerColor": "rgb(255, 255, 255)",
     "backgroundColor": "rgb(255, 255, 255)",
@@ -17,7 +17,7 @@
   },
 
   "dark": {
-    "primaryColor": "#798602",
+    "primaryColor": "#609502",
     "secondaryColor": "#bfbc08",
     "headerColor": "rgb(40 40 40)",
     "backgroundColor": "rgb(26, 26, 26)",
