@@ -5,11 +5,12 @@ package Arrays;
  * <metadata>
  *   Name:- Row with max 1s,
  *   Status:- Completed,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8yMS5wbmc=&version_id=null">,
  *   URL:- https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1,
  *   Date:- 2024-02-27,
- *   Level:- Easy,
+ *   Level:- Medium,
  *   Companies:- Amazon:Microsoft:Snapdeal,
- *   Notes:- No Notes,
+ *   Notes:- Regular 2 For Loop,
  * </metadata>
  * */
 public class RowMax1s {
