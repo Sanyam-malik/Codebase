@@ -13,7 +13,7 @@ import java.util.Map;
  *   Date:- 2024-02-23,
  *   Level:- Easy,
  *   Companies:- Adobe:Amazon:Microsoft,
- *   Notes:- No Notes Needed,
+ *   Notes:- Map to store the count and then no of pairs formula,
  * </metadata>
  * */
 public class NumberOfGoodPairs {
