@@ -1,9 +1,10 @@
-package LearnYardHomework;
+package Basics;
 
 
 /*
  * <metadata>
  *   Name:- Hollow Square Star Pattern,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zNS5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://read.learnyard.com/square-star-and-rhombus-start-patterns/,
  *   Date:- 2024-02-15,

@@ -1,13 +1,14 @@
-package LearnYardHomework;
+package Basics;
 
 /*
  * <metadata>
  *   Name:- FizzBuzz,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zMy5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://www.hackerrank.com/challenges/fizzbuzz/problem,
  *   Date:- 2024-02-14,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- Simple If's Statements,
  * </metadata>
  * */
 public class FizzBuzz {

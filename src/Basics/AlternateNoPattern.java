@@ -1,13 +1,14 @@
-package LearnYardHomework;
+package Basics;
 
 /*
  * <metadata>
  *   Name:- Alternate Number Pattern,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zMi5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://codeforwin.org/c-programming/c-program-to-print-number-pattern-with-0-1-at-alternate-rows,
  *   Date:- 2024-02-15,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- At even places 0 else 1,
  * </metadata>
  * */
 public class AlternateNoPattern {

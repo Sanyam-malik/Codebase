@@ -1,13 +1,14 @@
-package LearnYardHomework;
+package Basics;
 
 /*
  * <metadata>
  *   Name:- GCD of two numbers,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zNC5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1,
  *   Date:- 2024-02-14,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- Start from 1 to minimum no of the two and check modulus,
  * </metadata>
  * */
 public class GCDTwoNumbers {
