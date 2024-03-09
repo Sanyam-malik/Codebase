@@ -17,8 +17,8 @@
   },
 
   "dark": {
-    "primaryColor": "#609502",
-    "secondaryColor": "#bfbc08",
+    "primaryColor": "#798602",
+    "secondaryColor": "#609502",
     "headerColor": "rgb(40 40 40)",
     "backgroundColor": "rgb(26, 26, 26)",
     "alternativeTableColor": "rgba(255, 255, 255, 0.12)",
