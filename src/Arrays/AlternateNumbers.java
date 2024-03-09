@@ -13,6 +13,7 @@ import java.util.List;
  *   URL:- https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1,
  *   Date:- 2024-03-07,
  *   Level:- Easy,
+ *   Companies:- Paytm:VMWare:Amazon:Microsoft:Intuit,
  *   Notes:- Solution Hint - Two Arrays Lists,
  * </metadata>
  * */

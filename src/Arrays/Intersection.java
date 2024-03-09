@@ -12,6 +12,7 @@ import java.util.*;
  *   URL:- https://www.geeksforgeeks.org/problems/common-elements1132/1,
  *   Date:- 2024-03-07,
  *   Level:- Easy,
+ *   Copanies:- VMWare:Microsoft:MAQ Software,
  *   Notes:- Solution Hint - Great Intersection Technique of All Time,
  * </metadata>
  * */
