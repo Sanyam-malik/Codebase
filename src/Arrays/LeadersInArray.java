@@ -13,6 +13,7 @@ import java.util.ArrayList;
  *   URL:- https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
+ *   Companies:- Payu:Adobe,
  *   Notes:- Solution - Start from last index upto first index why last index because last one is always the leader if you start from the first there is possibility of saving the same element.,
  * </metadata>
  * */

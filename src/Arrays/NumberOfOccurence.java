@@ -8,6 +8,7 @@ package Arrays;
  *   URL:- https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
+ *   Companies:- Zoho:Amazon:MakeMyTrip,
  *   Notes:- Using Binary search Find First Occurrence and Last Occurrence then do last - first + 1,
  * </metadata>
  * */

@@ -8,6 +8,7 @@ package Arrays;
  *   URL:- https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1,
  *   Date:- 2024-02-27,
  *   Level:- Easy,
+ *   Companies:- Amazon:Microsoft:Snapdeal,
  *   Notes:- No Notes,
  * </metadata>
  * */
