@@ -1,13 +1,14 @@
-package LearnYardHomework;
+package Basics;
 
 /*
  * <metadata>
  *   Name:- Favourite Numbers,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zMS5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://www.codechef.com/problems/FAVOURITENUM,
  *   Date:- 2024-02-15,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- Simple If Statements,
  * </metadata>
  * */
 public class FavouriteNumber {

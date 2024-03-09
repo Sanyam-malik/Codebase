@@ -1,13 +1,14 @@
-package LearnYardHomework;
+package Basics;
 
 /*
  * <metadata>
  *   Name:- Number of Common Factors,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zMC5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/number-of-common-factors,
  *   Date:- 2024-02-14,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- To find common factor we will start with 1 to the minimum element and check their modulus,
  * </metadata>
  * */
 public class CommonFactors {
