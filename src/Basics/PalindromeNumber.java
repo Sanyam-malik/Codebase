@@ -9,7 +9,7 @@ package Basics;
  *   Date:- 2024-03-05,
  *   Level:- Easy,
  *   Companies:- Uber:Adobe:Apple:Yahoo:Google:Amazon:Facebook:Bloomberg:Accenture,
- *   Notes:- Solution - Divide and Modulus strategy ,
+ *   Notes:- Solution - Divide and Modulus strategy,
  * </metadata>
  * */
 public class PalindromeNumber {

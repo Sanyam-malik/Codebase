@@ -1,8 +1,9 @@
-package LearnYardHomework;
+package Basics;
 
 /*
  * <metadata>
  *   Name:- Plus or Minus,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zNy5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://codeforces.com/problemset/problem/1807/A,
  *   Date:- 2024-02-14,

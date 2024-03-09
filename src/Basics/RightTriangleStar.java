@@ -1,8 +1,9 @@
-package LearnYardHomework;
+package Basics;
 
 /*
  * <metadata>
  *   Name:- Right triangle Star Pattern,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF80MC5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://codeforwin.org/c-programming/right-triangle-star-pattern-program-in-c,
  *   Date:- 2024-02-15,

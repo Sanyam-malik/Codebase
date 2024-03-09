@@ -3,6 +3,7 @@ package Basics;
 /*
  * <metadata>
  *   Name:- Prime Number,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zOS5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/prime-number2314/1,
  *   Date:- 2024-02-15,
