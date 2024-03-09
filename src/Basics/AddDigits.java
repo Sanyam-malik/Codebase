@@ -1,13 +1,15 @@
-package LearnYardHomework;
+package Basics;
 
 /*
  * <metadata>
  *   Name:- Add Digits,
  *   Status:- Completed,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8yOS5wbmc=&version_id=null">,
  *   URL:- https://leetcode.com/problems/add-digits,
  *   Date:- 2024-02-14,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- Modulus and Divide Technique to Sum the Digits,
+ *   Companies:- Bloomberg,
  * </metadata>
  * */
 public class AddDigits {

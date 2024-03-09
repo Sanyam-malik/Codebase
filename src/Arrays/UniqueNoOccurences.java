@@ -8,10 +8,12 @@ import java.util.Map;
  * <metadata>
  *   Name:- Unique Number of Occurrences,
  *   Status:- Completed,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8yOC5wbmc=&version_id=null">,
  *   URL:- https://leetcode.com/problems/unique-number-of-occurrences,
  *   Date:- 2024-02-27,
  *   Level:- Easy,
- *   Notes:- No Notes,
+ *   Notes:- HashMap or Array(26 length) to count Occurences,
+ *   Companies:- Adobe:Apple:Amazon:Google:Facebook:Bloomberg,
  * </metadata>
  * */
 public class UniqueNoOccurences {
