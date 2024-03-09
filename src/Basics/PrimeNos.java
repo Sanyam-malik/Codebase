@@ -7,6 +7,7 @@ package Basics;
  *   URL:- https://www.geeksforgeeks.org/problems/prime-number2314/1,
  *   Date:- 2024-02-15,
  *   Level:- Easy,
+ *   Companies:- VMWare:Amazon:SAP Labs,
  *   Notes:- No Notes Needed,
  * </metadata>
  * */

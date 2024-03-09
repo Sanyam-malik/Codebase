@@ -9,6 +9,7 @@ package Arrays;
  *   URL:- https://www.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000/1,
  *   Date:- 2024-02-27,
  *   Level:- Easy,
+ *   Companies:- Zoho,
  *   Notes:- No Notes,
  * </metadata>
  * */
