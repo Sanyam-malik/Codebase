@@ -5,10 +5,12 @@ package Kunal_Homework.Arrays;
 /*
  * <metadata>
  *   Name:- Find the Highest Altitude,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81NS5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/find-the-highest-altitude,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
+ *   Companies:- Apple:Cisco:Expedia:Incedo Inc:DE Shaw India,
  *   Notes:- No Notes Needed,
  * </metadata>
  * */
