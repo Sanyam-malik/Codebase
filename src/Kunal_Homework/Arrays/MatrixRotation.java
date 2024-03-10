@@ -6,11 +6,13 @@ import java.util.Arrays;
 /*
  * <metadata>
  *   Name:- Determine Whether Matrix Can Be Obtained By Rotation,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81OS5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation,
  *   Date:- 2024-02-21,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Companies:- Adobe,
+ *   Notes:- To Rotate Matrix by 90 Transpose the matrix and Switch the Columns,
  * </metadata>
  * */
 public class MatrixRotation {
