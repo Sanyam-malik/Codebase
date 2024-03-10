@@ -7,10 +7,12 @@ import java.util.List;
 /*
  * <metadata>
  *   Name:- Kids With the Greatest Number of Candies,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81NC5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
+ *   Companies:- Amazon,
  *   Notes:- No Notes Needed,
  * </metadata>
  * */
