@@ -4,11 +4,13 @@ package Kunal_Homework.Arrays;
 /*
  * <metadata>
  *   Name:- Flipping an Image,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81Mi5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/flipping-an-image/,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Companies: Google,
+ *   Notes:- Use Two Pointers to flip the image,
  * </metadata>
  * */
 public class FlipImage {

@@ -3,10 +3,12 @@ package Kunal_Homework.Arrays;
 /*
  * <metadata>
  *   Name:- Find Numbers with Even Number of Digits,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81MS5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/find-numbers-with-even-number-of-digits,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
+ *   Companies:- Amazon,
  *   Notes:- No Notes Needed,
  * </metadata>
  * */
