@@ -5,11 +5,13 @@ package Kunal_Homework.Arrays;
 /*
  * <metadata>
  *   Name:- Reshape the Matrix,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF82NC5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/reshape-the-matrix,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,
+ *   Companies:- Facebook:Bloomberg,
  * </metadata>
  * */
 public class ReshapeMatrix {
