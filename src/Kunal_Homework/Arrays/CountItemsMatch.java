@@ -6,10 +6,12 @@ import java.util.stream.Collectors;
 /*
  * <metadata>
  *   Name:- Count Items Matching a Rule,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81MC5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/count-items-matching-a-rule,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
+ *   Companies:- Adobe:Facebook,
  *   Notes:- No Notes Needed,
  * </metadata>
  * */
