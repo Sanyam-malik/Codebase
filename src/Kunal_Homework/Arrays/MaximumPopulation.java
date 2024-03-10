@@ -3,11 +3,13 @@ package Kunal_Homework.Arrays;
 /*
  * <metadata>
  *   Name:- Maximum Population Year,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF82MC5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/maximum-population-year,
  *   Date:- 2024-02-20,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Companies:- Cisco:Google:Bloomberg,
+ *   Notes:- Wow Great Question!!!,
  * </metadata>
  * */
 public class MaximumPopulation {
