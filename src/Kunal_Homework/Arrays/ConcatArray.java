@@ -3,10 +3,12 @@ package Kunal_Homework.Arrays;
 /*
  * <metadata>
  *   Name:- Concatenation of Array,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF80OS5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/concatenation-of-array,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
+ *   Companies:- Adobe:Google,
  *   Notes:- No Notes Needed,
  * </metadata>
  * */
