@@ -6,11 +6,13 @@ import java.util.Set;
 /*
  * <metadata>
  *   Name:- Check if the Sentence Is Pangram,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF80OC5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/check-if-the-sentence-is-pangram,
  *   Date:- 2024-02-20,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Companies:- Facebook:Goldman Sachs,
+ *   Notes:- Use Set and check it is of 26 size,
  * </metadata>
  * */
 public class CheckPangram {
