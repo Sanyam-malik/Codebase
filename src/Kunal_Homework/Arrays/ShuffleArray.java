@@ -3,11 +3,13 @@ package Kunal_Homework.Arrays;
 /*
  * <metadata>
  *   Name:- Shuffle the Array,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF82Ny5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/shuffle-the-array,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,
+ *   Companies:- Apple:Amazon,
  * </metadata>
  * */
 public class ShuffleArray {
