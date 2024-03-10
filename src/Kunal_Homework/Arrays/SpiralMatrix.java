@@ -5,11 +5,14 @@ import java.util.*;
 /*
  * <metadata>
  *   Name:- Spiral Matrix,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF83MS5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/spiral-matrix,
  *   Date:- 2024-02-28,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Notes:- Needs A LOT !!!,
+ *   Remarks:- Needs Practice,
+ *   Companies:- Jio:OYO:Zoho:Uber:Apple:Adobe:Wipro:PayTM:Cisco:Amazon:Google:Zillow:Oracle:Facebook:LiveRamp:JPMorgan:SAP Labs:Microsoft:Accenture:Cognizant:Salesforce:Browserstack,
  * </metadata>
  * */
 public class SpiralMatrix {
