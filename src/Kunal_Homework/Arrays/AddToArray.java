@@ -4,11 +4,13 @@ import java.util.*;
 /*
  * <metadata>
  *   Name:- Add to Array-Form of Integer,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF80Ni5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/add-to-array-form-of-integer,
  *   Date:- 2024-02-21,
  *   Level:- Easy,
- *   Notes:- No Notes Needed,
+ *   Companies:- Facebook,
+ *   Notes:- Reverse the Array Add the 1 to the last digit if no is greator than 10 repeat the process,
  * </metadata>
  * */
 public class AddToArray {

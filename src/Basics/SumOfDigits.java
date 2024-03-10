@@ -1,8 +1,9 @@
-package LearnYardHomework;
+package Basics;
 
 /*
  * <metadata>
  *   Name:- Sum Of Digits,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF80My5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/sum-of-digits1742/1,
  *   Date:- 2024-02-14,
