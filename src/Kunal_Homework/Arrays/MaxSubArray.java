@@ -6,10 +6,12 @@ package Kunal_Homework.Arrays;
  * <metadata>
  *   Name:- Maximum Subarray,
  *   Status:- Completed,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF82MS5wbmc=&version_id=null">,
  *   URL:- https://leetcode.com/problems/maximum-subarray,
  *   Date:- 2024-02-12,
  *   Level:- Medium,
- *   Notes:- No Notes,
+ *   Companies:- Uber:Apple:Adobe:Cisco:PayTM:Amazon:Google:Shopee:VMware:Oracle:Samsung:Infosys:LinkedIn:Facebook:JPMorgan:Docusign:Microsoft:Bloomberg:ByteDance:Salesforce:ServiceNow:Goldman Sachs:Walmart Global Tech,
+ *   Notes:- No Notes Needed,
  * </metadata>
  * */
 public class MaxSubArray {
