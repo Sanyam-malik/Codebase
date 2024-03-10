@@ -7,11 +7,13 @@ import java.util.Map;
 /*
  * <metadata>
  *   Name:- Two Sum,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF82OS5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/two-sum,
  *   Date:- 2024-02-20,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,
+ *   Companies:- IBM:Uber:Zoho:Visa:Dell:Zoom:Adobe:Apple:Yahoo:Intel:Amazon:Google:Oracle:Paypal:Intuit:Zillow:Zomato:Spotify:Expedia:Samsung:Facebook:JPMorgan:Microsoft:Bloomberg:Accenture:Salesforce:Goldman Sachs:Morgan Stanley:American Express:Walmart Global Tech,
  * </metadata>
  * */
 public class TwoSum {
