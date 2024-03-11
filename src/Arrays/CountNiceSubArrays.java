@@ -1,6 +1,9 @@
 package Arrays;
 
 
+import java.util.HashMap;
+import java.util.Map;
+
 /*
  * <metadata>
  *   Name:- Count Number of Nice Subarrays,
@@ -17,27 +20,49 @@ package Arrays;
  * */
 public class CountNiceSubArrays {
     public static int numberOfSubarrays(int[] nums, int k) {
-        int result = 0;
-        // convert to subarray with sum equal to k
-        int[] sub = new int[nums.length];
-        for(int i=0; i< nums.length;i++) {
-            if(nums[i] % 2==0) {
-                sub[i]=0;
-            } else {
-                sub[i]=1;
+        return countKOddWindowPrefixSum(nums, k);
+    }
+
+
+    static int countOddSlidingWindow(int []arr, int k ){
+        int n = arr.length;
+        int si = 0; int sum = 0;
+        int count = 0;
+        for(int cur = 0; cur<n; cur++){
+            if(arr[cur] % 2 != 0) sum++;
+            if(sum <= k) count += cur - si + 1;
+            while(si<=cur && sum > k){
+                if(arr[si]%2!=0){
+                    sum--;
+                }
+                si++;
+                if(sum <= k) count += cur - si + 1;
             }
         }
+        return count;
+    }
 
-        // saving running sums
-        int[] res = new int[sub.length];
-        res[0] = sub[0];
-        for(int i=1; i< sub.length;i++) {
-            res[i] += res[i-1];
+
+    static int countKOddWindowPrefixSum(int []arr, int k){
+        int n = arr.length;
+        Map<Integer, Integer> mp = new HashMap<>();
+        int sum = 0;
+        int ans = 0;
+        int si = 0;
+        for(int cur = 0; cur<n; cur++){
+            if(arr[cur] % 2 != 0){
+                sum++;
+            }
+            if(sum == k){
+                ans++;
+            }
+            int req = sum - k;
+            if(mp.containsKey(req)){
+                ans += mp.get(req);
+            }
+            mp.put(sum, mp.getOrDefault(sum, 0)+1);
         }
-
-        for()
-
-        return result;
+        return ans;
     }
 
     public static void main(String args[]) {
