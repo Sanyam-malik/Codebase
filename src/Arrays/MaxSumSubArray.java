@@ -11,7 +11,7 @@ import java.util.Set;
  *   URL:- https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k,
  *   Date:- 2024-02-12,
  *   Level:- Medium,
- *   Remarks:- Needs Algorithm Improvement,
+ *   Remarks:- Needs Algorithm Improvement:LearnYard Problem,
  *   Notes:- Solution1 - Uses the sliding window property with length k if the elements are distinct then check for equals if not then slide by 1 element</br></br>
  *          Solution2 - Uses the Prefix Sum Technique with window shrinking,
  * </metadata>

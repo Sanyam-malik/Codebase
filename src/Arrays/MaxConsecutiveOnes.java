@@ -7,6 +7,7 @@ package Arrays;
  *   URL:- https://leetcode.com/problems/max-consecutive-ones,
  *   Date:- 2024-02-12,
  *   Level:- Easy,
+ *   Remarks:- LearnYard Problem,
  *   Notes:- Solution - Have two variables max and count when number is changed compare max with count and save new max and make count = 0,
  * </metadata>
  * */
