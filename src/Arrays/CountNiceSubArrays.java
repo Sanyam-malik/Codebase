@@ -5,7 +5,7 @@ package Arrays;
  * <metadata>
  *   Name:- Count Number of Nice Subarrays,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF83My5wbmc=&version_id=null">,
- *   Status:- Completed,
+ *   Status:- InComplete,
  *   URL:- https://leetcode.com/problems/count-number-of-nice-subarrays/description,
  *   Date:- 2024-03-11,
  *   Level:- Medium,
