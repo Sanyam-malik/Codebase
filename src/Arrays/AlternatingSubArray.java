@@ -5,10 +5,11 @@ package Arrays;
  *   Name:- Longest Alternating Subarray,
  *   Description:-
         <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8xOS5wbmc=&version_id=null">,
- *   Status:- Needs Improvement - Add Dp solution,
+ *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/longest-alternating-subarray/description/,
  *   Date:- 2024-03-08,
  *   Level:- Easy,
+ *   Remarks:- Solve Using Dynamic Programming,
  *   Notes:-
  *           Solution 1 Hint - Kadane Algorithm</br></br>
  *           Solution 2 Hint - Using Dp,
