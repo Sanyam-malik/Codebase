@@ -5,10 +5,11 @@ import java.util.*;
  * <metadata>
  *   Name:- Replace Elements with Greatest Element on Right Side,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMjItNDctNDMucG5n&version_id=null">,
- *   Status:- Completed - Review Again,
+ *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side,
  *   Date:- 2024-02-27,
  *   Level:- Easy,
+ *   Remarks:- Complex To Understand,
  *   Companies:- Facebook,
  *   Notes:- Confusion in Concept is it suffix max? I think it is,
  * </metadata>
