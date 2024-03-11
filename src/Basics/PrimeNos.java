@@ -9,7 +9,7 @@ package Basics;
  *   Date:- 2024-02-15,
  *   Level:- Easy,
  *   Companies:- VMWare:Amazon:SAP Labs,
- *   Notes:- No Notes Needed,
+ *   Notes:- See this for All Approaches: <a href="https://www.geeksforgeeks.org/java-prime-number-program/"></a>,
  * </metadata>
  * */
 public class PrimeNos {
