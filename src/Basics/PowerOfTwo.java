@@ -9,6 +9,7 @@ package Basics;
  *   Date:- 2024-02-14,
  *   Level:- Easy,
  *   Notes:- Use log or BitWise Manipulation,
+ *   Remarks:- Revised Once,
  * </metadata>
  * */
 public class PowerOfTwo {

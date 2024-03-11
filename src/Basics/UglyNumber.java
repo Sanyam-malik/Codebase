@@ -10,6 +10,7 @@ package Basics;
  *   Level:- Easy,
  *   Notes:- No Notes Needed,
  *   Companies:- Adobe:Apple:Amazon:Facebook:Bloomberg,
+ *   Remarks:- Revised Once,
  * </metadata>
  * */
 public class UglyNumber {

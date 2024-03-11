@@ -9,6 +9,7 @@ package Basics;
  *   Date:- 2024-02-14,
  *   Level:- Easy,
  *   Notes:- To find common factor we will start with 1 to the minimum element and check their modulus,
+ *   Remarks:- Revised Once,
  * </metadata>
  * */
 public class CommonFactors {

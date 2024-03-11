@@ -9,6 +9,7 @@ package Basics;
  *   Date:- 2024-02-15,
  *   Level:- Easy,
  *   Notes:- At even places 0 else 1,
+ *   Remarks:- Revised Once,
  * </metadata>
  * */
 public class AlternateNoPattern {

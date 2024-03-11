@@ -10,6 +10,7 @@ package Basics;
  *   Level:- Easy,
  *   Companies:- Uber:Adobe:Apple:Yahoo:Google:Amazon:Facebook:Bloomberg:Accenture,
  *   Notes:- Solution - Divide and Modulus strategy,
+ *   Remarks:- Revised Once,
  * </metadata>
  * */
 public class PalindromeNumber {

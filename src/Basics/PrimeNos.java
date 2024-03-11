@@ -10,6 +10,7 @@ package Basics;
  *   Level:- Easy,
  *   Companies:- VMWare:Amazon:SAP Labs,
  *   Notes:- See this for All Approaches: <a href="https://www.geeksforgeeks.org/java-prime-number-program/">Click Here</a>,
+ *   Remarks:- Revised Once,
  * </metadata>
  * */
 public class PrimeNos {

@@ -9,6 +9,7 @@ package Basics;
  *   Date:- 2024-02-15,
  *   Level:- Easy,
  *   Notes:- Simple If Statements,
+ *   Remarks:- Revised Once,
  * </metadata>
  * */
 public class FavouriteNumber {

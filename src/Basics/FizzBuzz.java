@@ -9,6 +9,7 @@ package Basics;
  *   Date:- 2024-02-14,
  *   Level:- Easy,
  *   Notes:- Simple If's Statements,
+ *   Remarks:- Revised Once,
  * </metadata>
  * */
 public class FizzBuzz {

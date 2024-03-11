@@ -8,7 +8,8 @@ package Basics;
  *   URL:- https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1,
  *   Date:- 2024-02-14,
  *   Level:- Easy,
- *   Notes:- Start from 1 to minimum no of the two and check modulus,
+ *   Notes:- Start from 1 to minimum no of the two and check modulus or Use Euclidean algorithm <a href="https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/">Click here</a>,
+ *   Remarks:- Revised Once:Needs Learning,
  * </metadata>
  * */
 public class GCDTwoNumbers {

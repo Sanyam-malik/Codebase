@@ -9,6 +9,7 @@ package Basics;
  *   Date:- 2024-02-14,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,
+ *   Remarks:- Revised Once,
  * </metadata>
  * */
 public class SumOfDigits {

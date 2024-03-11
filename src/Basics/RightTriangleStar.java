@@ -9,6 +9,7 @@ package Basics;
  *   Date:- 2024-02-15,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,
+ *   Remarks:- Revised Once:Needs Practice of Related Problems,
  * </metadata>
  * */
 public class RightTriangleStar {

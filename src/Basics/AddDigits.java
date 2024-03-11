@@ -10,6 +10,7 @@ package Basics;
  *   Level:- Easy,
  *   Notes:- Modulus and Divide Technique to Sum the Digits,
  *   Companies:- Bloomberg,
+ *   Remarks:- Revised Once,
  * </metadata>
  * */
 public class AddDigits {
