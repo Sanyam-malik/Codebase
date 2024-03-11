@@ -12,6 +12,7 @@ import java.util.Arrays;
  *   Level:- Easy,
  *   Companies:- Uber:Apple:Amazon:Shopee:Indeed:Oracle:Facebook:LinkedIn:Microsoft:Bloomberg,
  *   Notes:- Compare and merge you could use a new array or use hint,
+ *   Remarks:- LearnYard Problem,
  * </metadata>
  * */
 public class MergeSortedArray {
