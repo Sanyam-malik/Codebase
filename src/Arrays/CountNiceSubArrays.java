@@ -10,7 +10,8 @@ package Arrays;
  *   Date:- 2024-03-11,
  *   Level:- Medium,
  *   Remarks:- Needs Practice Related to This Problem,
- *   Notes:- Solution 1- Using list and two for loops,
+ *   Notes:- Solution 1- Using list and two for loops</br></br>
+ *      Solution 2-  <iframe width="560" height="315" src="https://www.youtube.com/embed/atUJS7ArOY0?si=cez2IYUKJf0O1DNe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>,
  * </metadata>
  * */
 public class CountNiceSubArrays {
