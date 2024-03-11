@@ -9,8 +9,9 @@ package Kunal_Homework.Arrays;
  *   URL:- https://leetcode.com/problems/number-of-good-pairs,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
+ *   Remarks:- Needs Algorithm Improvement,
  *   Companies:- Adobe:Amazon:Microsoft,
- *   Notes:- No Notes Needed,
+ *   Notes:- Solution 1 - Nested Loops,
  * </metadata>
  * */
 public class GoodPairs {

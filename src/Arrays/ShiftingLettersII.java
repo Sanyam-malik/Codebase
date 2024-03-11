@@ -9,13 +9,13 @@ package Arrays;
  *   URL:- https://leetcode.com/problems/shifting-letters-ii/description/,
  *   Date:- 2024-03-11,
  *   Level:- Medium,
- *   Notes:- TLE Error,
+ *   Notes:- Solution 1 - Nested Loops</br></br>,
  *   Remarks:- Needs Algorithm Improvement,
  * </metadata>
  * */
 public class ShiftingLettersII {
 
-    public static String shiftingLetters(String s, int[][] shifts) {
+    public static String shiftingLettersSol1(String s, int[][] shifts) {
         char[] chArray = {'a', 'b', 'c', 'd', 'e', 'f','g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
         char[] sArray = s.toCharArray();
         for(int[] shift: shifts){
@@ -39,6 +39,6 @@ public class ShiftingLettersII {
 
     public static void main(String args[]) {
         int[][] shifts = {{0,1,0},{1,2,1},{0,2,1}};
-        System.out.println(shiftingLetters("abc", shifts));
+        System.out.println(shiftingLettersSol1("abc", shifts));
     }
 }

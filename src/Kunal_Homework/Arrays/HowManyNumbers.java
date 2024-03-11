@@ -5,12 +5,13 @@ package Kunal_Homework.Arrays;
  * <metadata>
  *   Name:- How Many Numbers Are Smaller Than the Current Number,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81Ni5wbmc=&version_id=null">,
- *   Status:- Needs Improvement,
+ *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number,
  *   Date:- 2024-02-18,
  *   Level:- Easy,
+ *   Remarks:- Needs Algorithm Improvement,
  *   Companies:- Yahoo:Amazon,
- *   Notes:- No Notes Needed,
+ *   Notes:- Solution1: Nested Loops,
  * </metadata>
  * */
 public class HowManyNumbers {

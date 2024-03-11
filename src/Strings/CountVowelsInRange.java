@@ -6,10 +6,11 @@ package Strings;
  *   Name:- Count Vowel Strings in Ranges,
  *   Description:-
         <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8xOC5wbmc=&version_id=null">,
- *   Status:- Needs Improvement,
+ *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/count-vowel-strings-in-ranges/description/,
  *   Date:- 2024-03-08,
  *   Level:- Medium,
+ *   Remarks:- Needs Algorithm Improvement,
  *   Notes:-
  *           Solution 1 Hint - Naive Approach Using Boolean Array to store the result of each word and according to queries calculate count and save the result (TLE Error)</br></br>,
  * </metadata>
