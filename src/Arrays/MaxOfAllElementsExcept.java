@@ -11,7 +11,7 @@ import java.util.List;
  *   Status:- Completed,
  *   URL:- https://learnyard.com/,
  *   Date:- 2024-03-12,
- *   Level:- Easy,
+ *   Level:- Medium,
  *   Notes:- Solution 1: Find largest and second largest element</br></br>Solution 2: Find Prefix and Suffix of all elements,
  *   Remarks:- LearnYard Problem
  * </metadata>
