@@ -25,20 +25,38 @@ public class MaxConsecutiveOnesIII {
                 zeroCount++;
             }
 
-            while(zeroCount > k && left < right) {
+            while(zeroCount > k) {
                 if(nums[left]==0) {
                     zeroCount--;
                 }
                 left++;
             }
-            right++;
             result = Math.max(result, right - left + 1);
+            right++;
         }
         return result;
     }
 
+    public int longestOnes(int[] nums, int k) {
+        int start = 0, zc = 0;
+        int ans = 0;
+        for (int end = 0; end < nums.length; end++) {
+            if (nums[end] == 0) {
+                zc++;
+            }
+            while (zc > k) {
+                if (nums[start] == 0) {
+                    zc--;
+                }
+                start++;
+            }
+            ans = Math.max(end - start + 1, ans);
+        }
+        return ans;
+    }
+
     public static void main(String args[]){
-        int[] nums = {};
+        int[] nums = {1,1,1,0,0,0,1,1,1,1,0};
         System.out.println(findMaxConsecutiveOnes(nums, 2));
     }
 
