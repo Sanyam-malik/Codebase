@@ -10,6 +10,7 @@ package Arrays;
  *   Level:- Medium,
  *   Remarks:- Solve Using Divide and Conquer:LearnYard Problem,
  *   Notes:- Solution - Use Kadane's Algorithm,
+ *   Companies:- Uber:Apple:Adobe:Cisco:PayTM:Amazon:Google:Shopee:VMware:Oracle:Samsung:Infosys:LinkedIn:Facebook:JPMorgan:Docusign:Microsoft:Bloomberg:ByteDance:Salesforce:ServiceNow:Goldman Sachs:Walmart Global Tech,
  * </metadata>
  * */
 public class MaximumSubArray {
