@@ -18,7 +18,7 @@ package Arrays;
  * */
 public class RangeSumQuery2D {
 
-    private int pre[][];
+    private int[][] pre;
 
     public RangeSumQuery2D(int[][] matrix) {
         pre = new int[matrix.length][matrix[0].length];
