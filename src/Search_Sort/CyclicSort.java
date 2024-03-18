@@ -1,8 +1,19 @@
-package Basics;
+package Search_Sort;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/*
+ * <metadata>
+ *   Name:- Cyclic Sort,
+ *   Status:- Completed,
+ *   URL:- https://wemakedevs.org,
+ *   Date:- 2024-03-18,
+ *   Level:- Easy,
+ *   Notes:- Find and swap the elements until each element is its in correct position,
+ *   Remarks:- Important Technique,
+ * </metadata>
+ * */
 public class CyclicSort {
 
     public static void main(String args[]) {
