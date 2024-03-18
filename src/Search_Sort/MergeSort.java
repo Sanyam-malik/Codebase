@@ -9,7 +9,7 @@ import java.util.Arrays;
  *   URL:- https://wemakedevs.org,
  *   Date:- 2024-03-18,
  *   Level:- Easy,
- *   Notes:- Use two loops get the index with the smallest no and swap if the min index != current index,
+ *   Notes:- Use the recursion to divide the array and sort the array each time,
  *   Remarks:- Important Technique:LearnYard Problem,
  * </metadata>
  * */
