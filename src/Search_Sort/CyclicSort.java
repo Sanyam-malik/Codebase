@@ -11,7 +11,7 @@ import java.util.Arrays;
  *   Date:- 2024-03-18,
  *   Level:- Easy,
  *   Notes:- Find and swap the elements until each element is its in correct position,
- *   Remarks:- Important Technique,
+ *   Remarks:- Important Technique:LearnYard Problem,
  * </metadata>
  * */
 public class CyclicSort {
