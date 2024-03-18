@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * <metadata>
  *   Name:- Quick Sort,
- *   Status:- InComplete,
+ *   Status:- Complete,
  *   URL:- https://wemakedevs.org,
  *   Date:- 2024-03-18,
  *   Level:- Easy,
