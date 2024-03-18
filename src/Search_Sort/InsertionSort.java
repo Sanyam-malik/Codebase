@@ -2,6 +2,17 @@ package Search_Sort;
 
 import java.util.Arrays;
 
+/*
+ * <metadata>
+ *   Name:- Insertion Sort,
+ *   Status:- Completed,
+ *   URL:- https://wemakedevs.org,
+ *   Date:- 2024-03-18,
+ *   Level:- Easy,
+ *   Notes:- Divide the array into sorted and unsorted parts,
+ *   Remarks:- Important Technique:LearnYard Problem,
+ * </metadata>
+ * */
 public class InsertionSort {
 
     public static void sort(int[] array){
