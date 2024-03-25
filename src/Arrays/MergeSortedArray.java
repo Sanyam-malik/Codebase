@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * <metadata>
  *   Name:- Merge Sorted Array,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTgtNDktMDUucG5n&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Merge_Sorted_Array.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/merge-sorted-array,
  *   Date:- 2024-02-12,

@@ -6,7 +6,7 @@ import java.util.Set;
 /*
  * <metadata>
  *   Name:- Maximum Sum of Distinct Subarrays With Length K,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTgtNDEtMjcucG5n&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Distinct_SubArrays_Length_K.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k,
  *   Date:- 2024-02-12,
