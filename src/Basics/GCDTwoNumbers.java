@@ -3,13 +3,13 @@ package Basics;
 /*
  * <metadata>
  *   Name:- GCD of two numbers,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zNC5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/GCD_Two_Numbers.png">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1,
  *   Date:- 2024-02-14,
  *   Level:- Easy,
  *   Notes:- Start from 1 to minimum no of the two and check modulus or Use Euclidean algorithm <a href="https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/">Click here</a>,
- *   Remarks:- Revised Once:Needs Learning,
+ *   Remarks:- Revised Once:Needs Learning:Solve Using Euclidean Algorithm,
  * </metadata>
  * */
 public class GCDTwoNumbers {

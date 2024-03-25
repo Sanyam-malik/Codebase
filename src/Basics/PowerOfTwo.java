@@ -3,7 +3,7 @@ package Basics;
 /*
  * <metadata>
  *   Name:- Power of Two,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zOC5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Power_of_Two.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/power-of-two,
  *   Date:- 2024-02-14,
