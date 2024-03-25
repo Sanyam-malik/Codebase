@@ -2,9 +2,21 @@
 
 Power exponentiation is the process of raising a number to a given power efficiently.
 
+## Problem Type
+
+This algorithm is used to solve problems related to exponentiation.
+
 ## Implementation
 
 The algorithm uses a divide-and-conquer approach to reduce the number of multiplication operations needed.
+
+### Example
+
+Suppose we want to calculate `x^y` where `x = 2` and `y = 5`.
+
+The result would be `32`.
+
+### Java Implementation
 
 ```java
 public class PowerExponentiation {

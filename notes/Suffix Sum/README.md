@@ -1,18 +1,32 @@
-# Prefix Sum
+# Suffix Sum
 
-Suffix-Sum is a technique used to solve certain problems by pre-computing some information about the array or string.
+Suffix Sum is a technique used to solve certain problems by pre-computing some information about the array.
+
+## Problem Type
+
+This algorithm is used to solve problems where pre-computing suffix information can optimize certain operations.
 
 ## Implementation
 
-It involves calculating suffix sums/products to optimize certain operations.
+It involves calculating suffix sums to optimize certain operations.
+
+### Example
+
+Suppose we have an array `arr = [1, 2, 3, 4, 5]`.
+
+The suffix sums would be `[15, 14, 12, 9, 5]`.
+
+### Java Implementation
 
 ```java
-public class PrefixSuffix {
+import java.util.Arrays;
+
+public class SuffixSum {
     public static int[] calculateSuffixSum(int[] arr) {
         int n = arr.length;
-        int[] prefixSum = new int[n];
-        suffixSum[arr.length-1] = arr[arr.length-1];
-        for (int i = arr.length-2; i >= 0; i--) {
+        int[] suffixSum = new int[n];
+        suffixSum[n - 1] = arr[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
             suffixSum[i] = suffixSum[i + 1] + arr[i];
         }
         return suffixSum;
