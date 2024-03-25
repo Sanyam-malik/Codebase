@@ -3,7 +3,7 @@ package Basics;
 /*
  * <metadata>
  *   Name:- Plus or Minus,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/PlusMinus.png">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Plus_Minus.png">,
  *   Status:- Completed,
  *   URL:- https://codeforces.com/problemset/problem/1807/A,
  *   Date:- 2024-02-14,
