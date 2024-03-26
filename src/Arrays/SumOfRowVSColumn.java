@@ -4,7 +4,7 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Sums of i-th row and i-th column,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8yNS5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Sum_of_particular_row_column.png">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1,
  *   Date:- 2024-02-27,

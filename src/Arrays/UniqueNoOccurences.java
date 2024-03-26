@@ -8,7 +8,7 @@ import java.util.Map;
  * <metadata>
  *   Name:- Unique Number of Occurrences,
  *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8yOC5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Unique_Number_Occurrences.png">,
  *   URL:- https://leetcode.com/problems/unique-number-of-occurrences,
  *   Date:- 2024-02-27,
  *   Level:- Easy,
