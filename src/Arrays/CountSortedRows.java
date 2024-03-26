@@ -6,7 +6,7 @@ package Arrays;
  *   Name:- Count Sorted rows,
  *   Status:- Completed,
  *   Description:- Given two integers N and M and a matrix of dimensions N*M. Count all the rows in a matrix that are sorted either in strictly increasing order or in strictly decreasing order.
-     </br></br><img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMDItMTktMTIucG5n&version_id=null">,
+     </br></br><img src="http://lordmaximus.duckdns.org:9000/codebase/Count_Sorted_Rows.png">,
  *   URL:- https://www.geeksforgeeks.org/problems/count-sorted-rows2702/1,
  *   Date:- 2024-02-28,
  *   Level:- Easy,

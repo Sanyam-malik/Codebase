@@ -5,7 +5,7 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Toeplitz Matrix,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8yNi5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Toeplitz_Matrix.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/toeplitz-matrix,
  *   Date:- 2024-02-28,
