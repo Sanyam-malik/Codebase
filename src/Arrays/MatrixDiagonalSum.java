@@ -3,7 +3,7 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Matrix Diagonal Sum,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTQtMTQtMjQucG5n&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Matrix_Diagonal_Sum.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/matrix-diagonal-sum,
  *   Date:- 2024-02-18,

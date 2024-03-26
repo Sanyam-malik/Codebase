@@ -3,7 +3,7 @@ package Kunal_Homework.Arrays;
 /*
  * <metadata>
  *   Name:- Running Sum of 1d Array,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF82Ni5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Running_Sum_1D.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/running-sum-of-1d-array,
  *   Date:- 2024-02-18,

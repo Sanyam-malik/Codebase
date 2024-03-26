@@ -4,7 +4,7 @@ package Kunal_Homework.Arrays;
 /*
  * <metadata>
  *   Name:- How Many Numbers Are Smaller Than the Current Number,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81Ni5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Numbers_Smaller_Current.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number,
  *   Date:- 2024-02-18,
