@@ -4,7 +4,7 @@ package Arrays;
  * <metadata>
  *   Name:- Number of occurrence,
  *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTktMTYtMjkucG5n&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Number_of_Occurence.png">,
  *   URL:- https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1,
  *   Date:- 2024-02-23,
  *   Level:- Easy,

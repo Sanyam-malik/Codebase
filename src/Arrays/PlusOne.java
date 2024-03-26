@@ -6,7 +6,7 @@ import java.util.Arrays;
  * <metadata>
  *   Name:- Plus One,
  *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTktMjYtMzAucG5n&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/PlusOne.png">,
  *   URL:- https://leetcode.com/problems/plus-one,
  *   Date:- 2024-02-23,
  *   Level:- Easy,

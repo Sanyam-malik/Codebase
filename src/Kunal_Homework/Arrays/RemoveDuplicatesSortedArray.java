@@ -5,7 +5,7 @@ package Kunal_Homework.Arrays;
 /*
  * <metadata>
  *   Name:- Remove Duplicates from Sorted Array,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF82My5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Remove_Array_Duplicates.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/remove-duplicates-from-sorted-array/,
  *   Date:- 2024-02-23,

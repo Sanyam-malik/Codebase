@@ -8,7 +8,7 @@ import java.util.Set;
  * <metadata>
  *   Name:- Key Pair,
  *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTMtMTctNTIucG5n&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/KeyPair.png">,
  *   URL:- https://www.geeksforgeeks.org/problems/key-pair5616/1,
  *   Date:- 2024-02-26,
  *   Level:- Easy,
