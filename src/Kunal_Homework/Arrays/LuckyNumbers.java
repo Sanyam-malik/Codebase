@@ -7,7 +7,7 @@ import java.util.List;
  * <metadata>
  *   Name:- Lucky Numbers in a Matrix,
  *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81Ny5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Lucky_Numbers.png">,
  *   URL:- https://leetcode.com/problems/lucky-numbers-in-a-matrix,
  *   Date:- 2024-02-21,
  *   Level:- Easy,
