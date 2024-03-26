@@ -6,7 +6,7 @@ import java.util.Set;
 /*
  * <metadata>
  *   Name:- Check if the Sentence Is Pangram,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF80OC5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Pangram_Sentence.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/check-if-the-sentence-is-pangram,
  *   Date:- 2024-02-20,

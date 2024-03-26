@@ -3,7 +3,7 @@ package Basics;
 /*
  * <metadata>
  *   Name:- Odd One Out,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zNi5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Odd_One_Out.png">,
  *   Status:- Completed,
  *   URL:- https://codeforces.com/contest/1915/problem/A,
  *   Date:- 2024-02-15,

@@ -4,7 +4,7 @@ package Basics;
 /*
  * <metadata>
  *   Name:- Square Pattern,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF80MS5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Square_Star_Pattern.png">,
  *   Status:- Completed,
  *   URL:- https://codeforwin.org/c-programming/square-star-pattern-in-c,
  *   Date:- 2024-02-15,

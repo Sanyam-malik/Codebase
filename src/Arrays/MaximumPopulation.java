@@ -4,7 +4,7 @@ package Arrays;
  * <metadata>
  *   Name:- Maximum Population Year,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8yMC5wbmc=&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/Maximum_Population_Year.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/maximum-population-year/description/,
  *   Date:- 2024-03-08,
