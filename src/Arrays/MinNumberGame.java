@@ -4,7 +4,7 @@ import java.util.*;
 /*
  * <metadata>
  *   Name:- Minimum Number Game,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTgtNTgtMDMucG5n&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumNoGame.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/minimum-number-game,
  *   Date:- 2024-02-23,

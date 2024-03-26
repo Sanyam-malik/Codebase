@@ -7,7 +7,7 @@ import java.util.Arrays;
  *   Name:- Find minimum and maximum element in an array,
  *   Status:- Completed,
  *   Description:- Given an array A of size N of integers. Your task is to find the minimum and maximum elements in the array.</br></br>
- *      <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTMtMTItMDQucG5n&version_id=null">,
+ *      <img src="http://lordmaximus.duckdns.org:9000/codebase/MinMaxInArray.png">,
  *   URL:- https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1,
  *   Date:- 2024-02-23,
  *   Level:- Easy,
