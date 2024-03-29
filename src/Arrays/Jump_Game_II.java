@@ -4,9 +4,9 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Jump_Game_II,
+ *   Name:- Jump Game II,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Jump_Game_II.png">,
- *   Status:- Completed,
+ *   Status:- Try Again,
  *   URL:- https://leetcode.com/problems/jump-game-ii/description/,
  *   Date:- 2024-03-29,
  *   Level:- Medium,
