@@ -4,7 +4,7 @@ package Arrays;
  * <metadata>
  *   Name:- Valid Palindrome II,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8xLnBuZw==&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/ValidPalindromeII.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/valid-palindrome-ii/description/,
  *   Date:- 2024-03-06,

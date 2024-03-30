@@ -4,7 +4,7 @@ package Strings;
  * <metadata>
  *   Name:- Valid Palindrome,
  *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTUtNTAtMTIucG5n&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ValidPalindrome.png">,
  *   URL:- https://leetcode.com/problems/valid-palindrome/description/,
  *   Date:- 2024-03-05,
  *   Level:- Easy,

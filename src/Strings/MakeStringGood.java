@@ -7,7 +7,7 @@ import java.util.*;
  * <metadata>
  *   Name:- Make The String Great,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8xMC5wbmc=&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/MakeStringGreat.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/make-the-string-great/description/,
  *   Date:- 2024-03-06,

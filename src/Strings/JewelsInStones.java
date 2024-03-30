@@ -5,7 +5,7 @@ package Strings;
  * <metadata>
  *   Name:- Jewels and Stones,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8zLnBuZw==&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/JewelsAndStones.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/jewels-and-stones/description/,
  *   Date:- 2024-03-06,

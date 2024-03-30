@@ -4,7 +4,7 @@ package Basics;
  * <metadata>
  *   Name:- Palindrome Number,
  *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdCBmcm9tIDIwMjQtMDMtMDUgMTUtMzQtMjMucG5n&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/PalindromeNo.png">,
  *   URL:- https://leetcode.com/problems/palindrome-number/description/,
  *   Date:- 2024-03-05,
  *   Level:- Easy,
