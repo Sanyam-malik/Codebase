@@ -8,7 +8,7 @@ import java.util.List;
  * <metadata>
  *   Name:- Alternate positive and negative numbers,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81LnBuZw==&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/Alternate_Positive_Negative_Numbers.png">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1,
  *   Date:- 2024-03-07,

@@ -10,7 +10,7 @@ import java.util.Set;
  * <metadata>
  *   Name:- Find All Numbers Disappeared in an Array,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF84LnBuZw==&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/NumbersDisappeared.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/,
  *   Date:- 2024-03-07,

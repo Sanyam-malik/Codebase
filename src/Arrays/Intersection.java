@@ -7,12 +7,12 @@ import java.util.*;
  * <metadata>
  *   Name:- Common elements,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF82LnBuZw==&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/Common_elements.png">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/common-elements1132/1,
  *   Date:- 2024-03-07,
  *   Level:- Easy,
- *   Copanies:- VMWare:Microsoft:MAQ Software,
+ *   Companies:- VMWare:Microsoft:MAQ Software,
  *   Notes:- Solution Hint - Great Intersection Technique of All Time,
  * </metadata>
  * */
