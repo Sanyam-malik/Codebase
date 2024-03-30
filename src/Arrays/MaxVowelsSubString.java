@@ -7,7 +7,7 @@ import java.util.HashSet;
  * <metadata>
  *   Name:- Maximum Number of Vowels in a Substring of Given Length,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8xMS5wbmc=&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/Number_Vowels_SubString.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/,
  *   Date:- 2024-03-08,

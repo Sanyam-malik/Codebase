@@ -7,7 +7,7 @@ import java.util.HashSet;
  * <metadata>
  *   Name:- Length of the longest substring,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8xNC5wbmc=&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/Length_of_longest_substring.png">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1,
  *   Date:- 2024-03-08,

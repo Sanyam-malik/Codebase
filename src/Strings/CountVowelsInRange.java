@@ -5,7 +5,7 @@ package Strings;
  * <metadata>
  *   Name:- Count Vowel Strings in Ranges,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8xOC5wbmc=&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/Count_Vowel_String_Range.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/count-vowel-strings-in-ranges/description/,
  *   Date:- 2024-03-08,

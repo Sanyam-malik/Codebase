@@ -6,7 +6,7 @@ package Arrays;
  * <metadata>
  *   Name:- Maximum Average Subarray I,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8xMi5wbmc=&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/Maximus_Average_Subarray_I.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/maximum-average-subarray-i/description/,
  *   Date:- 2024-03-08,

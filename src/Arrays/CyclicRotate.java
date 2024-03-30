@@ -8,7 +8,7 @@ import java.util.Arrays;
  * <metadata>
  *   Name:- Cyclically rotate an array by one,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF85LnBuZw==&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/CyclicallyRotateArray.png">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1,
  *   Date:- 2024-03-08,

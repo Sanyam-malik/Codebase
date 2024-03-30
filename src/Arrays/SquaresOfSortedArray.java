@@ -6,7 +6,7 @@ import java.util.Arrays;
  * <metadata>
  *   Name:- Squares of a Sorted Array,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8xMy5wbmc=&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/Squares_Sorted_Array.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/squares-of-a-sorted-array/description/,
  *   Date:- 2024-03-08,

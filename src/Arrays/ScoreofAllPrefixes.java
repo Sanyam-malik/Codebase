@@ -7,7 +7,7 @@ import java.util.Arrays;
  * <metadata>
  *   Name:- Find the Score of All Prefixes of an Array,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8xNi5wbmc=&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/ScoreAllPrefixes.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/,
  *   Date:- 2024-03-08,

@@ -6,7 +6,7 @@ package Arrays;
  * <metadata>
  *   Name:- Left and Right Sum Differences,
  *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF8xNS5wbmc=&version_id=null">,
+        <img src="http://lordmaximus.duckdns.org:9000/codebase/LeftRightSumDiffer.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/left-and-right-sum-differences/description/,
  *   Date:- 2024-03-08,
