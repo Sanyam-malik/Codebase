@@ -4,7 +4,7 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Maximum Difference Between Increasing Elements,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF83OC5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Max_Diff_Increasing_Elem.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/,
  *   Date:- 2024-03-12,
