@@ -1,26 +1,31 @@
-package Search_Sort;
+package Sorting;
 
 import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Bubble Sort,
+ *   Name:- Selection Sort,
  *   Status:- Completed,
  *   URL:- https://wemakedevs.org,
  *   Date:- 2024-03-18,
  *   Level:- Easy,
- *   Notes:- Use two loops Check at each iteration if next no is smaller then previous if it is swap them,
+ *   Notes:- Use two loops get the index with the smallest no and swap if the min index != current index,
  *   Remarks:- Important Technique:LearnYard Problem,
  * </metadata>
  * */
-public class BubbleSort {
+public class SelectionSort {
 
     public static void sort(int[] arr){
         for(int i=0; i< arr.length; i++) {
+            int minIndex = i;
             for(int j=i+1; j< arr.length; j++) {
                 if(arr[j] < arr[i]) {
-                    swap(arr, i, j);
+                    minIndex = j;
                 }
+            }
+
+            if(minIndex != i) {
+                swap(arr, i, minIndex);
             }
         }
     }
@@ -36,5 +41,4 @@ public class BubbleSort {
         sort(arr);
         System.out.println(Arrays.toString(arr));
     }
-
 }
