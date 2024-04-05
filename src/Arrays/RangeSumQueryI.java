@@ -5,7 +5,7 @@ package Arrays;
 /*
  * <metadata>
  *   Name:- Range Sum Query - Immutable,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF83OS5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Range_Sum_Query.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/range-sum-query-immutable/description/,
  *   Date:- 2024-03-13,

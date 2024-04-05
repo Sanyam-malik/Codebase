@@ -6,7 +6,7 @@ import java.util.Arrays;
 /*
  * <metadata>
  *   Name:- Range Addition,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF84MC5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/RangeAddition.png">,
  *   Status:- Completed,
  *   URL:- https://www.lintcode.com/problem/903/,
  *   Date:- 2024-03-13,

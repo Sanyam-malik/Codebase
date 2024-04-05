@@ -4,7 +4,7 @@ import java.util.*;
 /*
  * <metadata>
  *   Name:- Rotate Array,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF84MS5wbmc=&version_id=null">,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Rotate_Array.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/rotate-array/description/,
  *   Date:- 2024-03-13,
