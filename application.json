@@ -2,8 +2,8 @@
   "light": {
     "primaryColor": "#baca25",
     "secondaryColor": "#a6a310",
-    "headerColor": "rgb(255, 255, 255)",
-    "backgroundColor": "rgb(255, 255, 255)",
+    "headerColor": "rgb(223, 223, 219)",
+    "backgroundColor": "rgb(219, 219, 200)",
     "alternativeTableColor": "rgba(221, 221, 221, 0.61)",
     "textPrimaryColor": "#3c3b3b",
     "textSecondaryColor": "white",
