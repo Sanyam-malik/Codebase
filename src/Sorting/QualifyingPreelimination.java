@@ -8,7 +8,7 @@ import java.util.*;
  *   Status:- Completed,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/QUALPREL.png">,
  *   URL:- https://www.codechef.com/problems/QUALPREL,
- *   Date:- 2024-04-04,
+ *   Date:- 2024-04-05,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,
  *   Remarks:- LearnYard Problem,

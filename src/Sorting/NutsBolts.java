@@ -7,7 +7,7 @@ import java.util.*;
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Nuts_bolts.png">,
  *   Status:- Completed,
  *   URL:- https://www.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article,
- *   Date:- 2024-04-04,
+ *   Date:- 2024-04-05,
  *   Level:- Medium,
  *   Notes:- Just Sort,
  *   Companies:- Amazon:Hike:Make:MyTrip:MAQ Software:Adobe,

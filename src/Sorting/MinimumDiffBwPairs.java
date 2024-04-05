@@ -8,7 +8,7 @@ import java.util.Arrays;
  *   Description:- Given an array arr find minimum pair of elements such that i != j,
  *   Status:- Completed,
  *   URL:- https://learnyard.com,
- *   Date:- 2024-04-04,
+ *   Date:- 2024-04-05,
  *   Level:- Easy,
  *   Notes:- Just Sort and find the minimum of difference,
  *   Remarks:- LearnYard Problem,
