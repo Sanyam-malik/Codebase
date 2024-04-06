@@ -1,6 +1,4 @@
-# [Video Link](https://youtu.be/n60Dn0UsbEk)
-
-## Submit the following on your Leetcode profile itself.
+# Array Problems
 
 ### Easy
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)

@@ -1,6 +1,4 @@
-# [Video link](https://youtu.be/fzip9Aml6og)
-
-## Problems
+# BitManipulation Problems
 
 ## Easy
 - [Add Binary](https://leetcode.com/problems/add-binary/)
