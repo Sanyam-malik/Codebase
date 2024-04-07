@@ -6,7 +6,7 @@ package Sorting;
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/SumAbsoluteDifferences.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/,
- *   Date:- 2024-04-05,
+ *   Date:- 2024-04-07,
  *   Level:- Medium,
  *   Notes:- <iframe width="560" height="315" src="https://www.youtube.com/embed/kJdKcg4eUvM?si=47bcXQOaqtczbUz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
  *   Companies:- Adobe,
