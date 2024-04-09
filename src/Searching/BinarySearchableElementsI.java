@@ -4,7 +4,7 @@ package Searching;
 /*
  * <metadata>
  *   Name:- Binary Searchable Elements I,
- *   Description:- Given an array [1, 14, 6, 21, 57, 8]> try to find the elements that can be searched using binary search,
+ *   Description:- Given an array [1 14 6 21 57 8]> try to find the elements that can be searched using binary search,
  *   Status:- Completed,
  *   URL:- https://learnyard.com,
  *   Date:- 2024-04-08,
