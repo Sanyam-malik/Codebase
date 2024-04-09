@@ -16,20 +16,20 @@ package Searching;
  * */
 public class KokoLovesBananas {
     public static int minEatingSpeed(int[] piles, int h) {
-        int start = mininum(piles);
+        int start = 0;
         int end = totalSum(piles);
+        int ans = h;
         while(start <= end) {
             int mid = start + (end - start)/2;
             int calHours = hoursRequired(piles, mid);
-            if(calHours == h) {
-                return mid;
-            } else if(calHours < h) {
+            if(calHours < h) {
+                ans = Math.min(ans, calHours);
                 start = mid + 1;
             } else {
                 end = mid - 1;
             }
         }
-        return -1;
+        return ans;
     }
 
     public static int totalSum(int[] piles) {
@@ -40,26 +40,12 @@ public class KokoLovesBananas {
         return totalSum;
     }
 
-    public static int mininum(int[] piles) {
-        int min = Integer.MAX_VALUE;
-        for(int pile: piles) {
-            min = Math.min(pile, min);
-        }
-        return min;
-    }
-
-    public static int hoursRequired(int[] piles, int speed) {
+    public static int hoursRequired(int[] piles, int k) {
         int hours = 0;
-        int start = 0;
-        int end = piles.length-1;
-        while (start <= end) {
-            int remaining = piles[start] - speed;
-            if(remaining <= 0) {
-                start++;
-            } else {
-                piles[start]  = remaining;
-            }
-            hours++;
+        for(int pile : piles){
+            int div = pile / k;
+            hours += div;
+            if(pile % k != 0) hours++;
         }
         return hours;
     }
