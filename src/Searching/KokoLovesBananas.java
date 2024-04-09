@@ -16,7 +16,7 @@ package Searching;
  * */
 public class KokoLovesBananas {
     public static int minEatingSpeed(int[] piles, int h) {
-
+        return 0;
     }
 
     public static int hoursRequired(int[] piles, int speed) {
