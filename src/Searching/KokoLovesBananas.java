@@ -24,7 +24,7 @@ public class KokoLovesBananas {
             if(calHours == h) {
                 return mid;
             } else if(calHours < h) {
-                start = mid+1;
+                start = mid + 1;
             } else {
                 end = mid - 1;
             }
