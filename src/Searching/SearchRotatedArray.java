@@ -1,0 +1,72 @@
+package Searching;
+
+
+import java.util.Arrays;
+
+/*
+ * <metadata>
+ *   Name:- Search in Rotated Sorted Array,
+ *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/SearchRotatedArray.png">,
+ *   Status:- Completed,
+ *   URL:- https://leetcode.com/problems/binary-search/description/,
+ *   Date:- 2024-04-06,
+ *   Level:- Medium,
+ *   Notes:- <iframe width="560" height="315" src="https://www.youtube.com/embed/5qGrJbHhqFs?si=KOS3nkO0xf67nwck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
+ *   Companies:- tcs:OYO:Hike:Grab:Visa:Paytm:Optum:Paytm:Park+:Cisco:Apple:Eaton:Adobe:Yahoo:Amazon:Intuit:Spinny:PayPal:Redbus:Qualys:InMobi:Practo:Maersk:Airtel:Twitch:Yandex:Zillow:Zulily:Oracle:tiktok:VMware:Google:Nvidia:Splunk:DE Shaw:FactSet:Siemens:PhonePe:Proteum:Expedia:Curefit:Groupon:Samsung:Sigmoid:Nagarro:Alibaba:Tencent:Expedia:Flipkart:Snapdeal:Facebook:Qualcomm:Arcesium:Travclan:JPMorgan:SAP Labs:LinkedIn:Rippling:MindTree:HashedIn:Citicorp:Microsoft:Cognizant:Innovacer:Capgemini:Accenture:ShareChat:Delhivery:Bloomberg:Traveloka:ByteDance:MakeMyTrip:BankBazaar:Freecharge:Freshworks:ServiceNow:Salesforce:Informatica:ION Trading:Prystin Care:ZS Associates:Interics Tech:Goldman Sachs:Times Internet:Morgan Stanley:Disney+ Hotstar:NCR Corporation:Kempston Global:EagleView India:Vimana Aerotech:American Express:Navi Technologies:Walmart Global Tech:Veridic Private Limited,
+ *   Remarks:- LearnYard Problem:Good Problem,
+ * </metadata>
+ * */
+public class SearchRotatedArray {
+
+    public static int search(int[] arr, int target) {
+        /*
+         * Problem with using Arrays.sort() is Indexes are not correct we might have to use extra space to check diff b/w original and new index
+         * */
+        if(arr.length == 0) return -1;
+        if(arr.length == 1) return arr[0] == target ? 0 : -1;
+        int mid = findMiddle(arr);
+        int ans = traditionalSearch(arr, 0, mid-1, target);
+        if( ans == -1) {
+            ans = traditionalSearch(arr, mid, arr.length-1, target);
+        }
+        return ans;
+    }
+
+    public static int findMiddle(int[] arr) {
+        int start = 0;
+        int end = arr.length - 1;
+        while (start < end) {
+            int mid = start + (end - start) / 2;
+
+            // If the mid element is greater than the end element, rotation is to the right
+            if (arr[mid] > arr[end]) {
+                start = mid + 1;
+            }
+            // If the mid element is less than the end element, rotation is to the left or the mid element is the rotation point
+            else {
+                end = mid;
+            }
+        }
+        // At the end of the loop, start and end will converge to the rotation point
+        return start;
+    }
+
+    public static int traditionalSearch(int[] arr, int start, int end, int target){
+        while(start <= end) {
+            int mid = start + (end - start) /2;
+            if(arr[mid] == target) {
+                return mid;
+            }
+            else if(arr[mid] < target) {
+                start = mid + 1;
+            } else {
+                end = mid - 1;
+            }
+        }
+        return -1;
+    }
+
+    public static void main(String args[]) {
+        System.out.println(search(new int[]{1, 3}, 3));
+    }
+}
