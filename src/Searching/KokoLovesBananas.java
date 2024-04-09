@@ -5,7 +5,7 @@ package Searching;
  * <metadata>
  *   Name:- Koko Eating Bananas,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/KokoBananas.png">,
- *   Status:- Pending,
+ *   Status:- Attempted,
  *   URL:- https://learnyard.com,
  *   Date:- 2024-04-09,
  *   Level:- Medium,
@@ -16,7 +16,36 @@ package Searching;
  * */
 public class KokoLovesBananas {
     public static int minEatingSpeed(int[] piles, int h) {
-        return 0;
+        int start = mininum(piles);
+        int end = totalSum(piles);
+        while(start <= end) {
+            int mid = start + (end - start)/2;
+            int calHours = hoursRequired(piles, mid);
+            if(calHours == h) {
+                return mid;
+            } else if(calHours < h) {
+                start = mid+1;
+            } else {
+                end = mid - 1;
+            }
+        }
+        return -1;
+    }
+
+    public static int totalSum(int[] piles) {
+        int totalSum = 0;
+        for(int pile: piles) {
+            totalSum+=pile;
+        }
+        return totalSum;
+    }
+
+    public static int mininum(int[] piles) {
+        int min = Integer.MAX_VALUE;
+        for(int pile: piles) {
+            min = Math.min(pile, min);
+        }
+        return min;
     }
 
     public static int hoursRequired(int[] piles, int speed) {
