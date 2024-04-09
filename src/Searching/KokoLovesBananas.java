@@ -25,11 +25,12 @@ public class KokoLovesBananas {
         int end = piles.length-1;
         while (start <= end) {
             int remaining = piles[start] - speed;
-            if(remaining == 0) {
+            if(remaining <= 0) {
                 start++;
             } else {
                 piles[start]  = remaining;
             }
+            hours++;
         }
         return hours;
     }
