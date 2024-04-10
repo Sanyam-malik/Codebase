@@ -49,18 +49,18 @@ Recursion is commonly used in algorithms involving tree traversal, graph travers
 
 ## Benefits
 
-    Concise and elegant solution for certain problems.
-    Facilitates code reuse and modularity.
-    Can lead to efficient solutions when used appropriately.
+- Concise and elegant solution for certain problems.
+- Facilitates code reuse and modularity.
+- Can lead to efficient solutions when used appropriately.
 
 ## Drawbacks
 
-    May result in performance overhead due to repeated function calls.
-    Requires careful handling of base cases to avoid infinite recursion.
+- May result in performance overhead due to repeated function calls.
+- Requires careful handling of base cases to avoid infinite recursion.
 
 ## Usage Guidelines
 
-    Understand the problem thoroughly before applying recursion.
-    Identify base cases and recursive steps.
-    Ensure termination conditions are met to avoid infinite recursion.
-    Analyze the performance and memory usage of recursive solutions.
+- Understand the problem thoroughly before applying recursion.
+- Identify base cases and recursive steps.
+- Ensure termination conditions are met to avoid infinite recursion. 
+- Analyze the performance and memory usage of recursive solutions.
