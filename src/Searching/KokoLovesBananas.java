@@ -5,7 +5,7 @@ package Searching;
  * <metadata>
  *   Name:- Koko Eating Bananas,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/KokoBananas.png">,
- *   Status:- Attempted,
+ *   Status:- Completed,
  *   URL:- https://learnyard.com,
  *   Date:- 2024-04-09,
  *   Level:- Medium,
@@ -15,39 +15,39 @@ package Searching;
  * </metadata>
  * */
 public class KokoLovesBananas {
+
+    static long hoursRequired(int[] arr, int k) {
+        // 'long' is important, because otherwise
+        // 'hoursReq' can overflow
+        long hoursReq = 0;
+        for(int num : arr) {
+            //Ceil is required
+            hoursReq += (long) Math.ceil((double) num /k);
+        }
+        return hoursReq;
+    }
+
+    public static int max(int[] piles) {
+        int max = Integer.MIN_VALUE;
+        for(int pile: piles) {
+            max= Math.max(max, pile);
+        }
+        return max;
+    }
+
     public static int minEatingSpeed(int[] piles, int h) {
-        int start = 0;
-        int end = totalSum(piles);
-        int ans = h;
-        while(start <= end) {
-            int mid = start + (end - start)/2;
-            int calHours = hoursRequired(piles, mid);
-            if(calHours < h) {
-                ans = Math.min(ans, calHours);
-                start = mid + 1;
-            } else {
-                end = mid - 1;
+        int l = 1, r = max(piles), ans = -1;
+        while(l <= r) {
+            int mid = (l + r)/2;
+            if(hoursRequired(piles, mid) <= h) {
+                ans = mid;
+                r = mid - 1;
+            }
+            else {
+                l = mid + 1;
             }
         }
         return ans;
-    }
-
-    public static int totalSum(int[] piles) {
-        int totalSum = 0;
-        for(int pile: piles) {
-            totalSum+=pile;
-        }
-        return totalSum;
-    }
-
-    public static int hoursRequired(int[] piles, int k) {
-        int hours = 0;
-        for(int pile : piles){
-            int div = pile / k;
-            hours += div;
-            if(pile % k != 0) hours++;
-        }
-        return hours;
     }
 
     public static void main(String args[]) {
