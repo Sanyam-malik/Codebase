@@ -1,4 +1,4 @@
-# BitManipulation Problems
+# Bit Manipulation Problems
 
 ## Easy
 - [Add Binary](https://leetcode.com/problems/add-binary/)
