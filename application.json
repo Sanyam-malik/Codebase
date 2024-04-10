@@ -1,9 +1,9 @@
 {
   "light": {
-    "primaryColor": "#588417",
-    "secondaryColor": "#5d8417",
+    "primaryColor": "#ac3d07",
+    "secondaryColor": "#c45e05",
     "headerColor": "rgb(223, 223, 219)",
-    "backgroundColor": "rgb(206, 219, 200)",
+    "backgroundColor": "rgb(204, 201, 200)",
     "alternativeTableColor": "rgba(221, 221, 221, 0.61)",
     "textPrimaryColor": "#3c3b3b",
     "textSecondaryColor": "white",
@@ -17,8 +17,8 @@
   },
 
   "dark": {
-    "primaryColor": "#798602",
-    "secondaryColor": "#609502",
+    "primaryColor": "#ac3d07",
+    "secondaryColor": "#c45e05",
     "headerColor": "rgb(40 40 40)",
     "backgroundColor": "rgb(26, 26, 26)",
     "alternativeTableColor": "rgba(255, 255, 255, 0.12)",
