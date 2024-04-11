@@ -10,7 +10,7 @@ import java.util.Arrays;
  *   URL:- https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1,
  *   Date:- 2024-04-11,
  *   Level:- Medium,
- *   Notes:- Global Variable to store the result and merge sort / quick sort,
+ *   Notes:- Recursive Variable to store the result and merge sort / quick sort,
  *   Remarks:- LearnYard Problem:Good Question,
  *   Companies:- Flipkart:Amazon:Microsoft:MakeMyTrip:Adobe:BankBazaar:Myntra,
  * </metadata>
