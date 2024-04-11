@@ -1,9 +1,9 @@
 {
   "light": {
-    "primaryColor": "#ac3d07",
-    "secondaryColor": "#c45e05",
-    "headerColor": "rgb(223, 223, 219)",
-    "backgroundColor": "rgb(204, 201, 200)",
+    "primaryColor": "#e67a16",
+    "secondaryColor": "#e65615",
+    "headerColor": "rgb(247, 247, 247)",
+    "backgroundColor": "rgb(255, 255, 255)",
     "alternativeTableColor": "rgba(221, 221, 221, 0.61)",
     "textPrimaryColor": "#3c3b3b",
     "textSecondaryColor": "white",
