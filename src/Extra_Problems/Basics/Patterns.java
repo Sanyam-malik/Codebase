@@ -1,4 +1,4 @@
-package Extra_Problems;
+package Extra_Problems.Basics;
 
 public class Patterns {
 
