@@ -11,7 +11,7 @@ package Extra_Problems.Searching;
  *   Level:- Easy,
  *   Notes:- No Notes Needed,
  *   Companies:- Apple:Adobe:Amazon:Google:LinkedIn:Microsoft:Bloomberg,
- *   Remarks:- LearnYard Problem,
+ *   Remarks:- Kunal Kushwaha,
  * </metadata>
  * */
 public class Sqrt {

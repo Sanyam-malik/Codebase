@@ -12,7 +12,7 @@ import java.util.Random;
  *   Date:- 2024-04-12,
  *   Level:- Easy,
  *   Notes:- Use Binary Search,
- *   Remarks:- LearnYard Problem,
+ *   Remarks:- Kunal Kushwaha,
  *   Companies:- Adobe:Bloomberg,
  * </metadata>
  * */
