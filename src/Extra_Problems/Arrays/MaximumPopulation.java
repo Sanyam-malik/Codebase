@@ -2,7 +2,7 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Maximum Population Year,
+ *   Name:- Maximum Population Year - Revision,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Maximum_Population_Year.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/maximum-population-year,

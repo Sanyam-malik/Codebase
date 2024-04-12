@@ -2,7 +2,7 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Transpose Matrix,
+ *   Name:- Transpose Matrix - Revision,
  *   Status:- Completed,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Transpose_Matrix.png">,
  *   URL:- https://leetcode.com/problems/transpose-matrix,

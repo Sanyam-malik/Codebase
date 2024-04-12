@@ -2,7 +2,7 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Running Sum of 1d Array,
+ *   Name:- Running Sum of 1d Array - Revision,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Running_Sum_1D.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/running-sum-of-1d-array,

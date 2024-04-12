@@ -3,7 +3,7 @@ package Extra_Problems.Searching;
 
 /*
  * <metadata>
- *   Name:- Sqrt(x),
+ *   Name:- Sqrt(x) - Revision,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Sqrt.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/sqrtx/,

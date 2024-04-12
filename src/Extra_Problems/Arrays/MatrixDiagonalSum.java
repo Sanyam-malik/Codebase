@@ -2,7 +2,7 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Matrix Diagonal Sum,
+ *   Name:- Matrix Diagonal Sum - Revision,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81OC5wbmc=&version_id=null">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/matrix-diagonal-sum,

@@ -4,7 +4,7 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Maximum Subarray,
+ *   Name:- Maximum Subarray - Revision,
  *   Status:- Completed,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Maximum_Subarray.png">,
  *   URL:- https://leetcode.com/problems/maximum-subarray,

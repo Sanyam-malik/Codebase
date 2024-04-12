@@ -3,7 +3,7 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Richest Customer Wealth,
+ *   Name:- Richest Customer Wealth - Revision,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/richest-customer-wealth,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Richest_Customer_Wealth.png">,

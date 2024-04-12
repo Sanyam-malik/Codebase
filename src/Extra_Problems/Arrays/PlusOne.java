@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Plus One,
+ *   Name:- Plus One - Revision,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/PlusOne.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/plus-one,
