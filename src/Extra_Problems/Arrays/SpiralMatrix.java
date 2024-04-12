@@ -12,7 +12,7 @@ import java.util.*;
  *   Level:- Easy,
  *   Notes:- Needs A LOT !!!,
  *   Remarks:- Needs Learning:Needs Practice of Related Problems,
- *   Companies:- Jio:OYO:Zoho:Uber:Apple:Adobe:Wipro:PayTM:Cisco:Amazon:Google:Zillow:Oracle:Facebook:LiveRamp:JPMorgan:SAP Labs:Microsoft:Accenture:Cognizant:Salesforce:Browserstack,
+ *   Companies:- Jio:OYO:Zoho:Uber:Apple:Adobe:Wipro:Paytm:Cisco:Amazon:Google:Zillow:Oracle:Facebook:LiveRamp:JPMorgan:SAP Labs:Microsoft:Accenture:Cognizant:Salesforce:Browserstack,
  * </metadata>
  * */
 public class SpiralMatrix {

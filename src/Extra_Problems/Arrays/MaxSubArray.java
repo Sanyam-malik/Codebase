@@ -10,7 +10,7 @@ package Extra_Problems.Arrays;
  *   URL:- https://leetcode.com/problems/maximum-subarray,
  *   Date:- 2024-02-12,
  *   Level:- Medium,
- *   Companies:- Uber:Apple:Adobe:Cisco:PayTM:Amazon:Google:Shopee:VMware:Oracle:Samsung:Infosys:LinkedIn:Facebook:JPMorgan:Docusign:Microsoft:Bloomberg:ByteDance:Salesforce:ServiceNow:Goldman Sachs:Walmart Global Tech,
+ *   Companies:- Uber:Apple:Adobe:Cisco:Paytm:Amazon:Google:Shopee:VMware:Oracle:Samsung:Infosys:LinkedIn:Facebook:JPMorgan:Docusign:Microsoft:Bloomberg:ByteDance:Salesforce:ServiceNow:Goldman Sachs:Walmart Global Tech,
  *   Notes:- No Notes Needed,
  * </metadata>
  * */
