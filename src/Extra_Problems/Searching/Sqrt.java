@@ -7,7 +7,7 @@ package Extra_Problems.Searching;
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Sqrt.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/sqrtx/,
- *   Date:- 2024-04-08,
+ *   Date:- 2024-04-12,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,
  *   Companies:- Apple:Adobe:Amazon:Google:LinkedIn:Microsoft:Bloomberg,
