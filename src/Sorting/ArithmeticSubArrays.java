@@ -24,8 +24,6 @@ public class ArithmeticSubArrays {
 
         for(int i=0; i< q; i++) {
             int[] newArray = Arrays.copyOfRange(nums, l[i], r[i]+1);
-            // Using Arrays.sort()
-            // list.add(isArithmeticSubArrayWithSort(newArray));
             list.add(isArithmeticSubArrayWithoutSort(newArray));
         }
         return list;
