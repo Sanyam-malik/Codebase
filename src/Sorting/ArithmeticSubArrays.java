@@ -26,13 +26,31 @@ public class ArithmeticSubArrays {
 
         for(int i=0; i< q; i++) {
             int[] newArray = Arrays.copyOfRange(nums, l[i], r[i]+1);
-            Arrays.sort(newArray);
-            list.add(isArithmeticSubArray(newArray));
+            // Using Arrays.sort()
+            // list.add(isArithmeticSubArrayWithSort(newArray));
+            list.add(isArithmeticSubArrayWithoutSort(newArray));
         }
         return list;
     }
 
-    public static boolean isArithmeticSubArray(int[] nums) {
+    public static boolean isArithmeticSubArrayWithoutSort(int[] nums) {
+        boolean ans = true;
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        for (int num : nums) {
+            min = Math.min(min, num);
+            max = Math.max(max, num);
+        }
+        int d = (max - min)/(nums.length - 1);
+        for(int i=1; i< nums.length; i++) {
+            int diff = nums[i]  - nums[i-1];
+            if(diff != d) { ans = false; break; }
+        }
+        return ans;
+    }
+
+    public static boolean isArithmeticSubArrayWithSort(int[] nums) {
+        Arrays.sort(nums);
         boolean ans = true;
         int prevAns = -1;
         int start = 0;
