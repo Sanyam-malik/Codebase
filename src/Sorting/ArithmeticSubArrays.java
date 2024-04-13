@@ -1,15 +1,13 @@
 package Sorting;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 
 /*
  * <metadata>
  *   Name:- Arithmetic Subarrays,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ArithmeticSubarrays.png">,
- *   Status:- Try Again,
+ *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/arithmetic-subarrays/,
  *   Date:- 2024-04-13,
  *   Level:- Medium,
@@ -41,11 +39,28 @@ public class ArithmeticSubArrays {
             min = Math.min(min, num);
             max = Math.max(max, num);
         }
-        int d = (max - min)/(nums.length - 1);
-        for(int i=1; i< nums.length; i++) {
-            int diff = nums[i]  - nums[i-1];
-            if(diff != d) { ans = false; break; }
+        int d = (max - min);
+        if(d==0){
+            return true;
         }
+        if(d % (nums.length-1)!=0){
+            return false;
+        }
+        d = d/(nums.length - 1);
+
+        Set<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
+        }
+
+        for(int i=0; i< nums.length-1; i++) {
+            int nextElem = min+((i+1)*d);
+            if(!set.contains(nextElem)) {
+                ans = false;
+                break;
+            }
+        }
+
         return ans;
     }
 
