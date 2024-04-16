@@ -3,7 +3,7 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Majority Element,
+ *   Name:- Contains Duplicate,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ContainsDuplicate.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/contains-duplicate/,
