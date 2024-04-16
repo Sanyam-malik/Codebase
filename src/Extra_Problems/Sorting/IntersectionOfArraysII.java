@@ -1,4 +1,4 @@
-package Sorting;
+package Extra_Problems.Sorting;
 
 import java.util.*;
 
@@ -6,7 +6,7 @@ import java.util.*;
  * <metadata>
  *   Name:- Intersection of Two Arrays II,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/IntersectionBwArraysII.png">,
- *   Status:- Completed,
+ *   Status:- Try Again,
  *   URL:- https://leetcode.com/problems/intersection-of-two-arrays-ii/description/,
  *   Date:- 2024-04-16,
  *   Level:- Easy,

@@ -1,12 +1,10 @@
-package Arrays;
-
-import java.util.Arrays;
+package Extra_Problems.Sorting;
 
 /*
  * <metadata>
- *   Name:- Merge Sorted Array,
+ *   Name:- Merge Sorted Array - Revision,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Merge_Sorted_Array.png">,
- *   Status:- Completed,
+ *   Status:- Try Again,
  *   URL:- https://leetcode.com/problems/merge-sorted-array,
  *   Date:- 2024-02-12,
  *   Level:- Easy,

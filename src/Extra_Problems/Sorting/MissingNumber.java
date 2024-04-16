@@ -1,4 +1,4 @@
-package Sorting;
+package Extra_Problems.Sorting;
 
 /*
  * <metadata>

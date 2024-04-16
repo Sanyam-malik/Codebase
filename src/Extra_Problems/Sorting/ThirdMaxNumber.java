@@ -1,4 +1,4 @@
-package Sorting;
+package Extra_Problems.Sorting;
 import java.util.*;
 
 
@@ -7,7 +7,7 @@ import java.util.*;
  * <metadata>
  *   Name:- Third Maximum Number,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ThirdMaxNumber.png">,
- *   Status:- Completed,
+ *   Status:- Try Again,
  *   URL:- https://leetcode.com/problems/third-maximum-number/description/,
  *   Date:- 2024-04-16,
  *   Level:- Easy,
