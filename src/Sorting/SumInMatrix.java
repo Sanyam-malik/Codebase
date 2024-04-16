@@ -5,7 +5,7 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- https://leetcode.com/problems/sum-in-a-matrix/,
+ *   Name:- Sum in a Matrix,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/SumInMatrix.png">,
  *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/sum-in-a-matrix/description/,
