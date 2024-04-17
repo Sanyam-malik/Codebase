@@ -13,7 +13,8 @@ import java.util.Arrays;
  *   Date:- 2024-04-17,
  *   Level:- Easy,
  *   Notes:- No Notes Needed,
- *   Companies:- Amazon:LinkedIn:Bloomberg
+ *   Companies:- Amazon:LinkedIn:Bloomberg,
+ *   Remarks:- LearnYard Problem
  * </metadata>
  * */
 public class SmallestLetter {
