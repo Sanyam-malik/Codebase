@@ -1,11 +1,11 @@
-package Searching;
+package Extra_Problems.Sorting;
 import java.util.*;
 
 /*
  * <metadata>
  *   Name:- Kth Missing Positive Number,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Kth_Missing_Positive_Number.png">,
- *   Status:- Check Where to put,
+ *   Status:- Completed,
  *   URL:- https://leetcode.com/problems/kth-missing-positive-number/description/,
  *   Date:- 2024-04-18,
  *   Level:- Easy,
