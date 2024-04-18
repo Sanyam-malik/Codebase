@@ -9,7 +9,7 @@ import java.util.*;
  *   URL:- https://leetcode.com/problems/kth-missing-positive-number/description/,
  *   Date:- 2024-04-18,
  *   Level:- Easy,
- *   Notes:- 1. Using Brute Force </br> 2. Binary Search</br>,
+ *   Notes:- 1. Using Brute Force </br> 2. Binary Search</br> <iframe width="560" height="315" src="https://www.youtube.com/embed/uZ0N_hZpyps?si=L8bVAs1NMb8Q2OEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
  *   Companies:- TikTok:Google:Amazon:Facebook:Microsoft,
  *   Remarks:- LearnYard Problem,
  * </metadata>
