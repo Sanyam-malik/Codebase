@@ -4,7 +4,7 @@ import java.util.*;
 /*
  * <metadata>
  *   Name:- Array Partition,
- *   Status:- Reasoning Needed,
+ *   Status:- Completed,
  *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ArrayPartition.png">,
  *   URL:- https://leetcode.com/problems/array-partition/description/,
  *   Date:- 2024-04-17,
