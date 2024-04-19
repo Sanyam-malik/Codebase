@@ -2,14 +2,14 @@ package Strings;
 
 /*
  * <metadata>
- *   Name:- Valid Anagram,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ValidAnagram.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/valid-anagram/description/,
- *   Date:- 2024-03-06,
- *   Level:- Easy,
- *   Companies:- Apple:Amazon:Affirm:Google:Spotify:Facebook:Bloomberg:Microsoft:Goldman Sachs,
- *   Notes:- Solution - Create an array or use a hashmap,
+ * <name>Valid Anagram</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ValidAnagram.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/valid-anagram/description/</url>
+ * <date>2024-03-06</date>
+ * <level>Easy</level>
+ * <companies>Apple:Amazon:Affirm:Google:Spotify:Facebook:Bloomberg:Microsoft:Goldman Sachs</companies>
+ * <notes>Solution - Create an array or use a hashmap</notes>
  * </metadata>
  * */
 public class ValidAnagram {

@@ -4,15 +4,15 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Range Sum Query - Immutable,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Range_Sum_Query.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/range-sum-query-immutable/description/,
- *   Date:- 2024-03-13,
- *   Level:- Easy,
- *   Companies:- Facebook,
- *   Notes:- Make a Prefix Array and use it wisely,
- *   Remarks:- LearnYard Problem
+ * <name>Range Sum Query - Immutable</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Range_Sum_Query.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/range-sum-query-immutable/description/</url>
+ * <date>2024-03-13</date>
+ * <level>Easy</level>
+ * <companies>Facebook</companies>
+ * <notes>Make a Prefix Array and use it wisely</notes>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class RangeSumQueryI {

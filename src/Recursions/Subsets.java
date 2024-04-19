@@ -8,15 +8,15 @@ import java.util.List;
 
 /*
  * <metadata>
- *   Name:- Subsets,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Subsets.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/subsets/description/,
- *   Date:- 2024-03-30,
- *   Level:- Easy,
- *   Notes:- 1. Iteration 2.Backtracking,
- *   Remarks:- Solve Using Backtracking,
- *   Companies:- Uber:Apple:Adobe:Amazon:Google:Reddit:Twitter:Facebook:Bloomberg:Microsoft,
+ * <name>Subsets</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Subsets.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/subsets/description/</url>
+ * <date>2024-03-30</date>
+ * <level>Easy</level>
+ * <notes>1. Iteration 2.Backtracking</notes>
+ * <remarks>Solve Using Backtracking</remarks>
+ * <companies>Uber:Apple:Adobe:Amazon:Google:Reddit:Twitter:Facebook:Bloomberg:Microsoft</companies>
  * </metadata>
  * */
 public class Subsets {

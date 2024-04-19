@@ -2,14 +2,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Shuffle the Array,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Shuffle_Array.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/shuffle-the-array,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Apple:Amazon,
+ * <name>Shuffle the Array</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Shuffle_Array.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/shuffle-the-array</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Apple:Amazon</companies>
  * </metadata>
  * */
 public class ShuffleArray {

@@ -5,15 +5,15 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Arithmetic Subarrays,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ArithmeticSubarrays.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/arithmetic-subarrays/,
- *   Date:- 2024-04-13,
- *   Level:- Medium,
- *   Notes:- <iframe width="560" height="315" src="https://www.youtube.com/embed/ErHay1GfIqw?si=wKKzn1hjGWaOLmSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
- *   Companies:- Dunzo:Google:Bloomberg,
- *   Remarks:- LearnYard Problem:Good Question,
+ * <name>Arithmetic Subarrays</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ArithmeticSubarrays.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/arithmetic-subarrays/</url>
+ * <date>2024-04-13</date>
+ * <level>Medium</level>
+ * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/ErHay1GfIqw?si=wKKzn1hjGWaOLmSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
+ * <companies>Dunzo:Google:Bloomberg</companies>
+ * <remarks>LearnYard Problem:Good Question</remarks>
  * </metadata>
  * */
 public class ArithmeticSubArrays {

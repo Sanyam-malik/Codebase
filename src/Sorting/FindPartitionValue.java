@@ -4,14 +4,14 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Find the Value of the Partition,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/FindPartitionValue.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/find-the-value-of-the-partition/description/,
- *   Date:- 2024-04-15,
- *   Level:- Medium,
- *   Notes:- Just sort and find minimum of adjacent differences,
- *   Remarks:- LearnYard Problem,
+ * <name>Find the Value of the Partition</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/FindPartitionValue.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/find-the-value-of-the-partition/description/</url>
+ * <date>2024-04-15</date>
+ * <level>Medium</level>
+ * <notes>Just sort and find minimum of adjacent differences</notes>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class FindPartitionValue {

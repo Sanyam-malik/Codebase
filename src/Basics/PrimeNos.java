@@ -2,15 +2,15 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Prime Number,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Prime_Numbers.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/prime-number2314/1,
- *   Date:- 2024-02-15,
- *   Level:- Easy,
- *   Companies:- VMWare:Amazon:SAP Labs,
- *   Notes:- See this for All Approaches: <a href="https://www.geeksforgeeks.org/java-prime-number-program/">Click Here</a>,
- *   Remarks:- Revised Once,
+ * <name>Prime Number</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Prime_Numbers.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/prime-number2314/1</url>
+ * <date>2024-02-15</date>
+ * <level>Easy</level>
+ * <companies>VMWare:Amazon:SAP Labs</companies>
+ * <notes>See this for All Approaches: <a href="https://www.geeksforgeeks.org/java-prime-number-program/">Click Here</a></notes>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class PrimeNos {

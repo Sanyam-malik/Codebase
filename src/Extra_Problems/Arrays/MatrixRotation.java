@@ -5,14 +5,14 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Determine Whether Matrix Can Be Obtained By Rotation,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/DetermineMatrixRotation.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation,
- *   Date:- 2024-02-21,
- *   Level:- Easy,
- *   Companies:- Adobe,
- *   Notes:- 1. Naive: To Rotate Matrix by 90 Transpose the matrix and Switch the Columns <br /> 2. Understand the Pattern,
+ * <name>Determine Whether Matrix Can Be Obtained By Rotation</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/DetermineMatrixRotation.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation</url>
+ * <date>2024-02-21</date>
+ * <level>Easy</level>
+ * <companies>Adobe</companies>
+ * <notes>1. Naive: To Rotate Matrix by 90 Transpose the matrix and Switch the Columns <br /> 2. Understand the Pattern</notes>
  * </metadata>
  * */
 public class MatrixRotation {

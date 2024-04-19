@@ -4,13 +4,13 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Bubble Sort,
- *   Status:- Completed,
- *   URL:- https://wemakedevs.org,
- *   Date:- 2024-03-18,
- *   Level:- Easy,
- *   Notes:- Use two loops Check at each iteration if next no is smaller then previous if it is swap them,
- *   Remarks:- Important Technique:LearnYard Problem,
+ * <name>Bubble Sort</name>
+ * <status>Completed</status>
+ * <url>https://wemakedevs.org</url>
+ * <date>2024-03-18</date>
+ * <level>Easy</level>
+ * <notes>Use two loops Check at each iteration if next no is smaller then previous if it is swap them</notes>
+ * <remarks>Important Technique:LearnYard Problem</remarks>
  * </metadata>
  * */
 public class BubbleSort {

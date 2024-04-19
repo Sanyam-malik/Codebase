@@ -4,14 +4,14 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Qualifying to Pre-Elimination,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/QUALPREL.png">,
- *   URL:- https://www.codechef.com/problems/QUALPREL,
- *   Date:- 2024-04-05,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Remarks:- LearnYard Problem,
+ * <name>Qualifying to Pre-Elimination</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/QUALPREL.png"></description>
+ * <url>https://www.codechef.com/problems/QUALPREL</url>
+ * <date>2024-04-05</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class QualifyingPreelimination {

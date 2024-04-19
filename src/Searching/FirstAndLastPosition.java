@@ -4,16 +4,15 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Find First and Last Position of Element in Sorted Array,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/FirstLastPosition.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/,
- *   Date:- 2024-04-17,
- *   Level:- Medium,
- *   Notes:- No Notes Needed,
- *   Companies:- Uber:Adobe:Wipro:Amazon:Google:Oracle:VMWare:Airtel:Qualys:Facebook:LinkedIn:Verifone:Bloomberg:ByteDance:Microsoft:Ion Trading:Apptad Inc.:Goldman Sachs:Amadeus Software,
- *   Remarks:- LearnYard Problem
+ * <name>Find First and Last Position of Element in Sorted Array</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/FirstLastPosition.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/</url>
+ * <date>2024-04-17</date>
+ * <level>Medium</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Uber:Adobe:Wipro:Amazon:Google:Oracle:VMWare:Airtel:Qualys:Facebook:LinkedIn:Verifone:Bloomberg:ByteDance:Microsoft:Ion Trading:Apptad Inc.:Goldman Sachs:Amadeus Software</companies>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class FirstAndLastPosition {

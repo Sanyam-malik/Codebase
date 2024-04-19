@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Right triangle Star Pattern,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Right_Triangle_Star.png">,
- *   Status:- Completed,
- *   URL:- https://codeforwin.org/c-programming/right-triangle-star-pattern-program-in-c,
- *   Date:- 2024-02-15,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Remarks:- Revised Once:Needs Practice of Related Problems,
+ * <name>Right triangle Star Pattern</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Right_Triangle_Star.png"></description>
+ * <status>Completed</status>
+ * <url>https://codeforwin.org/c-programming/right-triangle-star-pattern-program-in-c</url>
+ * <date>2024-02-15</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <remarks>Revised Once:Needs Practice of Related Problems</remarks>
  * </metadata>
  * */
 public class RightTriangleStar {

@@ -4,14 +4,14 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Plus One,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/PlusOne.png">,
- *   URL:- https://leetcode.com/problems/plus-one,
- *   Date:- 2024-02-23,
- *   Level:- Easy,
- *   Companies:- Adobe:Apple:Google:Amazon:Facebook:ByteDance,
- *   Notes:- To Add One We have to reverse the no add the 1 to reversed no first digit if it exceeds 9 then add 1 to second digit and so on.,
+ * <name>Plus One</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/PlusOne.png"></description>
+ * <url>https://leetcode.com/problems/plus-one</url>
+ * <date>2024-02-23</date>
+ * <level>Easy</level>
+ * <companies>Adobe:Apple:Google:Amazon:Facebook:ByteDance</companies>
+ * <notes>To Add One We have to reverse the no add the 1 to reversed no first digit if it exceeds 9 then add 1 to second digit and so on.</notes>
  * </metadata>
  * */
 public class PlusOne {

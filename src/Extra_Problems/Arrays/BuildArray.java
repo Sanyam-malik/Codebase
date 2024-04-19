@@ -3,14 +3,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Build Array from Permutation,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Build_Array_Permutation.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/build-array-from-permutation,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Companies:- Uber:Apple:Adobe:Google,
- *   Notes:- No Notes Needed,
+ * <name>Build Array from Permutation</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Build_Array_Permutation.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/build-array-from-permutation</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <companies>Uber:Apple:Adobe:Google</companies>
+ * <notes>No Notes Needed</notes>
  * </metadata>
  * */
 public class BuildArray {

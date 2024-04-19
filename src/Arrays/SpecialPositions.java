@@ -4,14 +4,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Special Positions in a Binary Matrix,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/SpecialPositionsBinaryMatrix.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/special-positions-in-a-binary-matrix,
- *   Date:- 2024-02-27,
- *   Level:- Easy,
- *   Notes:- Calculate Row Sum, Column Sum, Comapre and Increment,
- *   Companies:- Google:Uber:Bloomberg,
+ * <name>Special Positions in a Binary Matrix</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/SpecialPositionsBinaryMatrix.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/special-positions-in-a-binary-matrix</url>
+ * <date>2024-02-27</date>
+ * <level>Easy</level>
+ * <notes>Calculate Row Sum</notes>
+ * <companies>Google:Uber:Bloomberg</companies>
  * </metadata>
  * */
 public class SpecialPositions {

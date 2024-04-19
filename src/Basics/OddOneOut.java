@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Odd One Out,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Odd_One_Out.png">,
- *   Status:- Completed,
- *   URL:- https://codeforces.com/contest/1915/problem/A,
- *   Date:- 2024-02-15,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Remarks:- Revised Once,
+ * <name>Odd One Out</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Odd_One_Out.png"></description>
+ * <status>Completed</status>
+ * <url>https://codeforces.com/contest/1915/problem/A</url>
+ * <date>2024-02-15</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class OddOneOut {

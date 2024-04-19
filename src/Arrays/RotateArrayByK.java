@@ -3,16 +3,15 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Rotate Array,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Rotate_Array.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/rotate-array/description/,
- *   Date:- 2024-03-13,
- *   Level:- Medium,
- *   Companies:- TCS:Yahoo:Amazon:Google:Facebook:Microsoft:Salesforce,
- *   Notes:- Solution 1 - New Array and Iterate from n-k-1 to end -> then iterate from start to k -> Saving the result </br>
- *          Solution 2 - Reverse the whole array -> reverse the elements upto k -> reverse from k+1 to end,
- *   Remarks:- LearnYard Problem:Needs Revision of Concept
+ * <name>Rotate Array</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Rotate_Array.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/rotate-array/description/</url>
+ * <date>2024-03-13</date>
+ * <level>Medium</level>
+ * <companies>TCS:Yahoo:Amazon:Google:Facebook:Microsoft:Salesforce</companies>
+ * <notes>Solution 1 - New Array and Iterate from n-k-1 to end -> then iterate from start to k -> Saving the result </br>           Solution 2 - Reverse the whole array -> reverse the elements upto k -> reverse from k+1 to end</notes>
+ * <remarks>LearnYard Problem:Needs Revision of Concept</remarks>
  * </metadata>
  * */
 public class RotateArrayByK {

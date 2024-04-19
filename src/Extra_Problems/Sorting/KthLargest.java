@@ -3,15 +3,15 @@ package Extra_Problems.Sorting;
 
 /*
  * <metadata>
- *   Name:- Kth Largest Element in an Array,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/KLargest.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/kth-largest-element-in-an-array/description/,
- *   Date:- 2024-04-12,
- *   Level:- Medium,
- *   Notes:- Use Arrays.sort() or PriorityQueue,
- *   Remarks:- Solve Using Priority Queue,
- *   Companies:- TCS:OYO:Hike:ABCO:eBay:Uber:Cisco:Apple:Optum:Adobe:VMWare:Amazon:Oracle:Paypal:Intuit:Sysvin:Google:tiktok:Expedia:Spotify:Samsung:Infosys:Alibaba:Facebook:Accolite:Snapdeal:LinkedIn:Sprinklr:Travclan:ByteDance:JP Morgan:Accenture:Microsoft:Bloomberg:Salesforce:GreenCloud:Walmart Labs:Pristyn Care:DealShare.in:Silicon Labs:Goldman Sachs:Times Internet:Newgen Software:McKinsey & Company:Hexaware Technologies,
+ * <name>Kth Largest Element in an Array</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/KLargest.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/kth-largest-element-in-an-array/description/</url>
+ * <date>2024-04-12</date>
+ * <level>Medium</level>
+ * <notes>Use Arrays.sort() or PriorityQueue</notes>
+ * <remarks>Solve Using Priority Queue</remarks>
+ * <companies>TCS:OYO:Hike:ABCO:eBay:Uber:Cisco:Apple:Optum:Adobe:VMWare:Amazon:Oracle:Paypal:Intuit:Sysvin:Google:tiktok:Expedia:Spotify:Samsung:Infosys:Alibaba:Facebook:Accolite:Snapdeal:LinkedIn:Sprinklr:Travclan:ByteDance:JP Morgan:Accenture:Microsoft:Bloomberg:Salesforce:GreenCloud:Walmart Labs:Pristyn Care:DealShare.in:Silicon Labs:Goldman Sachs:Times Internet:Newgen Software:McKinsey & Company:Hexaware Technologies</companies>
  * </metadata>
  * */
 public class KthLargest {

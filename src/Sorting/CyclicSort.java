@@ -5,13 +5,13 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Cyclic Sort,
- *   Status:- Completed,
- *   URL:- https://wemakedevs.org,
- *   Date:- 2024-03-18,
- *   Level:- Easy,
- *   Notes:- Find and swap the elements until each element is its in correct position,
- *   Remarks:- Important Technique:LearnYard Problem,
+ * <name>Cyclic Sort</name>
+ * <status>Completed</status>
+ * <url>https://wemakedevs.org</url>
+ * <date>2024-03-18</date>
+ * <level>Easy</level>
+ * <notes>Find and swap the elements until each element is its in correct position</notes>
+ * <remarks>Important Technique:LearnYard Problem</remarks>
  * </metadata>
  * */
 public class CyclicSort {

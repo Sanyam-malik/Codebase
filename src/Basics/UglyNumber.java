@@ -2,15 +2,15 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Ugly Number,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Ugly_Number.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/ugly-number,
- *   Date:- 2024-02-14,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Adobe:Apple:Amazon:Facebook:Bloomberg,
- *   Remarks:- Revised Once,
+ * <name>Ugly Number</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Ugly_Number.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/ugly-number</url>
+ * <date>2024-02-14</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Adobe:Apple:Amazon:Facebook:Bloomberg</companies>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class UglyNumber {

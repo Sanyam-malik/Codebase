@@ -2,14 +2,14 @@ package Searching;
 
 /*
  * <metadata>
- *   Name:- Number of occurrence - Revision,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Number_of_Occurence.png">,
- *   URL:- https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1,
- *   Date:- 2024-04-17,
- *   Level:- Easy,
- *   Companies:- Zoho:Amazon:MakeMyTrip,
- *   Notes:- Using Binary search Find First Occurrence and Last Occurrence then do last - first + 1,
+ * <name>Number of occurrence - Revision</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Number_of_Occurence.png"></description>
+ * <url>https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1</url>
+ * <date>2024-04-17</date>
+ * <level>Easy</level>
+ * <companies>Zoho:Amazon:MakeMyTrip</companies>
+ * <notes>Using Binary search Find First Occurrence and Last Occurrence then do last - first + 1</notes>
  * </metadata>
  * */
 public class NumberOfOccurence {

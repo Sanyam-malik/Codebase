@@ -9,14 +9,14 @@ import java.util.stream.Collectors;
 
 /*
  * <metadata>
- *   Name:- Number of Subarrays That Match a Pattern I,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Subarrays_That_Match_I.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/description/,
- *   Date:- 2024-03-24,
- *   Level:- Medium,
- *   Notes:- 1. Brute Force Using For Loops </br> 2. Using KMP Algorithm,
- *   Remark:- LearnYard Problem:Good Question:Needs Practice of Related Problems,
+ * <name>Number of Subarrays That Match a Pattern I</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Subarrays_That_Match_I.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/description/</url>
+ * <date>2024-03-24</date>
+ * <level>Medium</level>
+ * <notes>1. Brute Force Using For Loops </br> 2. Using KMP Algorithm</notes>
+ * <remark>LearnYard Problem:Good Question:Needs Practice of Related Problems</remark>
  * </metadata>
  * */
 public class SubArraysThatMatchI {

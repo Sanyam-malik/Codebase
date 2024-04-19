@@ -3,15 +3,15 @@ package Searching;
 
 /*
  * <metadata>
- *   Name:- Koko Eating Bananas,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/KokoBananas.png">,
- *   Status:- Completed,
- *   URL:- https://learnyard.com,
- *   Date:- 2024-04-09,
- *   Level:- Medium,
- *   Notes:- <iframe width="560" height="315" src="https://www.youtube.com/embed/qyfekrNni90?si=Tj6FkF9Uv5oJMqJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
- *   Remarks:- LearnYard Problem:Good Question,
- *   Companies:- Amazon:Google:Airbnb:Facebook:Microsoft,
+ * <name>Koko Eating Bananas</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/KokoBananas.png"></description>
+ * <status>Completed</status>
+ * <url>https://learnyard.com</url>
+ * <date>2024-04-09</date>
+ * <level>Medium</level>
+ * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/qyfekrNni90?si=Tj6FkF9Uv5oJMqJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
+ * <remarks>LearnYard Problem:Good Question</remarks>
+ * <companies>Amazon:Google:Airbnb:Facebook:Microsoft</companies>
  * </metadata>
  * */
 public class KokoLovesBananas {

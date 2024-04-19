@@ -4,14 +4,14 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Minimum difference between the pairs of elements,
- *   Description:- Given an array arr find minimum pair of elements such that i != j,
- *   Status:- Completed,
- *   URL:- https://learnyard.com,
- *   Date:- 2024-04-05,
- *   Level:- Easy,
- *   Notes:- Just Sort and find the minimum of difference,
- *   Remarks:- LearnYard Problem,
+ * <name>Minimum difference between the pairs of elements</name>
+ * <description>Given an array arr find minimum pair of elements such that i != j</description>
+ * <status>Completed</status>
+ * <url>https://learnyard.com</url>
+ * <date>2024-04-05</date>
+ * <level>Easy</level>
+ * <notes>Just Sort and find the minimum of difference</notes>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class MinimumDiffBwPairs {

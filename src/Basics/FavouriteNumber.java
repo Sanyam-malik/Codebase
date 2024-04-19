@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Favourite Numbers,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Favourite_Numbers.png">,
- *   Status:- Completed,
- *   URL:- https://www.codechef.com/problems/FAVOURITENUM,
- *   Date:- 2024-02-15,
- *   Level:- Easy,
- *   Notes:- Simple If Statements,
- *   Remarks:- Revised Once,
+ * <name>Favourite Numbers</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Favourite_Numbers.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.codechef.com/problems/FAVOURITENUM</url>
+ * <date>2024-02-15</date>
+ * <level>Easy</level>
+ * <notes>Simple If Statements</notes>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class FavouriteNumber {

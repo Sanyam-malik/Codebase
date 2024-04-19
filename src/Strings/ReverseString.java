@@ -2,14 +2,14 @@ package Strings;
 
 /*
  * <metadata>
- *   Name:- Reverse String,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ReverseString.png">,
- *   URL:- https://leetcode.com/problems/reverse-string/description,
- *   Date:- 2024-03-05,
- *   Level:- Easy,
- *   Companies:- Apple:Amazon:TCS:Intel:Adobe:Facebook:Microsoft,
- *   Notes:- Solution - Two pointers with replacing each time,
+ * <name>Reverse String</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ReverseString.png"></description>
+ * <url>https://leetcode.com/problems/reverse-string/description</url>
+ * <date>2024-03-05</date>
+ * <level>Easy</level>
+ * <companies>Apple:Amazon:TCS:Intel:Adobe:Facebook:Microsoft</companies>
+ * <notes>Solution - Two pointers with replacing each time</notes>
  * </metadata>
  * */
 public class ReverseString {

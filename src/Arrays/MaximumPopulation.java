@@ -2,17 +2,15 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Maximum Population Year,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/Maximum_Population_Year.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/maximum-population-year/description/,
- *   Date:- 2024-03-08,
- *   Level:- Easy,
- *   Remarks:- Complex To Understand,
- *   Companies:- Cisco:Google:Bloomberg,
- *   Notes:-
- *           Solution 1 Hint - Create a array of 100 length and add the 1 for range and then find the max,
+ * <name>Maximum Population Year</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Maximum_Population_Year.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/maximum-population-year/description/</url>
+ * <date>2024-03-08</date>
+ * <level>Easy</level>
+ * <remarks>Complex To Understand</remarks>
+ * <companies>Cisco:Google:Bloomberg</companies>
+ * <notes>Solution 1 Hint - Create a array of 100 length and add the 1 for range and then find the max</notes>
  * </metadata>
  * */
 public class MaximumPopulation {

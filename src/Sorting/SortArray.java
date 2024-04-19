@@ -2,15 +2,15 @@ package Sorting;
 import java.util.Arrays;
 /*
  * <metadata>
- *   Name:- Sort an Array,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/SortArray.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/sort-an-array/description/,
- *   Date:- 2024-04-11,
- *   Level:- Medium,
- *   Notes:- Just Use Arrays.sort() or Merge Sort (Quick Sort will work but will be slow because of edge cases),
- *   Remarks:- LearnYard Problem,
- *   Companies:- Amazon:Bloomberg,
+ * <name>Sort an Array</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/SortArray.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/sort-an-array/description/</url>
+ * <date>2024-04-11</date>
+ * <level>Medium</level>
+ * <notes>Just Use Arrays.sort() or Merge Sort (Quick Sort will work but will be slow because of edge cases)</notes>
+ * <remarks>LearnYard Problem</remarks>
+ * <companies>Amazon:Bloomberg</companies>
  * </metadata>
  * */
 public class SortArray {

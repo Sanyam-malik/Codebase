@@ -4,13 +4,13 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Insert element in already sorted array,
- *   Status:- Completed,
- *   URL:- https://learnyard.com,
- *   Date:- 2024-03-18,
- *   Level:- Easy,
- *   Notes:- Find the index by moving the elem to right if they are greator,
- *   Remarks:- Important Technique:LearnYard Problem,
+ * <name>Insert element in already sorted array</name>
+ * <status>Completed</status>
+ * <url>https://learnyard.com</url>
+ * <date>2024-03-18</date>
+ * <level>Easy</level>
+ * <notes>Find the index by moving the elem to right if they are greator</notes>
+ * <remarks>Important Technique:LearnYard Problem</remarks>
  * </metadata>
  * */
 public class InsertInSortedArray {

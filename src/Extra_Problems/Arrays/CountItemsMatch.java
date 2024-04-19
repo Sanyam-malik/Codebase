@@ -5,14 +5,14 @@ import java.util.stream.Collectors;
 
 /*
  * <metadata>
- *   Name:- Count Items Matching a Rule,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Count_Items_By_Rule.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/count-items-matching-a-rule,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Companies:- Adobe:Facebook,
- *   Notes:- No Notes Needed,
+ * <name>Count Items Matching a Rule</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Count_Items_By_Rule.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/count-items-matching-a-rule</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <companies>Adobe:Facebook</companies>
+ * <notes>No Notes Needed</notes>
  * </metadata>
  * */
 public class CountItemsMatch {

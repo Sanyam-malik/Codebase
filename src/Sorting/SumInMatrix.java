@@ -5,14 +5,14 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Sum in a Matrix,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/SumInMatrix.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/sum-in-a-matrix/description/,
- *   Date:- 2024-04-15,
- *   Level:- Medium,
- *   Notes:- Just sort matrix rowwise and normal for loop to find maximum and adding it to score,
- *   Remarks:- LearnYard Problem:Good Question,
+ * <name>Sum in a Matrix</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/SumInMatrix.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/sum-in-a-matrix/description/</url>
+ * <date>2024-04-15</date>
+ * <level>Medium</level>
+ * <notes>Just sort matrix rowwise and normal for loop to find maximum and adding it to score</notes>
+ * <remarks>LearnYard Problem:Good Question</remarks>
  * </metadata>
  * */
 public class SumInMatrix {

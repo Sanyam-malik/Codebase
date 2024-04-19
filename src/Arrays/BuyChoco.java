@@ -6,13 +6,13 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Buy Two Chocolates,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Buy_Two_Chocolates.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/buy-two-chocolates/description,
- *   Date:- 2024-03-28,
- *   Level:- Easy,
- *   Notes:- Simple find smallest and second smallest,
+ * <name>Buy Two Chocolates</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Buy_Two_Chocolates.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/buy-two-chocolates/description</url>
+ * <date>2024-03-28</date>
+ * <level>Easy</level>
+ * <notes>Simple find smallest and second smallest</notes>
  * </metadata>
  * */
 public class BuyChoco {

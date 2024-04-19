@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Sum Multiples,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Sum_Multiples.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/sum-multiples,
- *   Date:- 2024-02-15,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Remarks:- Revised Once,
+ * <name>Sum Multiples</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Sum_Multiples.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/sum-multiples</url>
+ * <date>2024-02-15</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class SumMultiples {

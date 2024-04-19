@@ -4,15 +4,15 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Count Inversions,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/CountInversions.png">,
- *   Status:- Try Again,
- *   URL:- https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1,
- *   Date:- 2024-04-11,
- *   Level:- Medium,
- *   Notes:- Recursive Variable to store the result and merge sort / quick sort,
- *   Remarks:- LearnYard Problem:Good Question,
- *   Companies:- Flipkart:Amazon:Microsoft:MakeMyTrip:Adobe:BankBazaar:Myntra,
+ * <name>Count Inversions</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/CountInversions.png"></description>
+ * <status>Try Again</status>
+ * <url>https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1</url>
+ * <date>2024-04-11</date>
+ * <level>Medium</level>
+ * <notes>Recursive Variable to store the result and merge sort / quick sort</notes>
+ * <remarks>LearnYard Problem:Good Question</remarks>
+ * <companies>Flipkart:Amazon:Microsoft:MakeMyTrip:Adobe:BankBazaar:Myntra</companies>
  * </metadata>
  * */
 public class CountInversions {

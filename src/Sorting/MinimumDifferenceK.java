@@ -5,15 +5,15 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Minimum Difference among K,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumDifferenceK.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/minimum-difference-among-k5805/1,
- *   Date:- 2024-04-05,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Amazon,
- *   Remarks:- LearnYard Problem,
+ * <name>Minimum Difference among K</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumDifferenceK.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/minimum-difference-among-k5805/1</url>
+ * <date>2024-04-05</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Amazon</companies>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class MinimumDifferenceK {

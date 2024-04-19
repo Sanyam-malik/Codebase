@@ -8,15 +8,14 @@ import java.util.Set;
 
 /*
  * <metadata>
- *   Name:- Find All Numbers Disappeared in an Array,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/NumbersDisappeared.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/,
- *   Date:- 2024-03-07,
- *   Level:- Easy,
- *   Companies:- Apple:Amazon:Facebook:Microsoft,
- *   Notes:- Solution 1 Hint - Use Set or boolean Array</br></br>Solution 2 Hint - Use Cyclic Sort,
+ * <name>Find All Numbers Disappeared in an Array</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/NumbersDisappeared.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/</url>
+ * <date>2024-03-07</date>
+ * <level>Easy</level>
+ * <companies>Apple:Amazon:Facebook:Microsoft</companies>
+ * <notes>Solution 1 Hint - Use Set or boolean Array</br></br>Solution 2 Hint - Use Cyclic Sort</notes>
  * </metadata>
  * */
 public class NumbersDisappeared {

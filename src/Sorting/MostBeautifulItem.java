@@ -4,15 +4,15 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Most Beautiful Item for Each Query,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/MostBeautifulItem.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/most-beautiful-item-for-each-query/description/,
- *   Date:- 2024-04-14,
- *   Level:- Medium,
- *   Notes:- Sort According to Prices Create Prefix Max Array and Prices Array to Do the Binary Search,
- *   Companies:- Postmates,
- *   Remarks:- LearnYard Problem:Good Question,
+ * <name>Most Beautiful Item for Each Query</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MostBeautifulItem.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/most-beautiful-item-for-each-query/description/</url>
+ * <date>2024-04-14</date>
+ * <level>Medium</level>
+ * <notes>Sort According to Prices Create Prefix Max Array and Prices Array to Do the Binary Search</notes>
+ * <companies>Postmates</companies>
+ * <remarks>LearnYard Problem:Good Question</remarks>
  * </metadata>
  * */
 public class MostBeautifulItem {

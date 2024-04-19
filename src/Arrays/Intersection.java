@@ -5,15 +5,14 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Common elements,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/Common_elements.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/common-elements1132/1,
- *   Date:- 2024-03-07,
- *   Level:- Easy,
- *   Companies:- VMWare:Microsoft:MAQ Software,
- *   Notes:- Solution Hint - Great Intersection Technique of All Time,
+ * <name>Common elements</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Common_elements.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/common-elements1132/1</url>
+ * <date>2024-03-07</date>
+ * <level>Easy</level>
+ * <companies>VMWare:Microsoft:MAQ Software</companies>
+ * <notes>Solution Hint - Great Intersection Technique of All Time</notes>
  * </metadata>
  * */
 public class Intersection {

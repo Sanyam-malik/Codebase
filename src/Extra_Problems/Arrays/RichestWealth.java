@@ -3,14 +3,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Richest Customer Wealth - Revision,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/richest-customer-wealth,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Richest_Customer_Wealth.png">,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Adobe,
+ * <name>Richest Customer Wealth - Revision</name>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/richest-customer-wealth</url>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Richest_Customer_Wealth.png"></description>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Adobe</companies>
  * </metadata>
  * */
 public class RichestWealth {

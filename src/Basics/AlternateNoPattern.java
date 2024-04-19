@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Alternate Number Pattern,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Alternative_Number_Pattern.png">,
- *   Status:- Completed,
- *   URL:- https://codeforwin.org/c-programming/c-program-to-print-number-pattern-with-0-1-at-alternate-rows,
- *   Date:- 2024-02-15,
- *   Level:- Easy,
- *   Notes:- At even places 0 else 1,
- *   Remarks:- Revised Once,
+ * <name>Alternate Number Pattern</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Alternative_Number_Pattern.png"></description>
+ * <status>Completed</status>
+ * <url>https://codeforwin.org/c-programming/c-program-to-print-number-pattern-with-0-1-at-alternate-rows</url>
+ * <date>2024-02-15</date>
+ * <level>Easy</level>
+ * <notes>At even places 0 else 1</notes>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class AlternateNoPattern {

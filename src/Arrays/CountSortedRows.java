@@ -3,15 +3,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Count Sorted rows,
- *   Status:- Completed,
- *   Description:- Given two integers N and M and a matrix of dimensions N*M. Count all the rows in a matrix that are sorted either in strictly increasing order or in strictly decreasing order.
-     </br></br><img src="http://lordmaximus.duckdns.org:9000/codebase/Count_Sorted_Rows.png">,
- *   URL:- https://www.geeksforgeeks.org/problems/count-sorted-rows2702/1,
- *   Date:- 2024-02-28,
- *   Level:- Easy,
- *   Companies:- Samsung,
- *   Notes:- Solution - Iterate for Rows and inside iterate for column and compare it to next element and set the incr and decr variables if the length of either of these is equal to column size then increse count else do nothing,
+ * <name>Count Sorted rows</name>
+ * <status>Completed</status>
+ * <description>Given two integers N and M and a matrix of dimensions NM. Count all the rows in a matrix that are sorted either in strictly increasing order or in strictly decreasing order.     </br></br><img src="http://lordmaximus.duckdns.org:9000/codebase/Count_Sorted_Rows.png"></description>
+ * <url>https://www.geeksforgeeks.org/problems/count-sorted-rows2702/1</url>
+ * <date>2024-02-28</date>
+ * <level>Easy</level>
+ * <companies>Samsung</companies>
+ * <notes>Solution - Iterate for Rows and inside iterate for column and compare it to next element and set the incr and decr variables if the length of either of these is equal to column size then increse count else do nothing</notes>
  * </metadata>
  * */
 public class CountSortedRows {

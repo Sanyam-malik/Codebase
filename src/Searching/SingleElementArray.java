@@ -3,15 +3,15 @@ package Searching;
 
 /*
  * <metadata>
- *   Name:- Single Element in a Sorted Array,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/SingleElementArray.png">,
- *   URL:- https://leetcode.com/problems/single-element-in-a-sorted-array/description/,
- *   Date:- 2024-04-19,
- *   Level:- Medium,
- *   Companies:- Apple:Amazon:Google:Nvidia:Facebook:Microsoft,
- *   Notes:- See The code </br> <iframe width="560" height="315" src="https://www.youtube.com/embed/AZOmHuHadxQ?si=f9LxViORaaSk2aET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
- *   Remarks:- LearnYard Problem:Good Question
+ * <name>Single Element in a Sorted Array</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/SingleElementArray.png"></description>
+ * <url>https://leetcode.com/problems/single-element-in-a-sorted-array/description/</url>
+ * <date>2024-04-19</date>
+ * <level>Medium</level>
+ * <companies>Apple:Amazon:Google:Nvidia:Facebook:Microsoft</companies>
+ * <notes>See The code </br> <iframe width="560" height="315" src="https://www.youtube.com/embed/AZOmHuHadxQ?si=f9LxViORaaSk2aET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
+ * <remarks>LearnYard Problem:Good Question</remarks>
  * </metadata>
  * */
 public class SingleElementArray {

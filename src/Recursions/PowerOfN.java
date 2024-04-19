@@ -3,11 +3,11 @@ package Recursions;
 
 /*
  * <metadata>
- *   Name:- Power Of Number,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1,
- *   Date:- 2024-03-15,
- *   Level:- Easy,
+ * <name>Power Of Number</name>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1</url>
+ * <date>2024-03-15</date>
+ * <level>Easy</level>
  * </metadata>
  * */
 public class PowerOfN {

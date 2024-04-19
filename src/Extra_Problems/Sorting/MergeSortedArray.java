@@ -2,15 +2,15 @@ package Extra_Problems.Sorting;
 
 /*
  * <metadata>
- *   Name:- Merge Sorted Array - Revision,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Merge_Sorted_Array.png">,
- *   Status:- Try Again,
- *   URL:- https://leetcode.com/problems/merge-sorted-array,
- *   Date:- 2024-04-16,
- *   Level:- Easy,
- *   Companies:- Uber:Apple:Amazon:Shopee:Indeed:Oracle:Facebook:LinkedIn:Microsoft:Bloomberg,
- *   Notes:- Compare and merge you could use a new array or use hint,
- *   Remarks:- LearnYard Problem,
+ * <name>Merge Sorted Array - Revision</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Merge_Sorted_Array.png"></description>
+ * <status>Try Again</status>
+ * <url>https://leetcode.com/problems/merge-sorted-array</url>
+ * <date>2024-04-16</date>
+ * <level>Easy</level>
+ * <companies>Uber:Apple:Amazon:Shopee:Indeed:Oracle:Facebook:LinkedIn:Microsoft:Bloomberg</companies>
+ * <notes>Compare and merge you could use a new array or use hint</notes>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class MergeSortedArray {

@@ -6,14 +6,13 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Cyclically rotate an array by one,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/CyclicallyRotateArray.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1,
- *   Date:- 2024-03-08,
- *   Level:- Easy,
- *   Notes:- Create a new Reverse Array skip upto k(here k=1) and add the original numbers to reverse array and then set all the elem from reverse to original array,
+ * <name>Cyclically rotate an array by one</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/CyclicallyRotateArray.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1</url>
+ * <date>2024-03-08</date>
+ * <level>Easy</level>
+ * <notes>Create a new Reverse Array skip upto k(here k=1) and add the original numbers to reverse array and then set all the elem from reverse to original array</notes>
  * </metadata>
  * */
 public class CyclicRotate {

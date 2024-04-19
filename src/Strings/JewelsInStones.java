@@ -3,15 +3,14 @@ package Strings;
 
 /*
  * <metadata>
- *   Name:- Jewels and Stones,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/JewelsAndStones.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/jewels-and-stones/description/,
- *   Date:- 2024-03-06,
- *   Level:- Easy,
- *   Companies:- Amazon:Adobe:Google,
- *   Notes:- Hint - String to charArray and iterate over,
+ * <name>Jewels and Stones</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/JewelsAndStones.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/jewels-and-stones/description/</url>
+ * <date>2024-03-06</date>
+ * <level>Easy</level>
+ * <companies>Amazon:Adobe:Google</companies>
+ * <notes>Hint - String to charArray and iterate over</notes>
  * </metadata>
  * */
 public class JewelsInStones {

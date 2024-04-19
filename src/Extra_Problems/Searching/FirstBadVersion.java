@@ -6,15 +6,15 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- First Bad Version,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/BadVersion.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/first-bad-version/description/,
- *   Date:- 2024-04-12,
- *   Level:- Easy,
- *   Notes:- Use Binary Search,
- *   Remarks:- Kunal Kushwaha,
- *   Companies:- Apple:Adobe:Cisco:Google:Amazon:Facebook:Microsoft,
+ * <name>First Bad Version</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/BadVersion.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/first-bad-version/description/</url>
+ * <date>2024-04-12</date>
+ * <level>Easy</level>
+ * <notes>Use Binary Search</notes>
+ * <remarks>Kunal Kushwaha</remarks>
+ * <companies>Apple:Adobe:Cisco:Google:Amazon:Facebook:Microsoft</companies>
  * </metadata>
  * */
 public class FirstBadVersion {

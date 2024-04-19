@@ -4,13 +4,13 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Merge Sort,
- *   Status:- Completed,
- *   URL:- https://wemakedevs.org,
- *   Date:- 2024-03-18,
- *   Level:- Easy,
- *   Notes:- Use the recursion to divide the array and sort the array each time,
- *   Remarks:- Important Technique:LearnYard Problem,
+ * <name>Merge Sort</name>
+ * <status>Completed</status>
+ * <url>https://wemakedevs.org</url>
+ * <date>2024-03-18</date>
+ * <level>Easy</level>
+ * <notes>Use the recursion to divide the array and sort the array each time</notes>
+ * <remarks>Important Technique:LearnYard Problem</remarks>
  * </metadata>
  * */
 public class MergeSort {

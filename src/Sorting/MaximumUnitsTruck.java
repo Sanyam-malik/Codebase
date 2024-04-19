@@ -4,15 +4,15 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Maximum Units on a Truck,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/MaximumUnitsTruck.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/maximum-units-on-a-truck/description/,
- *   Date:- 2024-04-13,
- *   Level:- Easy,
- *   Notes:- Sort the 2D Descending of No of units per box using Custom Comparator,
- *   Companies:- Amazon:JPMorgan:LinkedIn,
- *   Remarks:- LearnYard Problem,
+ * <name>Maximum Units on a Truck</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MaximumUnitsTruck.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/maximum-units-on-a-truck/description/</url>
+ * <date>2024-04-13</date>
+ * <level>Easy</level>
+ * <notes>Sort the 2D Descending of No of units per box using Custom Comparator</notes>
+ * <companies>Amazon:JPMorgan:LinkedIn</companies>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class MaximumUnitsTruck {

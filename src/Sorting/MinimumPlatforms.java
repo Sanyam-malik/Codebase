@@ -3,15 +3,15 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Minimum Platforms,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumPlatforms.png">,
- *   Status:- Try Again,
- *   URL:- https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1,
- *   Date:- 2024-04-12,
- *   Level:- Medium,
- *   Notes:- Just Sort and while arr[i] <= dept[i] platform++ else platform-- </br></br> <a href="https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/">Solution Link</a> </br></br> <iframe width="560" height="315" src="https://www.youtube.com/embed/dxVcMDI7vyI?si=RFVQOlkLpKeTXcKF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
- *   Companies:- Paytm:Amazon:Microsoft:DE Shaw:Hike:Walmart:Adobe:Google:Boomerang Commerce:Zillious:Atlassian,
- *   Remarks:- LearnYard Problem,
+ * <name>Minimum Platforms</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumPlatforms.png"></description>
+ * <status>Try Again</status>
+ * <url>https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1</url>
+ * <date>2024-04-12</date>
+ * <level>Medium</level>
+ * <notes>Just Sort and while arr[i] <= dept[i] platform++ else platform-- </br></br> <a href="https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/">Solution Link</a> </br></br> <iframe width="560" height="315" src="https://www.youtube.com/embed/dxVcMDI7vyI?si=RFVQOlkLpKeTXcKF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
+ * <companies>Paytm:Amazon:Microsoft:DE Shaw:Hike:Walmart:Adobe:Google:Boomerang Commerce:Zillious:Atlassian</companies>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class MinimumPlatforms {

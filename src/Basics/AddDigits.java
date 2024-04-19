@@ -2,15 +2,15 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Add Digits,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Add_Digits.png">,
- *   URL:- https://leetcode.com/problems/add-digits,
- *   Date:- 2024-02-14,
- *   Level:- Easy,
- *   Notes:- Modulus and Divide Technique to Sum the Digits,
- *   Companies:- Bloomberg,
- *   Remarks:- Revised Once,
+ * <name>Add Digits</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Add_Digits.png"></description>
+ * <url>https://leetcode.com/problems/add-digits</url>
+ * <date>2024-02-14</date>
+ * <level>Easy</level>
+ * <notes>Modulus and Divide Technique to Sum the Digits</notes>
+ * <companies>Bloomberg</companies>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class AddDigits {

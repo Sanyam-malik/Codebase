@@ -4,13 +4,13 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Insertion Sort,
- *   Status:- Completed,
- *   URL:- https://wemakedevs.org,
- *   Date:- 2024-03-18,
- *   Level:- Easy,
- *   Notes:- Divide the array into sorted and unsorted parts,
- *   Remarks:- Important Technique:LearnYard Problem,
+ * <name>Insertion Sort</name>
+ * <status>Completed</status>
+ * <url>https://wemakedevs.org</url>
+ * <date>2024-03-18</date>
+ * <level>Easy</level>
+ * <notes>Divide the array into sorted and unsorted parts</notes>
+ * <remarks>Important Technique:LearnYard Problem</remarks>
  * </metadata>
  * */
 public class InsertionSort {

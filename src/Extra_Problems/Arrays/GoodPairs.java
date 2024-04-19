@@ -3,15 +3,15 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Number of Good Pairs - Revision,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81My5wbmc=&version_id=null">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/number-of-good-pairs,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Remarks:- Needs Algorithm Improvement,
- *   Companies:- Adobe:Amazon:Microsoft,
- *   Notes:- Solution 1 - Nested Loops,
+ * <name>Number of Good Pairs - Revision</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81My5wbmc=&version_id=null"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/number-of-good-pairs</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <remarks>Needs Algorithm Improvement</remarks>
+ * <companies>Adobe:Amazon:Microsoft</companies>
+ * <notes>Solution 1 - Nested Loops</notes>
  * </metadata>
  * */
 public class GoodPairs {

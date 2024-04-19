@@ -3,15 +3,15 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Max Consecutive Ones III,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Max_Consecutive_Ones_III.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/max-consecutive-ones-iii/description/,
- *   Date:- 2024-03-12,
- *   Level:- Medium,
- *   Companies:- Apple:Google:Amazon:Facebook:Microsoft:ByteDance:Bloomberg,
- *   Remarks:- Needs Revision of Concept:LearnYard Problem,
- *   Notes:- Use Variable Sliding Window if zero is encountered update the zero count else increase the window size if zero count is greator shrink the size,
+ * <name>Max Consecutive Ones III</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Max_Consecutive_Ones_III.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/max-consecutive-ones-iii/description/</url>
+ * <date>2024-03-12</date>
+ * <level>Medium</level>
+ * <companies>Apple:Google:Amazon:Facebook:Microsoft:ByteDance:Bloomberg</companies>
+ * <remarks>Needs Revision of Concept:LearnYard Problem</remarks>
+ * <notes>Use Variable Sliding Window if zero is encountered update the zero count else increase the window size if zero count is greator shrink the size</notes>
  * </metadata>
  * */
 public class MaxConsecutiveOnesIII {

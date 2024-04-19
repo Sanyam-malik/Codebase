@@ -2,14 +2,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Concatenation of Array,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Concatenation_of_Array.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/concatenation-of-array,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Companies:- Adobe:Google,
- *   Notes:- No Notes Needed,
+ * <name>Concatenation of Array</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Concatenation_of_Array.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/concatenation-of-array</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <companies>Adobe:Google</companies>
+ * <notes>No Notes Needed</notes>
  * </metadata>
  * */
 public class ConcatArray {

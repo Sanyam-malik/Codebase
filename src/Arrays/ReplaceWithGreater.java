@@ -3,15 +3,15 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Replace Elements with Greatest Element on Right Side,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ReplaceElementWithGreatest">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side,
- *   Date:- 2024-02-27,
- *   Level:- Easy,
- *   Remarks:- Complex To Understand,
- *   Companies:- Facebook,
- *   Notes:- Confusion in Concept is it suffix max? I think it is,
+ * <name>Replace Elements with Greatest Element on Right Side</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ReplaceElementWithGreatest"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side</url>
+ * <date>2024-02-27</date>
+ * <level>Easy</level>
+ * <remarks>Complex To Understand</remarks>
+ * <companies>Facebook</companies>
+ * <notes>Confusion in Concept is it suffix max? I think it is</notes>
  * </metadata>
  * */
 public class ReplaceWithGreater {

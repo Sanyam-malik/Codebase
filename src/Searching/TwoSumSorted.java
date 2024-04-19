@@ -5,15 +5,15 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Two Sum II - Input Array Is Sorted,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/TwoSumII.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/,
- *   Date:- 2024-04-18,
- *   Level:- Medium,
- *   Notes:- Two Pointers <br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/l4vR-Crulmk?si=ORTfmfz99slON7ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
- *   Companies:- Adobe:Apple:Yahoo:Amazon:Google:Microsoft,
- *   Remarks:- LearnYard Problem,
+ * <name>Two Sum II - Input Array Is Sorted</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/TwoSumII.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/</url>
+ * <date>2024-04-18</date>
+ * <level>Medium</level>
+ * <notes>Two Pointers <br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/l4vR-Crulmk?si=ORTfmfz99slON7ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
+ * <companies>Adobe:Apple:Yahoo:Amazon:Google:Microsoft</companies>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class TwoSumSorted {

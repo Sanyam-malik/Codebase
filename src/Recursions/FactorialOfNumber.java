@@ -4,11 +4,11 @@ package Recursions;
 
 /*
  * <metadata>
- *   Name:- Factorial Of Number,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/program-for-factorial-of-a-number/,
- *   Date:- 2024-03-15,
- *   Level:- Easy,
+ * <name>Factorial Of Number</name>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/program-for-factorial-of-a-number/</url>
+ * <date>2024-03-15</date>
+ * <level>Easy</level>
  * </metadata>
  * */
 public class FactorialOfNumber {

@@ -2,13 +2,13 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Number of Employees Who Met the Target,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/NoOfEmployees.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/number-of-employees-who-met-the-target,
- *   Date:- 2024-02-23,
- *   Level:- Easy,
- *   Notes:- Simple Compare is Enough,
+ * <name>Number of Employees Who Met the Target</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/NoOfEmployees.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/number-of-employees-who-met-the-target</url>
+ * <date>2024-02-23</date>
+ * <level>Easy</level>
+ * <notes>Simple Compare is Enough</notes>
  * </metadata>
  * */
 public class NumberOfEmployees {

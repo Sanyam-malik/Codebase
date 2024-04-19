@@ -4,20 +4,15 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Next Permutation,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/Next_Permutation.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/next-permutation/description/,
- *   Date:- 2024-03-15,
- *   Level:- Medium,
- *   Companies:- Amazon:Microsoft,
- *   Notes:- Solution 1: Find the breaking point
- *   </br><img src="https://assets.leetcode.com/users/images/ec3b008b-3542-429e-aefe-07d870e88e5d_1682940260.9485922.png"></br>
- *   </br>Swap the breaking point index value with the index that is just greator than the breaking point value
- *   </br>Reverse the array from breaking part</br>,
- *   Remarks:- LearnYard Problem:Good Question:Needs Revision of Concept,
- * ,
+ * <name>Next Permutation</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Next_Permutation.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/next-permutation/description/</url>
+ * <date>2024-03-15</date>
+ * <level>Medium</level>
+ * <companies>Amazon:Microsoft</companies>
+ * <notes>Solution 1: Find the breaking point    </br><img src="https://assets.leetcode.com/users/images/ec3b008b-3542-429e-aefe-07d870e88e5d_1682940260.9485922.png"></br>    </br>Swap the breaking point index value with the index that is just greator than the breaking point value    </br>Reverse the array from breaking part</br></notes>
+ * <remarks>LearnYard Problem:Good Question:Needs Revision of Concept</remarks>
  * </metadata>
  * */
 public class NextPermutation {

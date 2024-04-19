@@ -4,13 +4,13 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Selection Sort,
- *   Status:- Completed,
- *   URL:- https://wemakedevs.org,
- *   Date:- 2024-03-18,
- *   Level:- Easy,
- *   Notes:- Use two loops get the index with the smallest no and swap if the min index != current index,
- *   Remarks:- Important Technique:LearnYard Problem,
+ * <name>Selection Sort</name>
+ * <status>Completed</status>
+ * <url>https://wemakedevs.org</url>
+ * <date>2024-03-18</date>
+ * <level>Easy</level>
+ * <notes>Use two loops get the index with the smallest no and swap if the min index != current index</notes>
+ * <remarks>Important Technique:LearnYard Problem</remarks>
  * </metadata>
  * */
 public class SelectionSort {

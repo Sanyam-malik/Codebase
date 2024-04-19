@@ -6,16 +6,14 @@ import java.util.Map;
 
 /*
  * <metadata>
- *   Name:- Count Number of Nice Subarrays,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Count_Numbers_Nice_Subarrays.png">,
- *   Status:- Try Again,
- *   URL:- https://leetcode.com/problems/count-number-of-nice-subarrays/description,
- *   Date:- 2024-03-11,
- *   Level:- Medium,
- *   Remarks:- Needs Learning:Needs Practice of Related Problems,
- *   Notes:- Solution 1- Using list and two for loops</br></br>
- *      Solution 2- </br><iframe width="560" height="315" src="https://www.youtube.com/embed/atUJS7ArOY0?si=cez2IYUKJf0O1DNe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></br>
- *      Solution 3- </br><iframe width="560" height="315" src="https://www.youtube.com/embed/zm460v4n2Ic?si=xyJq-UZ6Z_1Ct5CT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>,
+ * <name>Count Number of Nice Subarrays</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Count_Numbers_Nice_Subarrays.png"></description>
+ * <status>Try Again</status>
+ * <url>https://leetcode.com/problems/count-number-of-nice-subarrays/description</url>
+ * <date>2024-03-11</date>
+ * <level>Medium</level>
+ * <remarks>Needs Learning:Needs Practice of Related Problems</remarks>
+ * <notes>Solution 1- Using list and two for loops</br></br>       Solution 2- </br><iframe width="560" height="315" src="https://www.youtube.com/embed/atUJS7ArOY0?si=cez2IYUKJf0O1DNe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></br>       Solution 3- </br><iframe width="560" height="315" src="https://www.youtube.com/embed/zm460v4n2Ic?si=xyJq-UZ6Z_1Ct5CT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></notes>
  * </metadata>
  * */
 public class CountNiceSubArrays {

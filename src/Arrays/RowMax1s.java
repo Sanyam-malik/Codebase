@@ -3,14 +3,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Row with max 1s,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Row_with_Max1s.png">,
- *   URL:- https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1,
- *   Date:- 2024-02-27,
- *   Level:- Medium,
- *   Companies:- Amazon:Microsoft:Snapdeal,
- *   Notes:- Regular 2 For Loop,
+ * <name>Row with max 1s</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Row_with_Max1s.png"></description>
+ * <url>https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1</url>
+ * <date>2024-02-27</date>
+ * <level>Medium</level>
+ * <companies>Amazon:Microsoft:Snapdeal</companies>
+ * <notes>Regular 2 For Loop</notes>
  * </metadata>
  * */
 public class RowMax1s {

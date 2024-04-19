@@ -4,17 +4,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Maximum Average Subarray I,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/Maximus_Average_Subarray_I.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/maximum-average-subarray-i/description/,
- *   Date:- 2024-03-08,
- *   Level:- Easy,
- *   Companies:- Facebook,
- *   Notes:-
- *           Solution 1 Hint - Naive Approach Two for loops</br></br>
- *           Solution 2 Hint - Sliding Window calculate runningSum for first window then reduce the runningSum in other for loop one by one and add next element and calculate tempAverage,
+ * <name>Maximum Average Subarray I</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Maximus_Average_Subarray_I.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/maximum-average-subarray-i/description/</url>
+ * <date>2024-03-08</date>
+ * <level>Easy</level>
+ * <companies>Facebook</companies>
+ * <notes>Solution 1 Hint - Naive Approach Two for loops</br></br>            Solution 2 Hint - Sliding Window calculate runningSum for first window then reduce the runningSum in other for loop one by one and add next element and calculate tempAverage</notes>
  * </metadata>
  * */
 public class MaxSubArrayAverage {

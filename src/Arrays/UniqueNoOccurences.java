@@ -6,14 +6,14 @@ import java.util.Map;
 
 /*
  * <metadata>
- *   Name:- Unique Number of Occurrences,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Unique_Number_Occurrences.png">,
- *   URL:- https://leetcode.com/problems/unique-number-of-occurrences,
- *   Date:- 2024-02-27,
- *   Level:- Easy,
- *   Notes:- HashMap or Array(26 length) to count Occurences,
- *   Companies:- Adobe:Apple:Amazon:Google:Facebook:Bloomberg,
+ * <name>Unique Number of Occurrences</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Unique_Number_Occurrences.png"></description>
+ * <url>https://leetcode.com/problems/unique-number-of-occurrences</url>
+ * <date>2024-02-27</date>
+ * <level>Easy</level>
+ * <notes>HashMap or Array(26 length) to count Occurences</notes>
+ * <companies>Adobe:Apple:Amazon:Google:Facebook:Bloomberg</companies>
  * </metadata>
  * */
 public class UniqueNoOccurences {

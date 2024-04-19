@@ -4,14 +4,13 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Count Pairs Whose Sum is Less than Target,
- *   Description:- Given a 0-indexed integer array nums of length n and an integer target return the number of pairs (i j) where 0 <= i < j < n and nums[i] + nums[j] < target.</br></br>
-     <img src="http://lordmaximus.duckdns.org:9000/codebase/CountPairsSumTarget.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target,
- *   Date:- 2024-02-27,
- *   Level:- Easy,
- *   Notes:- Solution 1 Hint - Two for Loops? </br></br> Solution 2 Hint - Sort and iterate once using two pointers (N Log N)?,
+ * <name>Count Pairs Whose Sum is Less than Target</name>
+ * <description>Given a 0-indexed integer array nums of length n and an integer target return the number of pairs (i j) where 0 <= i < j < n and nums[i] + nums[j] < target.</br></br>     <img src="http://lordmaximus.duckdns.org:9000/codebase/CountPairsSumTarget.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target</url>
+ * <date>2024-02-27</date>
+ * <level>Easy</level>
+ * <notes>Solution 1 Hint - Two for Loops? </br></br> Solution 2 Hint - Sort and iterate once using two pointers (N Log N)?</notes>
  * </metadata>
  * */
 public class CountNoFairPairs {

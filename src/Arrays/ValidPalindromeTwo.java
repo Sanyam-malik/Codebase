@@ -2,15 +2,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Valid Palindrome II,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/ValidPalindromeII.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/valid-palindrome-ii/description/,
- *   Date:- 2024-03-06,
- *   Companies:- Apple:Amazon:Oracle:Facebook:Microsoft:Bloomberg:WalmartGlobalTec,
- *   Level:- Easy,
- *   Notes:- Solution Hint - If the start and end do not match skip the left or right character if after one skip it becomes palindrome it is true,
+ * <name>Valid Palindrome II</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ValidPalindromeII.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/valid-palindrome-ii/description/</url>
+ * <date>2024-03-06</date>
+ * <companies>Apple:Amazon:Oracle:Facebook:Microsoft:Bloomberg:WalmartGlobalTec</companies>
+ * <level>Easy</level>
+ * <notes>Solution Hint - If the start and end do not match skip the left or right character if after one skip it becomes palindrome it is true</notes>
  * </metadata>
  * */
 public class ValidPalindromeTwo {

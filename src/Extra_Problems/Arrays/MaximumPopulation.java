@@ -2,14 +2,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Maximum Population Year - Revision,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Maximum_Population_Year.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/maximum-population-year,
- *   Date:- 2024-02-20,
- *   Level:- Easy,
- *   Companies:- Cisco:Google:Bloomberg,
- *   Notes:- Wow Great Question!!!,
+ * <name>Maximum Population Year - Revision</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Maximum_Population_Year.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/maximum-population-year</url>
+ * <date>2024-02-20</date>
+ * <level>Easy</level>
+ * <companies>Cisco:Google:Bloomberg</companies>
+ * <notes>Wow Great Question!!!</notes>
  * </metadata>
  * */
 public class MaximumPopulation {

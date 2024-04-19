@@ -2,17 +2,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Longest Alternating Subarray,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/LongestAlternatingSubarray.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/longest-alternating-subarray/description/,
- *   Date:- 2024-03-08,
- *   Level:- Easy,
- *   Remarks:- Solve Using Dynamic Programming,
- *   Notes:-
- *           Solution 1 Hint - Kadane Algorithm</br></br>
- *           Solution 2 Hint - Using Dp,
+ * <name>Longest Alternating Subarray</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/LongestAlternatingSubarray.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/longest-alternating-subarray/description/</url>
+ * <date>2024-03-08</date>
+ * <level>Easy</level>
+ * <remarks>Solve Using Dynamic Programming</remarks>
+ * <notes>Solution 1 Hint - Kadane Algorithm</br></br>            Solution 2 Hint - Using Dp</notes>
  * </metadata>
  * */
 class AlternatingSubArray {

@@ -5,15 +5,14 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Make The String Great,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/MakeStringGreat.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/make-the-string-great/description/,
- *   Date:- 2024-03-06,
- *   Level:- Easy,
- *   Companies:- Adobe:Google,
- *   Notes:- Solution Hint - Use Stacks Why because if Uppercase alphabet is found we have delete its corresponding lowercase character then recheck,
+ * <name>Make The String Great</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MakeStringGreat.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/make-the-string-great/description/</url>
+ * <date>2024-03-06</date>
+ * <level>Easy</level>
+ * <companies>Adobe:Google</companies>
+ * <notes>Solution Hint - Use Stacks Why because if Uppercase alphabet is found we have delete its corresponding lowercase character then recheck</notes>
  * </metadata>
  * */
 public class MakeStringGood {

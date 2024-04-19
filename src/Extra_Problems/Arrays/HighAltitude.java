@@ -4,14 +4,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Find the Highest Altitude,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Find_Highest_Altitude.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/find-the-highest-altitude,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Companies:- Apple:Cisco:Expedia:Incedo Inc:DE Shaw India,
- *   Notes:- No Notes Needed,
+ * <name>Find the Highest Altitude</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Find_Highest_Altitude.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/find-the-highest-altitude</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <companies>Apple:Cisco:Expedia:Incedo Inc:DE Shaw India</companies>
+ * <notes>No Notes Needed</notes>
  * </metadata>
  * */
 public class HighAltitude {

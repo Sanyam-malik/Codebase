@@ -4,14 +4,14 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Find N Unique Integers Sum up to Zero,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Unique_Numbers_Zero.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero,
- *   Date:- 2024-02-21,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Microsoft,
+ * <name>Find N Unique Integers Sum up to Zero</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Unique_Numbers_Zero.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero</url>
+ * <date>2024-02-21</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Microsoft</companies>
  * </metadata>
  * */
 public class UniqueNos {

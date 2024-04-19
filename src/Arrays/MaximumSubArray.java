@@ -2,15 +2,15 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Maximum Subarray,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Maximum_Subarray.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/maximum-subarray/description/,
- *   Date:- 2024-03-12,
- *   Level:- Medium,
- *   Remarks:- Solve Using Divide and Conquer:LearnYard Problem,
- *   Notes:- Solution - Use Kadane's Algorithm,
- *   Companies:- Uber:Apple:Adobe:Cisco:Paytm:Amazon:Google:Shopee:VMware:Oracle:Samsung:Infosys:LinkedIn:Facebook:JPMorgan:Docusign:Microsoft:Bloomberg:ByteDance:Salesforce:ServiceNow:Goldman Sachs:Walmart Global Tech,
+ * <name>Maximum Subarray</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Maximum_Subarray.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/maximum-subarray/description/</url>
+ * <date>2024-03-12</date>
+ * <level>Medium</level>
+ * <remarks>Solve Using Divide and Conquer:LearnYard Problem</remarks>
+ * <notes>Solution - Use Kadane's Algorithm</notes>
+ * <companies>Uber:Apple:Adobe:Cisco:Paytm:Amazon:Google:Shopee:VMware:Oracle:Samsung:Infosys:LinkedIn:Facebook:JPMorgan:Docusign:Microsoft:Bloomberg:ByteDance:Salesforce:ServiceNow:Goldman Sachs:Walmart Global Tech</companies>
  * </metadata>
  * */
 public class MaximumSubArray {

@@ -4,18 +4,15 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Shortest Unsorted Continuous Subarray,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/Shortest_Unsorted_Subarray.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/,
- *   Date:- 2024-03-15,
- *   Level:- Medium,
- *   Companies:- Amazon:Microsoft,
- *   Notes:- Solution 1: Find the start index of the where the sorting breaks and also the last index where sorting is breaking and the end - start + 1</br>
- *          Solution 2: Use prefix suffix array,
- *   Remarks:- LearnYard Problem:Good Question,
- * ,
+ * <name>Shortest Unsorted Continuous Subarray</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Shortest_Unsorted_Subarray.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/</url>
+ * <date>2024-03-15</date>
+ * <level>Medium</level>
+ * <companies>Amazon:Microsoft</companies>
+ * <notes>Solution 1: Find the start index of the where the sorting breaks and also the last index where sorting is breaking and the end - start + 1</br>           Solution 2: Use prefix suffix array</notes>
+ * <remarks>LearnYard Problem:Good Question</remarks>
  * </metadata>
  * */
 public class ShortestUnSortedSubArray {

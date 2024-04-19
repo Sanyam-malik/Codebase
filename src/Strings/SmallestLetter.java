@@ -5,16 +5,15 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Find Smallest Letter Greater Than Target,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/FindSmallestLetter.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/,
- *   Date:- 2024-04-17,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Amazon:LinkedIn:Bloomberg,
- *   Remarks:- LearnYard Problem
+ * <name>Find Smallest Letter Greater Than Target</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/FindSmallestLetter.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/</url>
+ * <date>2024-04-17</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Amazon:LinkedIn:Bloomberg</companies>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class SmallestLetter {

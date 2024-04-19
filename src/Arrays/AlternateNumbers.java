@@ -6,17 +6,16 @@ import java.util.List;
 
 /*
  * <metadata>
- *   Name:- Alternate positive and negative numbers,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/Alternate_Positive_Negative_Numbers.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1,
- *   Date:- 2024-03-07,
- *   Level:- Easy,
- *   Companies:- Paytm:VMWare:Amazon:Microsoft:Intuit,
- *   Notes:- Solution Hint - Two Arrays Lists,
+ * <name>Alternate positive and negative numbers</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Alternate_Positive_Negative_Numbers.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1</url>
+ * <date>2024-03-07</date>
+ * <level>Easy</level>
+ * <companies>Paytm:VMWare:Amazon:Microsoft:Intuit</companies>
+ * <notes>Solution Hint - Two Arrays Lists</notes>
  * </metadata>
- * */
+ */
 public class AlternateNumbers {
 
     static void rearrange(int[] arr, int n) {

@@ -3,16 +3,14 @@ package Strings;
 
 /*
  * <metadata>
- *   Name:- Count Vowel Strings in Ranges,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/Count_Vowel_String_Range.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/count-vowel-strings-in-ranges/description/,
- *   Date:- 2024-03-08,
- *   Level:- Medium,
- *   Remarks:- Needs Algorithm Improvement,
- *   Notes:-
- *           Solution 1 Hint - Naive Approach Using Boolean Array to store the result of each word and according to queries calculate count and save the result (TLE Error)</br></br>,
+ * <name>Count Vowel Strings in Ranges</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Count_Vowel_String_Range.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/count-vowel-strings-in-ranges/description/</url>
+ * <date>2024-03-08</date>
+ * <level>Medium</level>
+ * <remarks>Needs Algorithm Improvement</remarks>
+ * <notes>Solution 1 Hint - Naive Approach Using Boolean Array to store the result of each word and according to queries calculate count and save the result (TLE Error)</br></br></notes>
  * </metadata>
  * */
 public class CountVowelsInRange {

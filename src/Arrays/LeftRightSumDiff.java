@@ -4,14 +4,13 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Left and Right Sum Differences,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/LeftRightSumDiffer.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/left-and-right-sum-differences/description/,
- *   Date:- 2024-03-08,
- *   Level:- Easy,
- *   Notes:- Three Arrays two for saving running sums and one to save the result,
+ * <name>Left and Right Sum Differences</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/LeftRightSumDiffer.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/left-and-right-sum-differences/description/</url>
+ * <date>2024-03-08</date>
+ * <level>Easy</level>
+ * <notes>Three Arrays two for saving running sums and one to save the result</notes>
  * </metadata>
  * */
 public class LeftRightSumDiff {

@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Water Consumption,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Water_Consumption.png">,
- *   URL:- https://www.codechef.com/problems/WATERCONS,
- *   Date:- 2024-02-15,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Remarks:- Revised Once,
+ * <name>Water Consumption</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Water_Consumption.png"></description>
+ * <url>https://www.codechef.com/problems/WATERCONS</url>
+ * <date>2024-02-15</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class WaterConsumption {

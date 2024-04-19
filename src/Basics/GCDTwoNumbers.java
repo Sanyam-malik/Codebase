@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- GCD of two numbers,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/GCD_Two_Numbers.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1,
- *   Date:- 2024-02-14,
- *   Level:- Easy,
- *   Notes:- Start from 1 to minimum no of the two and check modulus or Use Euclidean algorithm <a href="https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/">Click here</a>,
- *   Remarks:- Revised Once:Needs Learning:Solve Using Euclidean Algorithm,
+ * <name>GCD of two numbers</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/GCD_Two_Numbers.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1</url>
+ * <date>2024-02-14</date>
+ * <level>Easy</level>
+ * <notes>Start from 1 to minimum no of the two and check modulus or Use Euclidean algorithm <a href="https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/">Click here</a></notes>
+ * <remarks>Revised Once:Needs Learning:Solve Using Euclidean Algorithm</remarks>
  * </metadata>
  * */
 public class GCDTwoNumbers {

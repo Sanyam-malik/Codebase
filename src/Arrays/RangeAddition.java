@@ -5,15 +5,15 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Range Addition,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/RangeAddition.png">,
- *   Status:- Completed,
- *   URL:- https://www.lintcode.com/problem/903/,
- *   Date:- 2024-03-13,
- *   Level:- Medium,
- *   Companies:- Google,
- *   Notes:- At Start index add the k and at end and its inverse and then combine everything back,
- *   Remarks:- LearnYard Problem:Needs Revision of Concept
+ * <name>Range Addition</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/RangeAddition.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.lintcode.com/problem/903/</url>
+ * <date>2024-03-13</date>
+ * <level>Medium</level>
+ * <companies>Google</companies>
+ * <notes>At Start index add the k and at end and its inverse and then combine everything back</notes>
+ * <remarks>LearnYard Problem:Needs Revision of Concept</remarks>
  * </metadata>
  * */
 public class RangeAddition {

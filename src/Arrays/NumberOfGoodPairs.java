@@ -6,14 +6,14 @@ import java.util.Map;
 
 /*
  * <metadata>
- *   Name:- Number of Good Pairs,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Number_Good_Pairs.png">,
- *   URL:- https://leetcode.com/problems/number-of-good-pairs,
- *   Date:- 2024-02-23,
- *   Level:- Easy,
- *   Companies:- Adobe:Amazon:Microsoft,
- *   Notes:- Map to store the count and then no of pairs formula,
+ * <name>Number of Good Pairs</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Number_Good_Pairs.png"></description>
+ * <url>https://leetcode.com/problems/number-of-good-pairs</url>
+ * <date>2024-02-23</date>
+ * <level>Easy</level>
+ * <companies>Adobe:Amazon:Microsoft</companies>
+ * <notes>Map to store the count and then no of pairs formula</notes>
  * </metadata>
  * */
 public class NumberOfGoodPairs {

@@ -4,15 +4,15 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Jump Game II,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Jump_Game_II.png">,
- *   Status:- Try Again,
- *   URL:- https://leetcode.com/problems/jump-game-ii/description/,
- *   Date:- 2024-03-29,
- *   Level:- Medium,
- *   Companies:- Amazon:Apple:Bloomberg:Google:DoorDash:Tiktok:Microsoft:Adobe:Tesla:payu,
- *   Notes:- Using Greedy Algorith <br /> <iframe width="560" height="315" src="https://www.youtube.com/embed/9kyHYVxL4fw?si=QNYmQRkFPDWcbpVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
- *   Remarks:- Solve Using Greedy,
+ * <name>Jump Game II</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Jump_Game_II.png"></description>
+ * <status>Try Again</status>
+ * <url>https://leetcode.com/problems/jump-game-ii/description/</url>
+ * <date>2024-03-29</date>
+ * <level>Medium</level>
+ * <companies>Amazon:Apple:Bloomberg:Google:DoorDash:Tiktok:Microsoft:Adobe:Tesla:payu</companies>
+ * <notes>Using Greedy Algorith <br /> <iframe width="560" height="315" src="https://www.youtube.com/embed/9kyHYVxL4fw?si=QNYmQRkFPDWcbpVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
+ * <remarks>Solve Using Greedy</remarks>
  * </metadata>
  * */
 public class Jump_Game_II {

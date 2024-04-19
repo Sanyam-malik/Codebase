@@ -3,15 +3,15 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- How Many Numbers Are Smaller Than the Current Number,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Numbers_Smaller_Current.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Remarks:- Needs Algorithm Improvement,
- *   Companies:- Yahoo:Amazon,
- *   Notes:- Solution1: Nested Loops,
+ * <name>How Many Numbers Are Smaller Than the Current Number</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Numbers_Smaller_Current.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <remarks>Needs Algorithm Improvement</remarks>
+ * <companies>Yahoo:Amazon</companies>
+ * <notes>Solution1: Nested Loops</notes>
  * </metadata>
  * */
 public class HowManyNumbers {

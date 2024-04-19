@@ -2,16 +2,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Matrix Diagonal Sum,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Matrix_Diagonal_Sum.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/matrix-diagonal-sum,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Companies:- Amazon:Bloomberg,
- *   Notes:- Solution - There are two cases for even column matrix and odd column matrix.</br></br>
- *          Old Matrix - Get all the left diagonal and right diagonal - element in the middle </br></br>
- *          Even Matrix - Get all the left diagonal and right diagonal,
+ * <name>Matrix Diagonal Sum</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Matrix_Diagonal_Sum.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/matrix-diagonal-sum</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <companies>Amazon:Bloomberg</companies>
+ * <notes>Solution - There are two cases for even column matrix and odd column matrix.</br></br>           Old Matrix - Get all the left diagonal and right diagonal - element in the middle </br></br>           Even Matrix - Get all the left diagonal and right diagonal</notes>
  * </metadata>
  * */
 public class MatrixDiagonalSum {

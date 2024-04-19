@@ -3,14 +3,14 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Array Partition,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Array Partition.png">,
- *   URL:- https://leetcode.com/problems/array-partition/description/,
- *   Date:- 2024-04-17,
- *   Level:- Easy,
- *   Companies:- Yahoo:Adobe:Amazon,
- *   Notes:- Use Arrays.sort and add the nums[i] where i will be incremented by 2,
+ * <name>Array Partition</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Array Partition.png"></description>
+ * <url>https://leetcode.com/problems/array-partition/description/</url>
+ * <date>2024-04-17</date>
+ * <level>Easy</level>
+ * <companies>Yahoo:Adobe:Amazon</companies>
+ * <notes>Use Arrays.sort and add the nums[i] where i will be incremented by 2</notes>
  * </metadata>
  * */
 public class ArrayPartition {

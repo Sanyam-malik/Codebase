@@ -4,15 +4,15 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Minimum Average Difference,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Minimum_Average_Difference.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/minimum-average-difference/description/,
- *   Date:- 2024-03-24,
- *   Level:- Medium,
- *   Notes:- Use Prefix Sum Technique,
- *   Remark:- LearnYard Problem,
- *   Companies:- Amazon
+ * <name>Minimum Average Difference</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Minimum_Average_Difference.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/minimum-average-difference/description/</url>
+ * <date>2024-03-24</date>
+ * <level>Medium</level>
+ * <notes>Use Prefix Sum Technique</notes>
+ * <remark>LearnYard Problem</remark>
+ * <companies>Amazon</companies>
  * </metadata>
  * */
 public class MinimumAverageDifference {

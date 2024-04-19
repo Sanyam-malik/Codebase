@@ -3,14 +3,13 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Flipping an Image,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Flip_Image.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/flipping-an-image/,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Companies: Google,
- *   Notes:- Use Two Pointers to flip the image,
+ * <name>Flipping an Image</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Flip_Image.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/flipping-an-image/</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <notes>Use Two Pointers to flip the image</notes>
  * </metadata>
  * */
 public class FlipImage {

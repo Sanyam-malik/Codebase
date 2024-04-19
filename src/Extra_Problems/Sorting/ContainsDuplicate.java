@@ -3,15 +3,15 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Contains Duplicate,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ContainsDuplicate.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/contains-duplicate/,
- *   Date:- 2024-04-16,
- *   Level:- Easy,
- *   Notes:- 1. Using Arrays.sort() </br> 2. Using Sets </br>,
- *   Companies:- TCS:Uber:Adobe:Apple:Yahoo:Amazon:Google:Microsoft:Bloomberg,
- *   Remarks:- LearnYard Problem,
+ * <name>Contains Duplicate</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ContainsDuplicate.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/contains-duplicate/</url>
+ * <date>2024-04-16</date>
+ * <level>Easy</level>
+ * <notes>1. Using Arrays.sort() </br> 2. Using Sets </br></notes>
+ * <companies>TCS:Uber:Adobe:Apple:Yahoo:Amazon:Google:Microsoft:Bloomberg</companies>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class ContainsDuplicate {

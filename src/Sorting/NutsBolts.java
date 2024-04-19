@@ -3,15 +3,15 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Nuts Bolts,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Nuts_bolts.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article,
- *   Date:- 2024-04-05,
- *   Level:- Medium,
- *   Notes:- Just Sort,
- *   Companies:- Amazon:Hike:Make:MyTrip:MAQ Software:Adobe,
- *   Remarks:- LearnYard Problem,
+ * <name>Nuts Bolts</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Nuts_bolts.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article</url>
+ * <date>2024-04-05</date>
+ * <level>Medium</level>
+ * <notes>Just Sort</notes>
+ * <companies>Amazon:Hike:Make:MyTrip:MAQ Software:Adobe</companies>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class NutsBolts {

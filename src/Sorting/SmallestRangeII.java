@@ -3,15 +3,15 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Smallest Range II,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Smallest_Range_II.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/smallest-range-ii/,
- *   Date:- 2024-04-14,
- *   Level:- Medium,
- *   Notes:- Find the min and max element everytime,
- *   Remark:- LearnYard Problem:Good Question,
- *   Companies:- Adobe:Amazon:Citadel:Snowflake
+ * <name>Smallest Range II</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Smallest_Range_II.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/smallest-range-ii/</url>
+ * <date>2024-04-14</date>
+ * <level>Medium</level>
+ * <notes>Find the min and max element everytime</notes>
+ * <remark>LearnYard Problem:Good Question</remark>
+ * <companies>Adobe:Amazon:Citadel:Snowflake</companies>
  * </metadata>
  * */
 public class SmallestRangeII {

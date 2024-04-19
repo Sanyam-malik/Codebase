@@ -3,14 +3,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Modify the Matrix,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Modify_The_Matrix.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/modify-the-matrix/description/,
- *   Date:- 2024-03-24,
- *   Level:- Easy,
- *   Notes:- Calculate the max column of array each time and change value if the -1 is encountered.,
- *   Remark:- LearnYard Problem,
+ * <name>Modify the Matrix</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Modify_The_Matrix.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/modify-the-matrix/description/</url>
+ * <date>2024-03-24</date>
+ * <level>Easy</level>
+ * <notes>Calculate the max column of array each time and change value if the -1 is encountered.</notes>
+ * <remark>LearnYard Problem</remark>
  * </metadata>
  * */
 public class ModifyTheMatrix {

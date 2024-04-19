@@ -6,14 +6,14 @@ import java.util.List;
 
 /*
  * <metadata>
- *   Name:- Divide Array Into Arrays With Max Difference,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/DivideArray_MaxDiff.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/,
- *   Date:- 2024-04-15,
- *   Level:- Medium,
- *   Notes:- Just sort and add to result if nums[i] + nums[i-2] <= k,
- *   Remarks:- LearnYard Problem:Good Question,
+ * <name>Divide Array Into Arrays With Max Difference</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/DivideArray_MaxDiff.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/</url>
+ * <date>2024-04-15</date>
+ * <level>Medium</level>
+ * <notes>Just sort and add to result if nums[i] + nums[i-2] <= k</notes>
+ * <remarks>LearnYard Problem:Good Question</remarks>
  * </metadata>
  * */
 public class DivideArrayMaxDifference {

@@ -3,15 +3,15 @@ package Extra_Problems.Searching;
 
 /*
  * <metadata>
- *   Name:- Sqrt(x) - Revision,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Sqrt.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/sqrtx/,
- *   Date:- 2024-04-12,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Apple:Adobe:Amazon:Google:LinkedIn:Microsoft:Bloomberg,
- *   Remarks:- Kunal Kushwaha,
+ * <name>Sqrt(x) - Revision</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Sqrt.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/sqrtx/</url>
+ * <date>2024-04-12</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Apple:Adobe:Amazon:Google:LinkedIn:Microsoft:Bloomberg</companies>
+ * <remarks>Kunal Kushwaha</remarks>
  * </metadata>
  * */
 public class Sqrt {

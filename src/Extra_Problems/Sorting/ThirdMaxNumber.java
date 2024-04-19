@@ -5,15 +5,15 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Third Maximum Number,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ThirdMaxNumber.png">,
- *   Status:- Try Again,
- *   URL:- https://leetcode.com/problems/third-maximum-number/description/,
- *   Date:- 2024-04-16,
- *   Level:- Easy,
- *   Notes:- 1. Using Set and Sort </br> 2. Using Direct Approach,
- *   Remarks:- Kunal Kushwaha,
- *   Companies:- Apple:Amazon:Google,
+ * <name>Third Maximum Number</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ThirdMaxNumber.png"></description>
+ * <status>Try Again</status>
+ * <url>https://leetcode.com/problems/third-maximum-number/description/</url>
+ * <date>2024-04-16</date>
+ * <level>Easy</level>
+ * <notes>1. Using Set and Sort </br> 2. Using Direct Approach</notes>
+ * <remarks>Kunal Kushwaha</remarks>
+ * <companies>Apple:Amazon:Google</companies>
  * </metadata>
  * */
 public class ThirdMaxNumber {

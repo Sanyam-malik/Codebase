@@ -3,13 +3,13 @@ package Recursions;
 
 /*
  * <metadata>
- *   Name:- Rectangles And Squares,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Rectangles_Squares.png">,
- *   Status:- Completed,
- *   URL:- https://practice.geeksforgeeks.org/contest/job-a-thon-11-hiring-challenge/problems,
- *   Date:- 2024-03-29,
- *   Level:- Easy,
- *   Notes:- Create a helper function and if a == b return 1 else choose according to condition,
+ * <name>Rectangles And Squares</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Rectangles_Squares.png"></description>
+ * <status>Completed</status>
+ * <url>https://practice.geeksforgeeks.org/contest/job-a-thon-11-hiring-challenge/problems</url>
+ * <date>2024-03-29</date>
+ * <level>Easy</level>
+ * <notes>Create a helper function and if a == b return 1 else choose according to condition</notes>
  * </metadata>
  * */
 public class RectanglesAndSquares {

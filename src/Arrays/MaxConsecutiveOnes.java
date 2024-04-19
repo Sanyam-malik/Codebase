@@ -1,14 +1,14 @@
 package Arrays;
 /*
  * <metadata>
- *   Name:- Max Consecutive Ones,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Max_Consecutive_Ones.png">,
- *   URL:- https://leetcode.com/problems/max-consecutive-ones,
- *   Date:- 2024-02-12,
- *   Level:- Easy,
- *   Remarks:- LearnYard Problem,
- *   Notes:- Solution - Have two variables max and count when number is changed compare max with count and save new max and make count = 0,
+ * <name>Max Consecutive Ones</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Max_Consecutive_Ones.png"></description>
+ * <url>https://leetcode.com/problems/max-consecutive-ones</url>
+ * <date>2024-02-12</date>
+ * <level>Easy</level>
+ * <remarks>LearnYard Problem</remarks>
+ * <notes>Solution - Have two variables max and count when number is changed compare max with count and save new max and make count = 0</notes>
  * </metadata>
  * */
 public class MaxConsecutiveOnes {

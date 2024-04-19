@@ -3,15 +3,15 @@ package Searching;
 
 /*
  * <metadata>
- *   Name:- Binary Search,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/BinarySearch.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/binary-search/description/,
- *   Date:- 2024-04-06,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Uber:Apple:Adobe:Yahoo:Amazon:Google:Facebook:Microsoft:Bloomberg,
- *   Remarks:- LearnYard Problem,
+ * <name>Binary Search</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/BinarySearch.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/binary-search/description/</url>
+ * <date>2024-04-06</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Uber:Apple:Adobe:Yahoo:Amazon:Google:Facebook:Microsoft:Bloomberg</companies>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class BinarySearch {

@@ -4,14 +4,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Toeplitz Matrix,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Toeplitz_Matrix.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/toeplitz-matrix,
- *   Date:- 2024-02-28,
- *   Level:- Easy,
- *   Notes:- Two For Loops with A Catch,
- *   Companies:- Facebook:Bloomberg,
+ * <name>Toeplitz Matrix</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Toeplitz_Matrix.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/toeplitz-matrix</url>
+ * <date>2024-02-28</date>
+ * <level>Easy</level>
+ * <notes>Two For Loops with A Catch</notes>
+ * <companies>Facebook:Bloomberg</companies>
  * </metadata>
  * */
 public class ToeplitzMatrix {

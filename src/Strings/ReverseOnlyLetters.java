@@ -2,14 +2,14 @@ package Strings;
 
 /*
  * <metadata>
- *   Name:- Reverse Only Letters,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ReverseOnlyLetters.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/reverse-only-letters/description/,
- *   Date:- 2024-03-06,
- *   Level:- Easy,
- *   Companies:- Amazon,
- *   Notes:- Solution 1 - Replace using two pointers</br></br>Solution 2 - Use StringBuilder Effectively,
+ * <name>Reverse Only Letters</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ReverseOnlyLetters.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/reverse-only-letters/description/</url>
+ * <date>2024-03-06</date>
+ * <level>Easy</level>
+ * <companies>Amazon</companies>
+ * <notes>Solution 1 - Replace using two pointers</br></br>Solution 2 - Use StringBuilder Effectively</notes>
  * </metadata>
  * */
 public class ReverseOnlyLetters {

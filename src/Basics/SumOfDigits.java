@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Sum Of Digits,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Sum_of_Digits.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/sum-of-digits1742/1,
- *   Date:- 2024-02-14,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Remarks:- Revised Once,
+ * <name>Sum Of Digits</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Sum_of_Digits.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/sum-of-digits1742/1</url>
+ * <date>2024-02-14</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class SumOfDigits {

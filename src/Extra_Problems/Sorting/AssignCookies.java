@@ -3,15 +3,15 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Assign Cookies,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/AssignCookies.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/assign-cookies/description/,
- *   Date:- 2024-04-17,
- *   Level:- Easy,
- *   Companies:- Apple,
- *   Notes:- Sort and use two pointers approach,
- *   Remarks:- LearnYard Problem,
+ * <name>Assign Cookies</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/AssignCookies.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/assign-cookies/description/</url>
+ * <date>2024-04-17</date>
+ * <level>Easy</level>
+ * <companies>Apple</companies>
+ * <notes>Sort and use two pointers approach</notes>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class AssignCookies {

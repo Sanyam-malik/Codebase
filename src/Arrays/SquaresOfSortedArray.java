@@ -4,16 +4,14 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Squares of a Sorted Array,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/Squares_Sorted_Array.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/squares-of-a-sorted-array/description/,
- *   Date:- 2024-03-08,
- *   Level:- Easy,
- *   Companies:- Amazon:Google:Paypal:Facebook:Microsoft,
- *   Notes:- Solution 1 Hint - Use Inbuilt Sort and Math.pow</br></br>
- *           Solution 2 Hint - Use save math.pow or simply do nums[i]*nums[i] for reduced time use extra space and two pointers approach,
+ * <name>Squares of a Sorted Array</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Squares_Sorted_Array.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/squares-of-a-sorted-array/description/</url>
+ * <date>2024-03-08</date>
+ * <level>Easy</level>
+ * <companies>Amazon:Google:Paypal:Facebook:Microsoft</companies>
+ * <notes>Solution 1 Hint - Use Inbuilt Sort and Math.pow</br></br>            Solution 2 Hint - Use save math.pow or simply do nums[i]nums[i] for reduced time use extra space and two pointers approach</notes>
  * </metadata>
  * */
 public class SquaresOfSortedArray {

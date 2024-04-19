@@ -4,15 +4,15 @@ package Searching;
 
 /*
  * <metadata>
- *   Name:- Minimum Time to Complete Trips,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumTimeTrips.png">,
- *   Status:- Completed,
- *   URL:- https://learnyard.com,
- *   Date:- 2024-04-19,
- *   Level:- Medium,
- *   Notes:- <iframe width="560" height="315" src="https://www.youtube.com/embed/tUCVupA0lAc?si=8Icm_uzTuaM3vgiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
- *   Remarks:- LearnYard Problem:Good Question,
- *   Companies:- Uber:Apple:Google:Amazon:Amadeus,
+ * <name>Minimum Time to Complete Trips</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumTimeTrips.png"></description>
+ * <status>Completed</status>
+ * <url>https://learnyard.com</url>
+ * <date>2024-04-19</date>
+ * <level>Medium</level>
+ * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/tUCVupA0lAc?si=8Icm_uzTuaM3vgiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
+ * <remarks>LearnYard Problem:Good Question</remarks>
+ * <companies>Uber:Apple:Google:Amazon:Amadeus</companies>
  * </metadata>
  * */
 public class MinimumTimeForTrips {

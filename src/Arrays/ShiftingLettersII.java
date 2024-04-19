@@ -2,15 +2,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Shifting Letters II,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/Shifting_Letters_II.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/shifting-letters-ii/description/,
- *   Date:- 2024-03-11,
- *   Level:- Medium,
- *   Notes:- Solution 1 - Nested Loops</br></br>,
- *   Remarks:- Needs Algorithm Improvement,
+ * <name>Shifting Letters II</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Shifting_Letters_II.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/shifting-letters-ii/description/</url>
+ * <date>2024-03-11</date>
+ * <level>Medium</level>
+ * <notes>Solution 1 - Nested Loops</br></br></notes>
+ * <remarks>Needs Algorithm Improvement</remarks>
  * </metadata>
  * */
 public class ShiftingLettersII {

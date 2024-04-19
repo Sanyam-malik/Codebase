@@ -2,15 +2,15 @@ package Sorting;
 
 /*
  * <metadata>
- *   Name:- Minimum Common Value,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumCommonValue.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/minimum-common-value/,
- *   Date:- 2024-04-11,
- *   Level:- Easy,
- *   Notes:- Just Use Two Pointers Approach,
- *   Remarks:- LearnYard Problem,
- *   Companies:- Apple:Microsoft,
+ * <name>Minimum Common Value</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumCommonValue.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/minimum-common-value/</url>
+ * <date>2024-04-11</date>
+ * <level>Easy</level>
+ * <notes>Just Use Two Pointers Approach</notes>
+ * <remarks>LearnYard Problem</remarks>
+ * <companies>Apple:Microsoft</companies>
  * </metadata>
  * */
 public class MinimumCommonValue {

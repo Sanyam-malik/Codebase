@@ -2,14 +2,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Transpose Matrix - Revision,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Transpose_Matrix.png">,
- *   URL:- https://leetcode.com/problems/transpose-matrix,
- *   Date:- 2024-02-20,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Apple:Amazon:Citadel:Microsoft,
+ * <name>Transpose Matrix - Revision</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Transpose_Matrix.png"></description>
+ * <url>https://leetcode.com/problems/transpose-matrix</url>
+ * <date>2024-02-20</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Apple:Amazon:Citadel:Microsoft</companies>
  * </metadata>
  * */
 public class TransposeMatrix {

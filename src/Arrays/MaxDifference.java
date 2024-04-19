@@ -3,15 +3,15 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Maximum Difference Between Increasing Elements,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Max_Diff_Increasing_Elem.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/,
- *   Date:- 2024-03-12,
- *   Level:- Easy,
- *   Companies:- Cisco:Apple:Expedia:Incedo Inc:DE Shaw India,
- *   Remarks:- Needs Revision of Concept:LearnYard Problem,
- *   Notes:- Use Prefix min Array,
+ * <name>Maximum Difference Between Increasing Elements</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Max_Diff_Increasing_Elem.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/</url>
+ * <date>2024-03-12</date>
+ * <level>Easy</level>
+ * <companies>Cisco:Apple:Expedia:Incedo Inc:DE Shaw India</companies>
+ * <remarks>Needs Revision of Concept:LearnYard Problem</remarks>
+ * <notes>Use Prefix min Array</notes>
  * </metadata>
  * */
 public class MaxDifference {

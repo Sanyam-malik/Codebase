@@ -4,14 +4,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Remove Duplicates from Sorted Array,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Remove_Array_Duplicates.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/remove-duplicates-from-sorted-array/,
- *   Date:- 2024-02-23,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Adobe:Apple:Amazon:Google:VMware:Facebook:LinkedIn:Microsoft:Bloomberg,
+ * <name>Remove Duplicates from Sorted Array</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Remove_Array_Duplicates.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/remove-duplicates-from-sorted-array/</url>
+ * <date>2024-02-23</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Adobe:Apple:Amazon:Google:VMware:Facebook:LinkedIn:Microsoft:Bloomberg</companies>
  * </metadata>
  * */
 public class RemoveDuplicatesSortedArray {

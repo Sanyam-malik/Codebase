@@ -5,14 +5,14 @@ import java.util.List;
 
 /*
  * <metadata>
- *   Name:- Lucky Numbers in a Matrix - Revision,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Lucky_Numbers.png">,
- *   URL:- https://leetcode.com/problems/lucky-numbers-in-a-matrix,
- *   Date:- 2024-02-21,
- *   Level:- Easy,
- *   Companies:- Apple,
- *   Notes:- No Notes Needed,
+ * <name>Lucky Numbers in a Matrix - Revision</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Lucky_Numbers.png"></description>
+ * <url>https://leetcode.com/problems/lucky-numbers-in-a-matrix</url>
+ * <date>2024-02-21</date>
+ * <level>Easy</level>
+ * <companies>Apple</companies>
+ * <notes>No Notes Needed</notes>
  * </metadata>
  * */
 public class LuckyNumbers {

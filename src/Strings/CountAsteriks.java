@@ -3,14 +3,13 @@ package Strings;
 
 /*
  * <metadata>
- *   Name:- Count Asterisks,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/CountAsterisks.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/count-asterisks/description/,
- *   Date:- 2024-03-06,
- *   Level:- Easy,
- *   Notes:- Hint - After 2 pipe symbol are found start counting astericks,
+ * <name>Count Asterisks</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/CountAsterisks.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/count-asterisks/description/</url>
+ * <date>2024-03-06</date>
+ * <level>Easy</level>
+ * <notes>Hint - After 2 pipe symbol are found start counting astericks</notes>
  * </metadata>
  * */
 public class CountAsteriks {

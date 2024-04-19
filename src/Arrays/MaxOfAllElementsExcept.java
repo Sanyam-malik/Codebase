@@ -6,14 +6,14 @@ import java.util.List;
 
 /*
  * <metadata>
- *   Name:- Max of all elements except one,
- *   Description:- Given a array find the max of all elements except the ith element from the queries,
- *   Status:- Completed,
- *   URL:- https://learnyard.com/,
- *   Date:- 2024-03-12,
- *   Level:- Medium,
- *   Notes:- Solution 1: Find largest and second largest element</br></br>Solution 2: Find Prefix and Suffix of all elements,
- *   Remarks:- LearnYard Problem
+ * <name>Max of all elements except one</name>
+ * <description>Given a array find the max of all elements except the ith element from the queries</description>
+ * <status>Completed</status>
+ * <url>https://learnyard.com/</url>
+ * <date>2024-03-12</date>
+ * <level>Medium</level>
+ * <notes>Solution 1: Find largest and second largest element</br></br>Solution 2: Find Prefix and Suffix of all elements</notes>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class MaxOfAllElementsExcept {

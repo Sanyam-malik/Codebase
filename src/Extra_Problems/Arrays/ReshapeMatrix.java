@@ -4,14 +4,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Reshape the Matrix,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Reshape_Matrix.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/reshape-the-matrix,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Facebook:Bloomberg,
+ * <name>Reshape the Matrix</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Reshape_Matrix.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/reshape-the-matrix</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Facebook:Bloomberg</companies>
  * </metadata>
  * */
 public class ReshapeMatrix {

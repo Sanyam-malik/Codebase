@@ -5,13 +5,13 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Minimize the Heights II,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Minimize_the_Heights_II.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1,
- *   Date:- 2024-03-28,
- *   Level:- Medium,
- *   Notes:- Simple find smallest after modification and find the maximum and calculate the minimum answer of the values,
+ * <name>Minimize the Heights II</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Minimize_the_Heights_II.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1</url>
+ * <date>2024-03-28</date>
+ * <level>Medium</level>
+ * <notes>Simple find smallest after modification and find the maximum and calculate the minimum answer of the values</notes>
  * </metadata>
  * */
 public class Minimize_The_Heights {

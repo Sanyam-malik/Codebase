@@ -4,15 +4,15 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Spiral Matrix,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Spiral_Matrix.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/spiral-matrix,
- *   Date:- 2024-02-28,
- *   Level:- Easy,
- *   Notes:- Needs A LOT !!!,
- *   Remarks:- Needs Learning:Needs Practice of Related Problems,
- *   Companies:- Jio:OYO:Zoho:Uber:Apple:Adobe:Wipro:Paytm:Cisco:Amazon:Google:Zillow:Oracle:Facebook:LiveRamp:JPMorgan:SAP Labs:Microsoft:Accenture:Cognizant:Salesforce:Browserstack,
+ * <name>Spiral Matrix</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Spiral_Matrix.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/spiral-matrix</url>
+ * <date>2024-02-28</date>
+ * <level>Easy</level>
+ * <notes>Needs A LOT !!!</notes>
+ * <remarks>Needs Learning:Needs Practice of Related Problems</remarks>
+ * <companies>Jio:OYO:Zoho:Uber:Apple:Adobe:Wipro:Paytm:Cisco:Amazon:Google:Zillow:Oracle:Facebook:LiveRamp:JPMorgan:SAP Labs:Microsoft:Accenture:Cognizant:Salesforce:Browserstack</companies>
  * </metadata>
  * */
 public class SpiralMatrix {

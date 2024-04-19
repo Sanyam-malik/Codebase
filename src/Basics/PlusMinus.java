@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Plus or Minus,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Plus_Minus.png">,
- *   Status:- Completed,
- *   URL:- https://codeforces.com/problemset/problem/1807/A,
- *   Date:- 2024-02-14,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Remarks:- Revised Once,
+ * <name>Plus or Minus</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Plus_Minus.png"></description>
+ * <status>Completed</status>
+ * <url>https://codeforces.com/problemset/problem/1807/A</url>
+ * <date>2024-02-14</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class PlusMinus {

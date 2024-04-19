@@ -3,16 +3,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Rearrange Array Elements by Sign,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/Rearrange_Array_Elements.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/rearrange-array-elements-by-sign/description/,
- *   Date:- 2024-03-08,
- *   Level:- Medium,
- *   Companies:- Amazon,
- *   Notes:- Solution 1 - Use Extra Space and add position and negative elements to their respective array and combine them to result array</br></br>
- *           Solution 2 - Use separate indexes for positive and negative nos and each time if either positive and negative no is found increment them by 2,
+ * <name>Rearrange Array Elements by Sign</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Rearrange_Array_Elements.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/rearrange-array-elements-by-sign/description/</url>
+ * <date>2024-03-08</date>
+ * <level>Medium</level>
+ * <companies>Amazon</companies>
+ * <notes>Solution 1 - Use Extra Space and add position and negative elements to their respective array and combine them to result array</br></br>            Solution 2 - Use separate indexes for positive and negative nos and each time if either positive and negative no is found increment them by 2</notes>
  * </metadata>
  * */
 public class RearrangeElementsBySign {

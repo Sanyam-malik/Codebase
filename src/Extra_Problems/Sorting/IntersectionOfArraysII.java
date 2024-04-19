@@ -4,15 +4,15 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Intersection of Two Arrays II,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/IntersectionBwArraysII.png">,
- *   Status:- Try Again,
- *   URL:- https://leetcode.com/problems/intersection-of-two-arrays-ii/description/,
- *   Date:- 2024-04-16,
- *   Level:- Easy,
- *   Notes:- 1. Use HashMap </br> 2. Use Arrays as Map,
- *   Remarks:- Kunal Kushwaha,
- *   Companies:- Yahoo:Adobe:Amazon:Facebook:Bloomberg,
+ * <name>Intersection of Two Arrays II</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/IntersectionBwArraysII.png"></description>
+ * <status>Try Again</status>
+ * <url>https://leetcode.com/problems/intersection-of-two-arrays-ii/description/</url>
+ * <date>2024-04-16</date>
+ * <level>Easy</level>
+ * <notes>1. Use HashMap </br> 2. Use Arrays as Map</notes>
+ * <remarks>Kunal Kushwaha</remarks>
+ * <companies>Yahoo:Adobe:Amazon:Facebook:Bloomberg</companies>
  * </metadata>
  * */
 public class IntersectionOfArraysII {

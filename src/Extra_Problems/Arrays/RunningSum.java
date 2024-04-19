@@ -2,14 +2,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Running Sum of 1d Array - Revision,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Running_Sum_1D.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/running-sum-of-1d-array,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Microsoft,
+ * <name>Running Sum of 1d Array - Revision</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Running_Sum_1D.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/running-sum-of-1d-array</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Microsoft</companies>
  * </metadata>
  * */
 public class RunningSum {

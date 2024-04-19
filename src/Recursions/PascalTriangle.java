@@ -6,15 +6,15 @@ import java.util.ArrayList;
 
 /*
  * <metadata>
- *   Name:- Pascal Triangle,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/PascalTriangle.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/pascal-triangle0652/1,
- *   Date:- 2024-03-30,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Remarks:- Good Question:Solve Using Dynamic Programming,
- *   Companies:- Amazon:Microsoft:Adobe,
+ * <name>Pascal Triangle</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/PascalTriangle.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/pascal-triangle0652/1</url>
+ * <date>2024-03-30</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <remarks>Good Question:Solve Using Dynamic Programming</remarks>
+ * <companies>Amazon:Microsoft:Adobe</companies>
  * </metadata>
  * */
 public class PascalTriangle {

@@ -4,14 +4,14 @@ package Searching;
 
 /*
  * <metadata>
- *   Name:- Appy and Balloons,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/AppyBalloons.png">,
- *   Status:- Completed,
- *   URL:- https://www.codechef.com/problems/HMAPPY,
- *   Date:- 2024-04-10,
- *   Level:- Medium,
- *   Notes:- <iframe width="560" height="315" src="https://www.youtube.com/embed/UzwNDRjCEE4?si=9vzF_AGRBdhe9uda" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
- *   Remarks:- LearnYard Problem:Good Question,
+ * <name>Appy and Balloons</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/AppyBalloons.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.codechef.com/problems/HMAPPY</url>
+ * <date>2024-04-10</date>
+ * <level>Medium</level>
+ * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/UzwNDRjCEE4?si=9vzF_AGRBdhe9uda" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
+ * <remarks>LearnYard Problem:Good Question</remarks>
  * </metadata>
  * */
 public class AppyLovesBalloons {

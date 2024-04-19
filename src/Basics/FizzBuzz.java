@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- FizzBuzz,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/FizzBuzz.png">,
- *   Status:- Completed,
- *   URL:- https://www.hackerrank.com/challenges/fizzbuzz/problem,
- *   Date:- 2024-02-14,
- *   Level:- Easy,
- *   Notes:- Simple If's Statements,
- *   Remarks:- Revised Once,
+ * <name>FizzBuzz</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/FizzBuzz.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.hackerrank.com/challenges/fizzbuzz/problem</url>
+ * <date>2024-02-14</date>
+ * <level>Easy</level>
+ * <notes>Simple If's Statements</notes>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class FizzBuzz {

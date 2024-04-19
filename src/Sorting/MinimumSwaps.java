@@ -6,15 +6,15 @@ import java.util.HashMap;
 
 /*
  * <metadata>
- *   Name:- Minimum Swaps to Sort,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumSwaps.png">,
- *   Status:- Try Again,
- *   URL:- https://www.geeksforgeeks.org/problems/minimum-swaps/1,
- *   Date:- 2024-04-14,
- *   Level:- Medium,
- *   Notes:- <iframe width="560" height="315" src="https://www.youtube.com/embed/02NwBUPr1uw?si=PXkdRJ1fj1Y8iPYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
- *   Companies:- Amazon,
- *   Remarks:- LearnYard Problem:Good Question,
+ * <name>Minimum Swaps to Sort</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumSwaps.png"></description>
+ * <status>Try Again</status>
+ * <url>https://www.geeksforgeeks.org/problems/minimum-swaps/1</url>
+ * <date>2024-04-14</date>
+ * <level>Medium</level>
+ * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/02NwBUPr1uw?si=PXkdRJ1fj1Y8iPYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
+ * <companies>Amazon</companies>
+ * <remarks>LearnYard Problem:Good Question</remarks>
  * </metadata>
  * */
 public class MinimumSwaps {

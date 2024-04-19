@@ -4,16 +4,15 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Range Sum Query 2D - Immutable,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Range_Sum_Query2D(1).png"> </br> <img src="http://lordmaximus.duckdns.org:9000/codebase/Range_Sum_Query2D(2).png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/range-sum-query-2d-immutable/,
- *   Date:- 2024-03-13,
- *   Level:- Medium,
- *   Companies:- Lyft:Amazon:Google:Samsung:Facebook,
- *   Notes:- Solution 1 - For loops </br>
- *          Solution 2 - Prefix sum Technique (Arrays -> Practice 5),
- *   Remarks:- LearnYard Problem:Needs Revision of Concept
+ * <name>Range Sum Query 2D - Immutable</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Range_Sum_Query2D(1).png"> </br> <img src="http://lordmaximus.duckdns.org:9000/codebase/Range_Sum_Query2D(2).png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/range-sum-query-2d-immutable/</url>
+ * <date>2024-03-13</date>
+ * <level>Medium</level>
+ * <companies>Lyft:Amazon:Google:Samsung:Facebook</companies>
+ * <notes>Solution 1 - For loops </br>           Solution 2 - Prefix sum Technique (Arrays -> Practice 5)</notes>
+ * <remarks>LearnYard Problem:Needs Revision of Concept</remarks>
  * </metadata>
  * */
 public class RangeSumQuery2D {

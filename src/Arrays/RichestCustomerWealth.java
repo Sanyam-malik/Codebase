@@ -5,14 +5,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Richest Customer Wealth,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Richest_Customer_Wealth.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/richest-customer-wealth,
- *   Date:- 2024-02-27,
- *   Level:- Easy,
- *   Companies:- Adobe,
- *   Notes:- Normal Approach,
+ * <name>Richest Customer Wealth</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Richest_Customer_Wealth.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/richest-customer-wealth</url>
+ * <date>2024-02-27</date>
+ * <level>Easy</level>
+ * <companies>Adobe</companies>
+ * <notes>Normal Approach</notes>
  * </metadata>
  * */
 public class RichestCustomerWealth {

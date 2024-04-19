@@ -6,14 +6,14 @@ import java.util.List;
 
 /*
  * <metadata>
- *   Name:- Print Pattern,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/PrintPattern.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/print-pattern3549/1,
- *   Date:- 2024-03-30,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Microsoft,
+ * <name>Print Pattern</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/PrintPattern.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/print-pattern3549/1</url>
+ * <date>2024-03-30</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Microsoft</companies>
  * </metadata>
  * */
 public class PrintPattern {

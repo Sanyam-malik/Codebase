@@ -3,14 +3,14 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Add to Array-Form of Integer,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/ArrayForm_Integer.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/add-to-array-form-of-integer,
- *   Date:- 2024-02-21,
- *   Level:- Easy,
- *   Companies:- Facebook,
- *   Notes:- Reverse the Array Add the 1 to the last digit if no is greator than 10 repeat the process,
+ * <name>Add to Array-Form of Integer</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ArrayForm_Integer.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/add-to-array-form-of-integer</url>
+ * <date>2024-02-21</date>
+ * <level>Easy</level>
+ * <companies>Facebook</companies>
+ * <notes>Reverse the Array Add the 1 to the last digit if no is greator than 10 repeat the process</notes>
  * </metadata>
  * */
 public class AddToArray {

@@ -2,14 +2,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Matrix Diagonal Sum - Revision,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81OC5wbmc=&version_id=null">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/matrix-diagonal-sum,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Companies:- Amazon:Bloomberg,
- *   Notes:- No Notes Needed,
+ * <name>Matrix Diagonal Sum - Revision</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81OC5wbmc=&version_id=null"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/matrix-diagonal-sum</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <companies>Amazon:Bloomberg</companies>
+ * <notes>No Notes Needed</notes>
  * </metadata>
  * */
 public class MatrixDiagonalSum {

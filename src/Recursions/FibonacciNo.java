@@ -7,14 +7,14 @@ import java.util.Map;
 
 /*
  * <metadata>
- *   Name:- Fibonacci Number,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/FibonacciNo.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/fibonacci-number/description/,
- *   Date:- 2024-03-29,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Companies:- Zoom:Adobe:Apple:Amazon:Oracle:Google:Facebook:Microsoft:Goldman Sachs,
+ * <name>Fibonacci Number</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/FibonacciNo.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/fibonacci-number/description/</url>
+ * <date>2024-03-29</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <companies>Zoom:Adobe:Apple:Amazon:Oracle:Google:Facebook:Microsoft:Goldman Sachs</companies>
  * </metadata>
  * */
 public class FibonacciNo {

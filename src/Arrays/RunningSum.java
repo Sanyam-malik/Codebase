@@ -3,15 +3,15 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Running Sum of 1d Array,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Running_Sum_1D.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/running-sum-of-1d-array/description/,
- *   Date:- 2024-03-11,
- *   Level:- Easy,
- *   Companies:- Microsoft,
- *   Notes:- Start from index i and add previous values,
- *   Remarks:- LearnYard Problem,
+ * <name>Running Sum of 1d Array</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Running_Sum_1D.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/running-sum-of-1d-array/description/</url>
+ * <date>2024-03-11</date>
+ * <level>Easy</level>
+ * <companies>Microsoft</companies>
+ * <notes>Start from index i and add previous values</notes>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class RunningSum {

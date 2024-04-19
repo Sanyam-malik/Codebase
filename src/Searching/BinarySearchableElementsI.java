@@ -3,14 +3,14 @@ package Searching;
 
 /*
  * <metadata>
- *   Name:- Binary Searchable Elements I,
- *   Description:- Given an array [1 14 6 21 57 8] try to find the elements that can be searched using binary search,
- *   Status:- Completed,
- *   URL:- https://learnyard.com,
- *   Date:- 2024-04-08,
- *   Level:- Easy,
- *   Notes:- No Notes Needed,
- *   Remarks:- LearnYard Problem,
+ * <name>Binary Searchable Elements I</name>
+ * <description>Given an array [1 14 6 21 57 8] try to find the elements that can be searched using binary search</description>
+ * <status>Completed</status>
+ * <url>https://learnyard.com</url>
+ * <date>2024-04-08</date>
+ * <level>Easy</level>
+ * <notes>No Notes Needed</notes>
+ * <remarks>LearnYard Problem</remarks>
  * </metadata>
  * */
 public class BinarySearchableElementsI {

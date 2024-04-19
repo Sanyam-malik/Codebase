@@ -4,14 +4,14 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Plus One - Revision,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/PlusOne.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/plus-one,
- *   Date:- 2024-02-23,
- *   Level:- Easy,
- *   Companies:- Adobe:Apple:Google:Amazon:Facebook:ByteDance,
- *   Notes:- Modulus Divide Technique,
+ * <name>Plus One - Revision</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/PlusOne.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/plus-one</url>
+ * <date>2024-02-23</date>
+ * <level>Easy</level>
+ * <companies>Adobe:Apple:Google:Amazon:Facebook:ByteDance</companies>
+ * <notes>Modulus Divide Technique</notes>
  * </metadata>
  * */
 public class PlusOne {

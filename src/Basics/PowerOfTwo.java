@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Power of Two,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Power_of_Two.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/power-of-two,
- *   Date:- 2024-02-14,
- *   Level:- Easy,
- *   Notes:- Use log or BitWise Manipulation,
- *   Remarks:- Revised Once,
+ * <name>Power of Two</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Power_of_Two.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/power-of-two</url>
+ * <date>2024-02-14</date>
+ * <level>Easy</level>
+ * <notes>Use log or BitWise Manipulation</notes>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class PowerOfTwo {

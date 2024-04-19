@@ -2,14 +2,14 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Transpose Matrix,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Transpose_Matrix.png">,
- *   URL:- https://leetcode.com/problems/transpose-matrix,
- *   Date:- 2024-02-20,
- *   Level:- Easy,
- *   Notes:- Row to Column Column to Row elements make sure you use new array when row and column are of diff size,
- *   Companies:- Apple:Amazon:Citadel:Microsoft,
+ * <name>Transpose Matrix</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Transpose_Matrix.png"></description>
+ * <url>https://leetcode.com/problems/transpose-matrix</url>
+ * <date>2024-02-20</date>
+ * <level>Easy</level>
+ * <notes>Row to Column Column to Row elements make sure you use new array when row and column are of diff size</notes>
+ * <companies>Apple:Amazon:Citadel:Microsoft</companies>
  * </metadata>
  * */
 public class TransposeMatrix {

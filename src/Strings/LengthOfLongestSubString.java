@@ -5,17 +5,14 @@ import java.util.HashSet;
 
 /*
  * <metadata>
- *   Name:- Length of the longest substring,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/Length_of_longest_substring.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1,
- *   Date:- 2024-03-08,
- *   Level:- Medium,
- *   Companies:- Morgan Stanley:Amazon:Microsoft:Google:Synopsys,
- *   Notes:-
- *           Solution 1 Hint - Naive Approach Two for loops</br></br>
- *           Solution 2 Hint - Variable Sliding Window Using Two Pointers starting left, right = 0; right will be increment each time when a character is encountered which is already present left is then incremented and max is found each time.,
+ * <name>Length of the longest substring</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Length_of_longest_substring.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1</url>
+ * <date>2024-03-08</date>
+ * <level>Medium</level>
+ * <companies>Morgan Stanley:Amazon:Microsoft:Google:Synopsys</companies>
+ * <notes>Solution 1 Hint - Naive Approach Two for loops</br></br>            Solution 2 Hint - Variable Sliding Window Using Two Pointers starting left</notes>
  * </metadata>
  * */
 public class LengthOfLongestSubString {

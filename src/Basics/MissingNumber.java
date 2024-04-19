@@ -2,14 +2,14 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Missing Number,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/MissingNumber.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/missing-number/description/,
- *   Date:- 2024-02-07,
- *   Level:- Easy,
- *   Companies:- Adobe:Apple:Amazon:VMware:Nvidia:Facebook:Microsoft:Salesforce,
- *   Notes:- 1. Use Cyclic Sort </br> 2. Use Difference b/w Actual Sum and sum of the elements,
+ * <name>Missing Number</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MissingNumber.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/missing-number/description/</url>
+ * <date>2024-02-07</date>
+ * <level>Easy</level>
+ * <companies>Adobe:Apple:Amazon:VMware:Nvidia:Facebook:Microsoft:Salesforce</companies>
+ * <notes>1. Use Cyclic Sort </br> 2. Use Difference b/w Actual Sum and sum of the elements</notes>
  * </metadata>
  * */
 public class MissingNumber {

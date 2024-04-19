@@ -5,14 +5,13 @@ import java.util.Arrays;
 
 /*
  * <metadata>
- *   Name:- Find the Score of All Prefixes of an Array,
- *   Description:-
-        <img src="http://lordmaximus.duckdns.org:9000/codebase/ScoreAllPrefixes.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/,
- *   Date:- 2024-03-08,
- *   Level:- Medium,
- *   Notes:- Two arrays one will save the running max and one result array which will have prefix sum + previous sum added in result array,
+ * <name>Find the Score of All Prefixes of an Array</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ScoreAllPrefixes.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/</url>
+ * <date>2024-03-08</date>
+ * <level>Medium</level>
+ * <notes>Two arrays one will save the running max and one result array which will have prefix sum + previous sum added in result array</notes>
  * </metadata>
  * */
 public class ScoreofAllPrefixes {

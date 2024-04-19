@@ -3,13 +3,13 @@ package Arrays;
 
 /*
  * <metadata>
- *   Name:- Sums of i-th row and i-th column,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Sum_of_particular_row_column.png">,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1,
- *   Date:- 2024-02-27,
- *   Level:- Easy,
- *   Notes:- Calculate RowSum & ColSum Later Compare them,
+ * <name>Sums of i-th row and i-th column</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Sum_of_particular_row_column.png"></description>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1</url>
+ * <date>2024-02-27</date>
+ * <level>Easy</level>
+ * <notes>Calculate RowSum & ColSum Later Compare them</notes>
  * </metadata>
  * */
 public class SumOfRowVSColumn {

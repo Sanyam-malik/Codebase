@@ -6,15 +6,15 @@ import java.util.Set;
 
 /*
  * <metadata>
- *   Name:- Key Pair,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/KeyPair.png">,
- *   URL:- https://www.geeksforgeeks.org/problems/key-pair5616/1,
- *   Date:- 2024-02-26,
- *   Level:- Easy,
- *   Remarks:- LearnYard Problem,
- *   Companies:- Zoho:Flipkart:Morgan Stanley:Accolite:Amazon:Microsoft:FactSet:Hike:Adobe:Google:Wipro:SAP Labs:CarWale,
- *   Notes:- Solution 1 - Two Four Loops? </br></br>Solution 2 - Iterate and save elements and check if the diff matches?,
+ * <name>Key Pair</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/KeyPair.png"></description>
+ * <url>https://www.geeksforgeeks.org/problems/key-pair5616/1</url>
+ * <date>2024-02-26</date>
+ * <level>Easy</level>
+ * <remarks>LearnYard Problem</remarks>
+ * <companies>Zoho:Flipkart:Morgan Stanley:Accolite:Amazon:Microsoft:FactSet:Hike:Adobe:Google:Wipro:SAP Labs:CarWale</companies>
+ * <notes>Solution 1 - Two Four Loops? </br></br>Solution 2 - Iterate and save elements and check if the diff matches?</notes>
  * </metadata>
  * */
 public class KeyPair {

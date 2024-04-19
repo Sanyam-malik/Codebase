@@ -2,14 +2,14 @@ package Extra_Problems.Arrays;
 
 /*
  * <metadata>
- *   Name:- Find Numbers with Even Number of Digits,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Find_No_with_Even_Digits.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/find-numbers-with-even-number-of-digits,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Companies:- Amazon,
- *   Notes:- No Notes Needed,
+ * <name>Find Numbers with Even Number of Digits</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Find_No_with_Even_Digits.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/find-numbers-with-even-number-of-digits</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <companies>Amazon</companies>
+ * <notes>No Notes Needed</notes>
  * </metadata>
  * */
 public class FindNoEvenDigits {

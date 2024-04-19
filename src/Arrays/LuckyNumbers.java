@@ -5,14 +5,14 @@ import java.util.List;
 
 /*
  * <metadata>
- *   Name:- Lucky Numbers in a Matrix,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Lucky_Numbers.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/lucky-numbers-in-a-matrix,
- *   Date:- 2024-02-21,
- *   Level:- Easy,
- *   Companies:- Apple,
- *   Notes:- Solution - First get index of the min element in column and find max element in row and compare them if they are same add it.,
+ * <name>Lucky Numbers in a Matrix</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Lucky_Numbers.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/lucky-numbers-in-a-matrix</url>
+ * <date>2024-02-21</date>
+ * <level>Easy</level>
+ * <companies>Apple</companies>
+ * <notes>Solution - First get index of the min element in column and find max element in row and compare them if they are same add it.</notes>
  * </metadata>
  * */
 public class LuckyNumbers {

@@ -3,11 +3,11 @@ package Recursions;
 
 /*
  * <metadata>
- *   Name:- Searching of number,
- *   Status:- Completed,
- *   URL:- https://www.geeksforgeeks.org/problems/searching-a-number0324/1,
- *   Date:- 2024-03-15,
- *   Level:- Easy,
+ * <name>Searching of number</name>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/searching-a-number0324/1</url>
+ * <date>2024-03-15</date>
+ * <level>Easy</level>
  * </metadata>
  * */
 public class SearchANo {

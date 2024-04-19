@@ -6,14 +6,14 @@ import java.util.List;
 
 /*
  * <metadata>
- *   Name:- Kids With the Greatest Number of Candies,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/Kids_With_Candies.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies,
- *   Date:- 2024-02-18,
- *   Level:- Easy,
- *   Companies:- Amazon,
- *   Notes:- No Notes Needed,
+ * <name>Kids With the Greatest Number of Candies</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Kids_With_Candies.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/kids-with-the-greatest-number-of-candies</url>
+ * <date>2024-02-18</date>
+ * <level>Easy</level>
+ * <companies>Amazon</companies>
+ * <notes>No Notes Needed</notes>
  * </metadata>
  * */
 public class GreatestNoCandies {

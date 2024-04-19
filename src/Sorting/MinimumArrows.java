@@ -4,15 +4,15 @@ import java.util.*;
 
 /*
  * <metadata>
- *   Name:- Minimum Number of Arrows to Burst Balloons,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumArrows.png">,
- *   Status:- Try Again,
- *   URL:- https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/,
- *   Date:- 2024-04-12,
- *   Level:- Medium,
- *   Notes:- <iframe width="560" height="315" src="https://www.youtube.com/embed/fvBhjAp0j9c?si=FKM0z0wTBIDBDIC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>,
- *   Companies:- Google:Facebook:Goldman Sachs,
- *   Remarks:- LearnYard Problem:Good Question,
+ * <name>Minimum Number of Arrows to Burst Balloons</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumArrows.png"></description>
+ * <status>Try Again</status>
+ * <url>https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/</url>
+ * <date>2024-04-12</date>
+ * <level>Medium</level>
+ * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/fvBhjAp0j9c?si=FKM0z0wTBIDBDIC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
+ * <companies>Google:Facebook:Goldman Sachs</companies>
+ * <remarks>LearnYard Problem:Good Question</remarks>
  * </metadata>
  * */
 public class MinimumArrows {

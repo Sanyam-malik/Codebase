@@ -2,15 +2,15 @@ package Basics;
 
 /*
  * <metadata>
- *   Name:- Palindrome Number,
- *   Status:- Completed,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/PalindromeNo.png">,
- *   URL:- https://leetcode.com/problems/palindrome-number/description/,
- *   Date:- 2024-03-05,
- *   Level:- Easy,
- *   Companies:- Uber:Adobe:Apple:Yahoo:Google:Amazon:Facebook:Bloomberg:Accenture,
- *   Notes:- Solution - Divide and Modulus strategy,
- *   Remarks:- Revised Once,
+ * <name>Palindrome Number</name>
+ * <status>Completed</status>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/PalindromeNo.png"></description>
+ * <url>https://leetcode.com/problems/palindrome-number/description/</url>
+ * <date>2024-03-05</date>
+ * <level>Easy</level>
+ * <companies>Uber:Adobe:Apple:Yahoo:Google:Amazon:Facebook:Bloomberg:Accenture</companies>
+ * <notes>Solution - Divide and Modulus strategy</notes>
+ * <remarks>Revised Once</remarks>
  * </metadata>
  * */
 public class PalindromeNumber {
