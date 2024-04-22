@@ -1,3 +1,6 @@
 [
-  "http://lordmaximus.duckdns.org:9000/codebase/songs/Tokyo%20Ghoul%20-%20Opening%20Unravel.mp3"
+  {
+    "name": "Tokyo Ghoul | Unravel",
+    "url": "http://lordmaximus.duckdns.org:9000/codebase/songs/Tokyo%20Ghoul%20-%20Opening%20Unravel.mp3"
+  }
 ]
