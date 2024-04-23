@@ -5,7 +5,7 @@ package Searching;
  * <name>Minimum Time to Repair Cars</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumTimeCarRepairs.png"></description>
  * <status>Needs Revision of Concept</status>
- * <url>https://learnyard.com</url>
+ * <url>https://leetcode.com/problems/minimum-time-to-repair-cars/</url>
  * <date>2024-04-19</date>
  * <level>Medium</level>
  * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/YIo2U8ceHmY?si=1IST59wWBn3NF-Zo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>

@@ -6,7 +6,7 @@ package Searching;
  * <name>Koko Eating Bananas</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/KokoBananas.png"></description>
  * <status>Needs Revision of Concept</status>
- * <url>https://learnyard.com</url>
+ * <url>https://leetcode.com/problems/koko-eating-bananas/description/</url>
  * <date>2024-04-09</date>
  * <level>Medium</level>
  * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/qyfekrNni90?si=Tj6FkF9Uv5oJMqJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>

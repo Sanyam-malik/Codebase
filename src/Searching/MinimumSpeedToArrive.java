@@ -2,13 +2,13 @@ package Searching;
 import java.util.*;
 /*
  * <metadata>
- * <name>Minimum Time to Complete Trips</name>
+ * <name>Minimum Speed to Arrive on Time</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumSpeedToArrive.png"></description>
  * <status>Needs Revision of Concept</status>
- * <url>https://learnyard.com</url>
+ * <url>https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/</url>
  * <date>2024-04-23</date>
  * <level>Medium</level>
- * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/6VHDJMYtn3Q?si=ooHFiR003rHA60CU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
+ * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/aYY3BzUaYU0?si=_9CcZfTjOXvJuuRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
  * <remarks>LearnYard Problem:Good Question</remarks>
  * <companies>Google:PhonePE</companies>
  * </metadata>
