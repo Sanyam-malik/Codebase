@@ -4,7 +4,7 @@ import java.util.*;
 /*
  * <metadata>
  * <name>Replace Elements with Greatest Element on Right Side</name>
- * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ReplaceElementWithGreatest"></description>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ReplaceElementWithGreatest.png"></description>
  * <status>Completed</status>
  * <url>https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side</url>
  * <date>2024-02-27</date>
