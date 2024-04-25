@@ -13,58 +13,52 @@ package Arrays;
  * */
 public class KConcatMaxSum {
 
-    public static int mod = (int)(Math.pow(10, 9) + 7);
     public static int kConcatenationMaxSum(int[] arr, int k) {
-        // 3 cases to consider:
-        // case1: max = max subarray (k == 1)
-        // case2: max = max(kaden, maxPrefixSum + maxSuffixSum + (k - 2) * sum) (sum >=0 && k > 1)
-        // case3: max = max(kaden, maxPrefixSum + maxSuffixSum) (sum < 0 && k > 1)
-
-        int n = arr.length;
-        long sum = 0;
-        // calculate sum of whole array
-        for (int i = 0; i < n; i++) {
-            sum += arr[i];
+        int mod = 1000000007;
+        long sum =0;
+        for(int i=0;i<arr.length;i++){
+            sum = sum +arr[i];
         }
-        int kaden = kadenAlg(arr);
-        // case1
-        // if only 1 array, then answer is the max subarray sum
-        if (k == 1) {
-            return kaden;
+        if(k==1){
+            int num = kadaneAlgo(arr)%mod;
+            return num<0? 0:num;
         }
-        // calculate max value of prefix sum and max value of suffix sum
-        long prefixSum = 0;
-        long suffixSum = 0;
-        long maxPrefixSum = 0;
-        long maxSuffixSum = 0;
-        for (int i = 0; i < n; i++) {
-            prefixSum = (prefixSum+ arr[i]) % mod;
-            maxPrefixSum = Math.max(maxPrefixSum, prefixSum);
+        else if(sum < 0){
+            int num = (kadaneofTwo(arr)%mod);
+            return num < 0 ? 0: num;
         }
-        for (int i = n - 1; i >= 0; i--) {
-            suffixSum = (suffixSum + arr[i]) % mod;
-            maxSuffixSum = Math.max(maxSuffixSum, suffixSum);
-        }
-
-        // case 2:
-        if (sum >= 0) {
-            return Math.max(kaden, (int)((sum * (k - 2)  + maxSuffixSum + maxPrefixSum) % mod));
-        }
-        // case 3:
-        else {
-            return Math.max(kaden, (int)((maxSuffixSum + maxPrefixSum) % mod));
-        }
+        int sum2 = kadaneofTwo(arr);
+        // int sum1 = kadaneAlgo(arr);
+        // if(sum2>sum1){
+        long newSum = (k-2)*sum;
+        return (int)(sum2 + (newSum)%mod)%mod;
+        // }
+        // return (sum1+ (k-1)*sum)%mod;
     }
-    public static int kadenAlg(int[] arr) {
-        long maxSoFar = 0, maxEndingHere = 0;
-        for (int i = 0; i < arr.length; i++) {
-            maxEndingHere = (maxEndingHere + arr[i]) % mod;
-            if (maxEndingHere < 0) maxEndingHere = 0;
-            else {
-                maxSoFar = Math.max(maxSoFar, maxEndingHere);
+
+    public static int kadaneAlgo(int[] arr){
+        int mod = 1000000000+7;
+        long sum = 0, maxSum = Integer.MIN_VALUE;
+        for(int i=0;i<arr.length;i++){
+            sum = sum + arr[i];
+            maxSum = Math.max(sum, maxSum);
+            if(sum<0){
+                sum = 0;
             }
         }
-        return (int)maxSoFar;
+        return (int)(maxSum)%mod;
+    }
+
+    public static int kadaneofTwo(int[] arr){
+        int mod = 1000000000+7;
+        int nums[] = new int[arr.length*2];
+        for(int i=0;i<arr.length;i++){
+            nums[i] = arr[i];
+        }
+        for(int i=0;i<arr.length;i++){
+            nums[i+arr.length] = arr[i];
+        }
+        return (kadaneAlgo(nums)%mod);
     }
 
 
