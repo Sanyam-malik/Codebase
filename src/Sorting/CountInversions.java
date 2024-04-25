@@ -6,7 +6,7 @@ import java.util.Arrays;
  * <metadata>
  * <name>Count Inversions</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/CountInversions.png"></description>
- * <status>Try Again</status>
+ * <status>Needs Revision of Concept</status>
  * <url>https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1</url>
  * <date>2024-04-11</date>
  * <level>Medium</level>
