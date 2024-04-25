@@ -7,7 +7,7 @@ import java.util.*;
  * <metadata>
  * <name>Third Maximum Number</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ThirdMaxNumber.png"></description>
- * <status>Try Again</status>
+ * <status>Completed</status>
  * <url>https://leetcode.com/problems/third-maximum-number/description/</url>
  * <date>2024-04-16</date>
  * <level>Easy</level>
