@@ -4,7 +4,7 @@ package Arrays;
  * <metadata>
  * <name>K-Concatenation Maximum Sum</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/KConcat_Maximum_Sum.png"></description>
- * <status>Try Again</status>
+ * <status>Needs Revision of Concept</status>
  * <url>https://leetcode.com/problems/k-concatenation-maximum-sum/description/</url>
  * <date>2024-03-29</date>
  * <level>Medium</level>
