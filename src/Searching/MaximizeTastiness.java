@@ -17,32 +17,43 @@ import java.util.Arrays;
  * */
 public class MaximizeTastiness {
 
-    public int maximumTastiness(int[] price, int k) {
+    public static int maximumTastiness(int[] price, int k) {
         Arrays.sort(price);
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        for(int i : price) {
+            min = Math.min(min, i);
+            max = Math.max(max, i);
+        }
+
         int start = 1;
-        int end = (int) 10e5;
+        int end = max - min + 1;
         int ans = -1;
         while (start<=end) {
             int mid = start + (end - start)/2;
             int compute = computeCandies(mid, price, k);
-            if(compute == k){
+            if(compute >= k){
                 ans = mid;
                 start = mid + 1;
-            }
-            else if(compute < k) {
-                start = mid + 1;
-            } else {
+            }else {
                 end = mid - 1;
             }
         }
         return ans;
     }
 
-    private int computeCandies(int mid, int[] price, int k) {
-        return 0;
+    private static int computeCandies(int difference, int[] price, int k) {
+        int last = price[0], count = 1, i = 1;
+        while ( i < price.length) {
+            if (price[i] - last >= difference) {
+                last = price[i]; count++;
+            }
+            i++;
+        }
+        return count;
     }
 
     public static void main(String args[]) {
-
+        System.out.println(maximumTastiness(new int[]{13,5,1,8,21,2}, 3));
     }
 }
