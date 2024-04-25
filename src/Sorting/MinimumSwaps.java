@@ -8,7 +8,7 @@ import java.util.HashMap;
  * <metadata>
  * <name>Minimum Swaps to Sort</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumSwaps.png"></description>
- * <status>Try Again</status>
+ * <status>Completed</status>
  * <url>https://www.geeksforgeeks.org/problems/minimum-swaps/1</url>
  * <date>2024-04-14</date>
  * <level>Medium</level>
