@@ -6,7 +6,7 @@ import java.util.*;
  * <metadata>
  * <name>Minimum Number of Arrows to Burst Balloons</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumArrows.png"></description>
- * <status>Try Again</status>
+ * <status>Needs Revision of Concept</status>
  * <url>https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/</url>
  * <date>2024-04-12</date>
  * <level>Medium</level>
