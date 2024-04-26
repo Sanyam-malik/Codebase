@@ -30,7 +30,7 @@ public class PainterPartitionII {
             if(compute <= k) {
                 ans = mid;
                 end = mid;
-            } else{
+            } else {
                 start = mid + 1;
             }
         }
