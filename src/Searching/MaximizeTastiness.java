@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * <metadata>
  * <name>Maximum Tastiness of Candy Basket</name>
- * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MaximizeTastiness.png"></description>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MaximumTastiness.png"></description>
  * <status>Try Again</status>
  * <url>https://leetcode.com/problems/maximum-tastiness-of-candy-basket/</url>
  * <date>2024-04-26</date>
