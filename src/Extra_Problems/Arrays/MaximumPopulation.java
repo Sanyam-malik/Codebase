@@ -10,7 +10,7 @@ package Extra_Problems.Arrays;
  * <level>Easy</level>
  * <companies>Cisco:Google:Bloomberg</companies>
  * <notes>Wow Great Question!!!</notes>
- * <countinclusion>no<countinclusion>
+ * <countinclusion>no</countinclusion>
  * </metadata>
  * */
 public class MaximumPopulation {

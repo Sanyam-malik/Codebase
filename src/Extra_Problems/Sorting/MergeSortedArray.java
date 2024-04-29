@@ -11,7 +11,7 @@ package Extra_Problems.Sorting;
  * <companies>Uber:Apple:Amazon:Shopee:Indeed:Oracle:Facebook:LinkedIn:Microsoft:Bloomberg</companies>
  * <notes>Compare and merge you could use a new array or use hint</notes>
  * <remarks>LearnYard Problem</remarks>
- * <countinclusion>no<countinclusion>
+ * <countinclusion>no</countinclusion>
  * </metadata>
  * */
 public class MergeSortedArray {

@@ -13,7 +13,7 @@ import java.util.List;
  * <level>Easy</level>
  * <companies>Apple</companies>
  * <notes>No Notes Needed</notes>
- * <countinclusion>no<countinclusion>
+ * <countinclusion>no</countinclusion>
  * </metadata>
  * */
 public class LuckyNumbers {

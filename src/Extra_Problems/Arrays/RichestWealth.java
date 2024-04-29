@@ -11,7 +11,7 @@ package Extra_Problems.Arrays;
  * <level>Easy</level>
  * <notes>No Notes Needed</notes>
  * <companies>Adobe</companies>
- * <countinclusion>no<countinclusion>
+ * <countinclusion>no</countinclusion>
  * </metadata>
  * */
 public class RichestWealth {

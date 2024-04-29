@@ -10,7 +10,7 @@ package Extra_Problems.Arrays;
  * <level>Easy</level>
  * <notes>No Notes Needed</notes>
  * <companies>Apple:Amazon:Citadel:Microsoft</companies>
- * <countinclusion>no<countinclusion>
+ * <countinclusion>no</countinclusion>
  * </metadata>
  * */
 public class TransposeMatrix {
