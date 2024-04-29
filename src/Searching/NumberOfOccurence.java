@@ -10,6 +10,7 @@ package Searching;
  * <level>Easy</level>
  * <companies>Zoho:Amazon:MakeMyTrip</companies>
  * <notes>Using Binary search Find First Occurrence and Last Occurrence then do last - first + 1</notes>
+ * <countinclusion>no<countinclusion>
  * </metadata>
  * */
 public class NumberOfOccurence {

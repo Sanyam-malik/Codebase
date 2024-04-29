@@ -10,6 +10,7 @@ package Extra_Problems.Arrays;
  * <level>Easy</level>
  * <companies>Amazon:Bloomberg</companies>
  * <notes>No Notes Needed</notes>
+ * <countinclusion>no<countinclusion>
  * </metadata>
  * */
 public class MatrixDiagonalSum {

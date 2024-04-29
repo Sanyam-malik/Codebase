@@ -12,6 +12,7 @@ package Extra_Problems.Arrays;
  * <level>Medium</level>
  * <companies>Uber:Apple:Adobe:Cisco:Paytm:Amazon:Google:Shopee:VMware:Oracle:Samsung:Infosys:LinkedIn:Facebook:JPMorgan:Docusign:Microsoft:Bloomberg:ByteDance:Salesforce:ServiceNow:Goldman Sachs:Walmart Global Tech</companies>
  * <notes>No Notes Needed</notes>
+ * <countinclusion>no<countinclusion>
  * </metadata>
  * */
 public class MaxSubArray {

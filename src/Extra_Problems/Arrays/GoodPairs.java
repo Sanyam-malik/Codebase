@@ -12,6 +12,7 @@ package Extra_Problems.Arrays;
  * <remarks>Needs Algorithm Improvement</remarks>
  * <companies>Adobe:Amazon:Microsoft</companies>
  * <notes>Solution 1 - Nested Loops</notes>
+ * <countinclusion>no<countinclusion>
  * </metadata>
  * */
 public class GoodPairs {

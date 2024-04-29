@@ -18,7 +18,7 @@ import java.util.Map;
  * */
 public class MinimumOperationsReduceX {
 
-    public int minOperations(int[] nums, int x) {
+    public static int minOperations(int[] nums, int x) {
         int currentSum = 0; // Stores the current sum of elements in the array.
 
         // Calculate the total sum of the array elements.
