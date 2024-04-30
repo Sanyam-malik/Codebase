@@ -10,7 +10,7 @@ package LinkedList;
  * <date>2024-04-30</date>
  * <level>Medium</level>
  * <notes>No Notes Needed</notes>
- * <companies>Implementations</companies>
+ * <companies>Amazon:Google:Nvidia:Microsoft:Virtu Financial</companies>
  * <remarks>Implementations</remarks>
  * </metadata>
  * */
