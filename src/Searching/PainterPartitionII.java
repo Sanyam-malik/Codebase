@@ -5,7 +5,7 @@ package Searching;
 /*
  * <metadata>
  * <name>The Painter's Partition Problem-II</name>
- * <status>Needs Revision of Concept</status>
+ * <status>Try Again</status>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/PainterPartitionII.png"></description>
  * <url>https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1</url>
  * <date>2024-04-26</date>

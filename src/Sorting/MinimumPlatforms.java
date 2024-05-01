@@ -5,7 +5,7 @@ import java.util.Arrays;
  * <metadata>
  * <name>Minimum Platforms</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MinimumPlatforms.png"></description>
- * <status>Awaiting Response</status>
+ * <status>Try Again</status>
  * <url>https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1</url>
  * <date>2024-04-12</date>
  * <level>Medium</level>
