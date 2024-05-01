@@ -35,5 +35,6 @@
       "paginationBGColor": "#3c3b3b",
       "paginationTXTColor": "white"
     }
-  }
+  },
+  "addItems": "true"
 }
