@@ -5,7 +5,7 @@ package Searching;
 /*
  * <metadata>
  * <name>The Painter's Partition Problem-II</name>
- * <status>Ask To TA</status>
+ * <status>Needs Revision of Concept</status>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/PainterPartitionII.png"></description>
  * <url>https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1</url>
  * <date>2024-04-26</date>
@@ -29,7 +29,7 @@ public class PainterPartitionII {
             int compute = painters(arr, mid);
             if(compute <= k) {
                 ans = mid;
-                end = mid;
+                end = mid - 1;
             } else {
                 start = mid + 1;
             }
@@ -45,6 +45,9 @@ public class PainterPartitionII {
                 sum += arr[i];
             } else {
                 sum = arr[i];
+                if (arr[i] > middle) {
+                    return Integer.MAX_VALUE; // Board size exceeds mid, return MAX_VALUE
+                }
                 painters++;
             }
         }
