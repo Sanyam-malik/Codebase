@@ -1,4 +1,4 @@
-package Contest;
+package Contest.CodeGladiators;
 
 import java.util.*;
 
