@@ -12,7 +12,7 @@ import java.util.Arrays;
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/OptimizingCompetition.png"></description>
  * <url>https://www.techgig.com/codegladiators</url>
  * <date>2024-05-08</date>
- * <level>Easy</level>
+ * <level>Medium</level>
  * <notes>Self Explainary</notes>
  * </metadata>
  * */
