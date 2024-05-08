@@ -3,6 +3,7 @@ package Contest;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Arrays;
 
 /*
  * <metadata>
@@ -23,6 +24,33 @@ public class OptimizingCompetition {
             maxTeams = Math.max(maxTeams, noOfTeams(w, i));
         }
         return maxTeams;
+    }
+
+    public static int maximumTeamsOptimized(int[] w) {
+        Arrays.sort(w); // Sort the weights in ascending order
+        int maxTeams = 0;
+        for (int i = 1; i < w.length; i++) {
+            int teams = countTeams(w, w[i]);
+            maxTeams = Math.max(maxTeams, teams);
+        }
+        return maxTeams;
+    }
+
+    public static int countTeams(int[] weights, int commonWt) {
+        int teams = 0;
+        int left = 0;
+        int right = weights.length - 1;
+
+        while (left < right) {
+            if (weights[left] + weights[right] <= commonWt) {
+                left++;
+                right--;
+                teams++;
+            } else {
+                right--;
+            }
+        }
+        return teams;
     }
 
     public static int findTotal(int[] arr) {
@@ -57,6 +85,6 @@ public class OptimizingCompetition {
     }
 
     public static void main(String args[]) {
-        System.out.println(maximumTeams(new int[]{1,1,3,4,2,2}));
+        System.out.println(maximumTeamsOptimized(new int[]{1,1,3,4,2,2}));
     }
 }
