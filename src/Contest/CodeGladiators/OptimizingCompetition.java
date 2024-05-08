@@ -8,7 +8,7 @@ import java.util.Arrays;
 /*
  * <metadata>
  * <name>Optimizing Competition</name>
- * <status>To Do</status>
+ * <status>Completed</status>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/OptimizingCompetition.png"></description>
  * <url>https://www.techgig.com/codegladiators</url>
  * <date>2024-05-08</date>
