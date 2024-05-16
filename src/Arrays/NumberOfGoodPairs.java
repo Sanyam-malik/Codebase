@@ -6,7 +6,7 @@ import java.util.Map;
 
 /*
  * <metadata>
- * <name>Number of Good Pairs</name>
+ * <name>Number of Good Pairs - Revision</name>
  * <status>Completed</status>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Number_Good_Pairs.png"></description>
  * <url>https://leetcode.com/problems/number-of-good-pairs</url>
@@ -14,6 +14,7 @@ import java.util.Map;
  * <level>Easy</level>
  * <companies>Adobe:Amazon:Microsoft</companies>
  * <notes>Map to store the count and then no of pairs formula</notes>
+ * <countinclusion>no</countinclusion>
  * </metadata>
  * */
 public class NumberOfGoodPairs {

@@ -1,4 +1,4 @@
-package Extra_Problems.Arrays;
+package HashMap;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,15 +6,14 @@ import java.util.Map;
 
 /*
  * <metadata>
- * <name>Two Sum - Revision</name>
+ * <name>Two Sum</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Two_Sum.png"></description>
  * <status>Completed</status>
  * <url>https://leetcode.com/problems/two-sum</url>
- * <date>2024-02-20</date>
+ * <date>2024-05-16</date>
  * <level>Easy</level>
  * <notes>No Notes Needed</notes>
  * <companies>IBM:Uber:Zoho:Visa:Dell:Zoom:Adobe:Apple:Yahoo:Intel:Amazon:Google:Oracle:Paypal:Intuit:Zillow:Zomato:Spotify:Expedia:Samsung:Facebook:JPMorgan:Microsoft:Bloomberg:Accenture:Salesforce:Goldman Sachs:Morgan Stanley:American Express:Walmart Global Tech</companies>
- * <countinclusion>no</countinclusion>
  * </metadata>
  * */
 public class TwoSum {
