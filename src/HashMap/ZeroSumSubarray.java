@@ -8,7 +8,7 @@ import java.util.Map;
  * <metadata>
  * <name>Zero Sum Subarrays</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ZeroSumSubArray.png"></description>
- * <status>Completed</status>
+ * <status>Try Again</status>
  * <url>https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825/1</url>
  * <date>2024-05-16</date>
  * <level>Medium</level>
