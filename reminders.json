@@ -1,13 +1,5 @@
 [
     {
-        "name": "Problem Of The Day",
-        "description": "Solve Problem Everyday to enhance your skills.",
-        "recurrence": "DAILY",
-        "start_time": "00:00",
-        "end_time": "24:00",
-        "date": null
-    },
-    {
         "name": "Weekly Contest",
         "description": "Solve Problem Every Weekday to enhance your skills.",
         "recurrence": "EVERY SATURDAY",
