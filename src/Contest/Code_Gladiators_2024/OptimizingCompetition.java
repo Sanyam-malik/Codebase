@@ -1,4 +1,4 @@
-package Contest.CodeGladiators;
+package Contest.Code_Gladiators_2024;
 
 
 import java.util.HashMap;
