@@ -6,10 +6,7 @@ import java.util.*;
 /*
  * <metadata>
  * <name>Make The String Great</name>
- * <description>
- * <img src="http://lordmaximus.duckdns.org:9000/codebase/MakeStringGreat.png">
- * Heyy,
- * </description>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MakeStringGreat.png"></description>
  * <status>Completed</status>
  * <url>https://leetcode.com/problems/make-the-string-great/description/</url>
  * <date>2024-03-06</date>
