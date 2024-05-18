@@ -11,7 +11,7 @@ import java.util.Arrays;
  * <date>2024-03-18</date>
  * <level>Easy</level>
  * <notes>Find and swap the elements until each element is its in correct position</notes>
- * <remarks>Important Technique:</remarks>
+ * <remarks>Important Technique:Implementations</remarks>
  * </metadata>
  * */
 public class CyclicSort {

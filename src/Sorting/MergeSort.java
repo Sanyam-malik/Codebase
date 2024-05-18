@@ -10,7 +10,7 @@ import java.util.Arrays;
  * <date>2024-03-18</date>
  * <level>Easy</level>
  * <notes>Use the recursion to divide the array and sort the array each time</notes>
- * <remarks>Important Technique:</remarks>
+ * <remarks>Important Technique:Implementations</remarks>
  * </metadata>
  * */
 public class MergeSort {

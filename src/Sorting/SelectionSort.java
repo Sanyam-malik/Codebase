@@ -10,7 +10,7 @@ import java.util.Arrays;
  * <date>2024-03-18</date>
  * <level>Easy</level>
  * <notes>Use two loops get the index with the smallest no and swap if the min index != current index</notes>
- * <remarks>Important Technique:</remarks>
+ * <remarks>Important Technique:Implementations</remarks>
  * </metadata>
  * */
 public class SelectionSort {

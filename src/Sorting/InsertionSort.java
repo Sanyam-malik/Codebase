@@ -10,7 +10,7 @@ import java.util.Arrays;
  * <date>2024-03-18</date>
  * <level>Easy</level>
  * <notes>Divide the array into sorted and unsorted parts</notes>
- * <remarks>Important Technique:</remarks>
+ * <remarks>Important Technique:Implementations</remarks>
  * </metadata>
  * */
 public class InsertionSort {
