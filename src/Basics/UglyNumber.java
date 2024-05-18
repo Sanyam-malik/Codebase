@@ -10,7 +10,7 @@ package Basics;
  * <level>Easy</level>
  * <notes>No Notes Needed</notes>
  * <companies>Adobe:Apple:Amazon:Facebook:Bloomberg</companies>
- * <remarks>Revised Once</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class UglyNumber {

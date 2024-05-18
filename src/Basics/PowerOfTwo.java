@@ -9,7 +9,7 @@ package Basics;
  * <date>2024-02-14</date>
  * <level>Easy</level>
  * <notes>Use log or BitWise Manipulation</notes>
- * <remarks>Revised Once</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class PowerOfTwo {

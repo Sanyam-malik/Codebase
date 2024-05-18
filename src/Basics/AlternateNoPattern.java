@@ -9,7 +9,7 @@ package Basics;
  * <date>2024-02-15</date>
  * <level>Easy</level>
  * <notes>At even places 0 else 1</notes>
- * <remarks>Revised Once</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class AlternateNoPattern {

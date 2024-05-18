@@ -10,7 +10,7 @@ package Basics;
  * <level>Easy</level>
  * <companies>VMWare:Amazon:SAP Labs</companies>
  * <notes>See this for All Approaches: <a href="https://www.geeksforgeeks.org/java-prime-number-program/">Click Here</a></notes>
- * <remarks>Revised Once</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class PrimeNos {

@@ -9,7 +9,7 @@ package Basics;
  * <date>2024-02-14</date>
  * <level>Easy</level>
  * <notes>To find common factor we will start with 1 to the minimum element and check their modulus</notes>
- * <remarks>Revised Once</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class CommonFactors {

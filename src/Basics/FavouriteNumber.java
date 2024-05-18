@@ -9,7 +9,7 @@ package Basics;
  * <date>2024-02-15</date>
  * <level>Easy</level>
  * <notes>Simple If Statements</notes>
- * <remarks>Revised Once</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class FavouriteNumber {

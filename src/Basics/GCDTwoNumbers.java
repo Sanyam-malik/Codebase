@@ -9,7 +9,7 @@ package Basics;
  * <date>2024-02-14</date>
  * <level>Easy</level>
  * <notes>Start from 1 to minimum no of the two and check modulus or Use Euclidean algorithm <a href="https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/">Click here</a></notes>
- * <remarks>Revised Once:Needs Learning:Solve Using Euclidean Algorithm</remarks>
+ * <remarks>:Needs Learning:Solve Using Euclidean Algorithm</remarks>
  * </metadata>
  * */
 public class GCDTwoNumbers {

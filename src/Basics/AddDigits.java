@@ -10,7 +10,7 @@ package Basics;
  * <level>Easy</level>
  * <notes>Modulus and Divide Technique to Sum the Digits</notes>
  * <companies>Bloomberg</companies>
- * <remarks>Revised Once</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class AddDigits {

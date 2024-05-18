@@ -10,7 +10,7 @@ package Basics;
  * <level>Easy</level>
  * <companies>Uber:Adobe:Apple:Yahoo:Google:Amazon:Facebook:Bloomberg:Accenture</companies>
  * <notes>Solution - Divide and Modulus strategy</notes>
- * <remarks>Revised Once</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class PalindromeNumber {

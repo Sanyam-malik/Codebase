@@ -9,7 +9,7 @@ package Basics;
  * <date>2024-02-14</date>
  * <level>Easy</level>
  * <notes>Simple If's Statements</notes>
- * <remarks>Revised Once</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class FizzBuzz {

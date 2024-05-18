@@ -10,7 +10,7 @@ package Basics;
  * <date>2024-03-11</date>
  * <level>Easy</level>
  * <notes>Get Digits of the no if get power of each digit raised to power of total digits</notes>
- * <remarks>Revised Once</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class ArmstrongNumber {

@@ -10,7 +10,7 @@ package Basics;
  * <date>2024-02-15</date>
  * <level>Easy</level>
  * <notes>No Notes Needed</notes>
- * <remarks>Revised Once</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class HollowSquarePattern {
