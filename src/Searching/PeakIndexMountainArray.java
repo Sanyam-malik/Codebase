@@ -10,7 +10,7 @@ package Searching;
  * <level>Medium</level>
  * <notes>Binary Search <br/><br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/cXxmbemS6XM?si=yxXifkyBBxx0zaYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
  * <companies>TCS:OLA:Uber:Hike:Zeta:Wipro:Byjus:Dunzo:Wipro:Apple:Adobe:Amazon:Google:Walmart:Groupon:Facebook:Accolite:Microsoft:Bloomberg:Goldman Sachs:APT Portfolio:De Shaw India:Proschant India:Josh Technologies</companies>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class PeakIndexMountainArray {

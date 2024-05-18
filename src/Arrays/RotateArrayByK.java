@@ -11,7 +11,7 @@ import java.util.*;
  * <level>Medium</level>
  * <companies>TCS:Yahoo:Amazon:Google:Facebook:Microsoft:Salesforce</companies>
  * <notes>Solution 1 - New Array and Iterate from n-k-1 to end -> then iterate from start to k -> Saving the result </br>           Solution 2 - Reverse the whole array -> reverse the elements upto k -> reverse from k+1 to end</notes>
- * <remarks>LearnYard Problem:Needs Revision of Concept</remarks>
+ * <remarks>:Needs Revision of Concept</remarks>
  * </metadata>
  * */
 public class RotateArrayByK {

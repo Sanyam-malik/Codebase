@@ -12,7 +12,7 @@ import java.util.*;
  * <date>2024-04-15</date>
  * <level>Medium</level>
  * <notes>Just sort matrix rowwise and normal for loop to find maximum and adding it to score</notes>
- * <remarks>LearnYard Problem:Good Question</remarks>
+ * <remarks>:Good Question</remarks>
  * </metadata>
  * */
 public class SumInMatrix {

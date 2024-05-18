@@ -11,7 +11,7 @@ import java.util.*;
  * <level>Easy</level>
  * <notes>1. Using Arrays.sort() </br> 2. Using Sets </br></notes>
  * <companies>TCS:Uber:Adobe:Apple:Yahoo:Amazon:Google:Microsoft:Bloomberg</companies>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class ContainsDuplicate {

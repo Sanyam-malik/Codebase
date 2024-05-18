@@ -10,7 +10,7 @@ import java.util.*;
  * <date>2024-04-14</date>
  * <level>Medium</level>
  * <notes>Find the min and max element everytime</notes>
- * <remark>LearnYard Problem:Good Question</remark>
+ * <remark>:Good Question</remark>
  * <companies>Adobe:Amazon:Citadel:Snowflake</companies>
  * </metadata>
  * */

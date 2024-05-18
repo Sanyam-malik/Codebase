@@ -12,7 +12,7 @@ import java.util.Arrays;
  * <level>Medium</level>
  * <notes>No Notes Needed</notes>
  * <companies>Uber:Adobe:Wipro:Amazon:Google:Oracle:VMWare:Airtel:Qualys:Facebook:LinkedIn:Verifone:Bloomberg:ByteDance:Microsoft:Ion Trading:Apptad Inc.:Goldman Sachs:Amadeus Software</companies>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class FirstAndLastPosition {

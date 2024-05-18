@@ -11,7 +11,7 @@ package Arrays;
  * <date>2024-03-24</date>
  * <level>Medium</level>
  * <notes>Use Prefix Sum Technique</notes>
- * <remark>LearnYard Problem</remark>
+ * <remark></remark>
  * <companies>Amazon</companies>
  * </metadata>
  * */

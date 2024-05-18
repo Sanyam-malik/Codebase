@@ -11,7 +11,7 @@ import java.util.*;
  * <level>Medium</level>
  * <notes>Just Sort</notes>
  * <companies>Amazon:Hike:Make:MyTrip:MAQ Software:Adobe</companies>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class NutsBolts {

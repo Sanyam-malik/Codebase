@@ -12,7 +12,7 @@ package Arrays;
  * <level>Medium</level>
  * <companies>Amazon:Microsoft</companies>
  * <notes>Solution 1: Find the start index of the where the sorting breaks and also the last index where sorting is breaking and the end - start + 1</br>           Solution 2: Use prefix suffix array</notes>
- * <remarks>LearnYard Problem:Good Question</remarks>
+ * <remarks>:Good Question</remarks>
  * </metadata>
  * */
 public class ShortestUnSortedSubArray {

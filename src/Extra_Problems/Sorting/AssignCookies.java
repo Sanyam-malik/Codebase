@@ -11,7 +11,7 @@ import java.util.*;
  * <level>Easy</level>
  * <companies>Apple</companies>
  * <notes>Sort and use two pointers approach</notes>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class AssignCookies {

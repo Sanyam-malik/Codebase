@@ -10,7 +10,7 @@ import java.util.Arrays;
  * <date>2024-03-18</date>
  * <level>Easy</level>
  * <notes>Use two loops Check at each iteration if next no is smaller then previous if it is swap them</notes>
- * <remarks>Important Technique:LearnYard Problem</remarks>
+ * <remarks>Important Technique:</remarks>
  * </metadata>
  * */
 public class BubbleSort {

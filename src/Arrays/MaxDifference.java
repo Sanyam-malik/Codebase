@@ -10,7 +10,7 @@ package Arrays;
  * <date>2024-03-12</date>
  * <level>Easy</level>
  * <companies>Cisco:Apple:Expedia:Incedo Inc:DE Shaw India</companies>
- * <remarks>Needs Revision of Concept:LearnYard Problem</remarks>
+ * <remarks>Needs Revision of Concept:</remarks>
  * <notes>Use Prefix min Array</notes>
  * </metadata>
  * */

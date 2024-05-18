@@ -9,7 +9,7 @@ import java.util.Arrays;
  * <date>2024-04-11</date>
  * <level>Medium</level>
  * <notes>Just Use Arrays.sort() or Merge Sort (Quick Sort will work but will be slow because of edge cases)</notes>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * <companies>Amazon:Bloomberg</companies>
  * </metadata>
  * */

@@ -10,7 +10,7 @@ package Extra_Problems.Sorting;
  * <level>Easy</level>
  * <companies>Uber:Apple:Amazon:Shopee:Indeed:Oracle:Facebook:LinkedIn:Microsoft:Bloomberg</companies>
  * <notes>Compare and merge you could use a new array or use hint</notes>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * <countinclusion>no</countinclusion>
  * </metadata>
  * */

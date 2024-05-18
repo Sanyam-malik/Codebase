@@ -11,7 +11,7 @@ package Searching;
  * <level>Easy</level>
  * <notes>No Notes Needed</notes>
  * <companies>Uber:Apple:Adobe:Yahoo:Amazon:Google:Facebook:Microsoft:Bloomberg</companies>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class BinarySearch {

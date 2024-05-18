@@ -12,7 +12,7 @@ import java.util.Set;
  * <url>https://www.geeksforgeeks.org/problems/key-pair5616/1</url>
  * <date>2024-02-26</date>
  * <level>Easy</level>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * <companies>Zoho:Flipkart:Morgan Stanley:Accolite:Amazon:Microsoft:FactSet:Hike:Adobe:Google:Wipro:SAP Labs:CarWale</companies>
  * <notes>Solution 1 - Two Four Loops? </br></br>Solution 2 - Iterate and save elements and check if the diff matches?</notes>
  * </metadata>

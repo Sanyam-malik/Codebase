@@ -9,7 +9,7 @@ package Sorting;
  * <date>2024-04-11</date>
  * <level>Easy</level>
  * <notes>Just Use Two Pointers Approach</notes>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * <companies>Apple:Microsoft</companies>
  * </metadata>
  * */

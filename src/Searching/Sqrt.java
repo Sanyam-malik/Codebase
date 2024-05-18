@@ -11,7 +11,7 @@ package Searching;
  * <level>Easy</level>
  * <notes>No Notes Needed</notes>
  * <companies>Apple:Adobe:Amazon:Google:LinkedIn:Microsoft:Bloomberg</companies>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class Sqrt {

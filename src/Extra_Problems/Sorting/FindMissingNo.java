@@ -11,7 +11,7 @@ import java.util.*;
  * <level>Easy</level>
  * <notes>1. Using Brute Force </br> 2. Binary Search</br> <iframe width="560" height="315" src="https://www.youtube.com/embed/uZ0N_hZpyps?si=L8bVAs1NMb8Q2OEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
  * <companies>TikTok:Google:Amazon:Facebook:Microsoft</companies>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class FindMissingNo {

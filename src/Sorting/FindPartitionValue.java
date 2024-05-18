@@ -11,7 +11,7 @@ import java.util.Arrays;
  * <date>2024-04-15</date>
  * <level>Medium</level>
  * <notes>Just sort and find minimum of adjacent differences</notes>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class FindPartitionValue {

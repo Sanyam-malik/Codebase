@@ -10,7 +10,7 @@ package Searching;
  * <date>2024-04-08</date>
  * <level>Easy</level>
  * <notes>No Notes Needed</notes>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class BinarySearchableElementsII {

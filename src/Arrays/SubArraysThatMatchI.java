@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
  * <date>2024-03-24</date>
  * <level>Medium</level>
  * <notes>1. Brute Force Using For Loops </br> 2. Using KMP Algorithm</notes>
- * <remark>LearnYard Problem:Good Question:Needs Practice of Related Problems</remark>
+ * <remark>:Good Question:Needs Practice of Related Problems</remark>
  * </metadata>
  * */
 public class SubArraysThatMatchI {

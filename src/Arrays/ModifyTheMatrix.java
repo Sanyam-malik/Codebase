@@ -10,7 +10,7 @@ package Arrays;
  * <date>2024-03-24</date>
  * <level>Easy</level>
  * <notes>Calculate the max column of array each time and change value if the -1 is encountered.</notes>
- * <remark>LearnYard Problem</remark>
+ * <remark></remark>
  * </metadata>
  * */
 public class ModifyTheMatrix {

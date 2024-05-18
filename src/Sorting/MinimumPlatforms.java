@@ -11,7 +11,7 @@ import java.util.Arrays;
  * <level>Medium</level>
  * <notes>Just Sort and while arr[i] <= dept[i] platform++ else platform-- </br></br> <a href="https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/">Solution Link</a> </br></br> <iframe width="560" height="315" src="https://www.youtube.com/embed/dxVcMDI7vyI?si=RFVQOlkLpKeTXcKF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
  * <companies>Paytm:Amazon:Microsoft:DE Shaw:Hike:Walmart:Adobe:Google:Boomerang Commerce:Zillious:Atlassian</companies>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class MinimumPlatforms {

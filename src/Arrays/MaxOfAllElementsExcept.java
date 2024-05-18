@@ -13,7 +13,7 @@ import java.util.List;
  * <date>2024-03-12</date>
  * <level>Medium</level>
  * <notes>Solution 1: Find largest and second largest element</br></br>Solution 2: Find Prefix and Suffix of all elements</notes>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class MaxOfAllElementsExcept {

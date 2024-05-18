@@ -12,7 +12,7 @@ import java.util.Arrays;
  * <level>Easy</level>
  * <notes>Sort the 2D Descending of No of units per box using Custom Comparator</notes>
  * <companies>Amazon:JPMorgan:LinkedIn</companies>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class MaximumUnitsTruck {

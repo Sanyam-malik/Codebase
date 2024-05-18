@@ -11,7 +11,7 @@ package Arrays;
  * <date>2024-03-12</date>
  * <level>Easy</level>
  * <notes>Store the maximum of i th element with i-1 element</notes>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class PrefixSumArray {

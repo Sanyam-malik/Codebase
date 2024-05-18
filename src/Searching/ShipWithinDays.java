@@ -11,7 +11,7 @@ package Searching;
  * <level>Medium</level>
  * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/MG-Ac4TAvTY?si=AmOuYv_5QygMmyR_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
  * <companies>Uber:Agoda:Apple:Adobe:TikTok:Amazon:Oracle:Google:Expedia:CureFit:Facebook:Flipkart:DoorDash:Bloomberg:Microsoft:Salesforce:Goldman Sachs</companies>
- * <remarks>LearnYard Problem:Good Question</remarks>
+ * <remarks>:Good Question</remarks>
  * </metadata>
  * */
 public class ShipWithinDays {

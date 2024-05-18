@@ -12,7 +12,7 @@ import java.util.*;
  * <level>Easy</level>
  * <notes>1. Using Arrays.sort() </br> 2. Using Map </br> 3. Using <a href="http://lordmaximus.duckdns.org:4500/notes/moore-voting-algorithm">Moore Voting Algorithm</a> </br> <iframe width="560" height="315" src="https://www.youtube.com/embed/nP_ns3uSh80?si=tr2mNrBtERst9EYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
  * <companies>Uber:Adobe:Apple:Amazon:Google:Rubrik:Facebook:Microsoft:Bloomberg</companies>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class MajorityElement {

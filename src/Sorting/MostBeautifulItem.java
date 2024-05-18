@@ -12,7 +12,7 @@ import java.util.Arrays;
  * <level>Medium</level>
  * <notes>Sort According to Prices Create Prefix Max Array and Prices Array to Do the Binary Search</notes>
  * <companies>Postmates</companies>
- * <remarks>LearnYard Problem:Good Question</remarks>
+ * <remarks>:Good Question</remarks>
  * </metadata>
  * */
 public class MostBeautifulItem {

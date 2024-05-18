@@ -11,7 +11,7 @@ package Arrays;
  * <level>Easy</level>
  * <companies>Microsoft</companies>
  * <notes>Start from index i and add previous values</notes>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class RunningSum {

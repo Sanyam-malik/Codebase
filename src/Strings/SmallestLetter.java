@@ -13,7 +13,7 @@ import java.util.Arrays;
  * <level>Easy</level>
  * <notes>No Notes Needed</notes>
  * <companies>Amazon:LinkedIn:Bloomberg</companies>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class SmallestLetter {

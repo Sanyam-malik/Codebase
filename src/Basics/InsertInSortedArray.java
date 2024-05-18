@@ -10,7 +10,7 @@ import java.util.Arrays;
  * <date>2024-03-18</date>
  * <level>Easy</level>
  * <notes>Find the index by moving the elem to right if they are greator</notes>
- * <remarks>Important Technique:LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class InsertInSortedArray {

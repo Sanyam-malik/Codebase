@@ -9,7 +9,7 @@ import java.util.*;
  * <date>2024-04-23</date>
  * <level>Medium</level>
  * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/aYY3BzUaYU0?si=_9CcZfTjOXvJuuRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
- * <remarks>LearnYard Problem:Good Question</remarks>
+ * <remarks>:Good Question</remarks>
  * <companies>Google:PhonePE</companies>
  * </metadata>
  * */

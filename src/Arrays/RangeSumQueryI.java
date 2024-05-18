@@ -12,7 +12,7 @@ package Arrays;
  * <level>Easy</level>
  * <companies>Facebook</companies>
  * <notes>Make a Prefix Array and use it wisely</notes>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class RangeSumQueryI {

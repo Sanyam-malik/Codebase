@@ -11,7 +11,7 @@ import java.util.Arrays;
  * <date>2024-04-05</date>
  * <level>Easy</level>
  * <notes>Just Sort and find the minimum of difference</notes>
- * <remarks>LearnYard Problem</remarks>
+ * <remarks></remarks>
  * </metadata>
  * */
 public class MinimumDiffBwPairs {
