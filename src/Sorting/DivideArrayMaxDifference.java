@@ -13,7 +13,7 @@ import java.util.List;
  * <date>2024-04-15</date>
  * <level>Medium</level>
  * <notes>Just sort and add to result if nums[i] + nums[i-2] <= k</notes>
- * <remarks>:Good Question</remarks>
+ * <remarks>Good Question</remarks>
  * </metadata>
  * */
 public class DivideArrayMaxDifference {

@@ -11,7 +11,7 @@ import java.util.Arrays;
  * <date>2024-04-26</date>
  * <level>Medium</level>
  * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/LfFjcmE165Y?si=Fxn1Ugjj-yNZSCEl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
- * <remarks>:Good Question</remarks>
+ * <remarks>Good Question</remarks>
  * <companies>PhonePe</companies>
  * </metadata>
  * */

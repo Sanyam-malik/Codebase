@@ -11,7 +11,7 @@ import java.util.Arrays;
  * <date>2024-04-11</date>
  * <level>Medium</level>
  * <notes>Recursive Variable to store the result and merge sort / quick sort</notes>
- * <remarks>:Good Question</remarks>
+ * <remarks>Good Question</remarks>
  * <companies>Flipkart:Amazon:Microsoft:MakeMyTrip:Adobe:BankBazaar:Myntra</companies>
  * </metadata>
  * */

@@ -10,7 +10,7 @@ package Arrays;
  * <date>2024-03-24</date>
  * <level>Easy</level>
  * <notes>Find the min and max element and check if min+k >= max-k return 0 else (max-k)-(min+k)</notes>
- * <remark>:Good Question</remark>
+ * <remark>Good Question</remark>
  * <companies>Adobe</companies>
  * </metadata>
  * */

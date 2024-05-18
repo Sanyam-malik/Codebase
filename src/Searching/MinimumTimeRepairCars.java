@@ -9,7 +9,7 @@ package Searching;
  * <date>2024-04-19</date>
  * <level>Medium</level>
  * <notes><iframe width="560" height="315" src="https://www.youtube.com/embed/YIo2U8ceHmY?si=1IST59wWBn3NF-Zo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></notes>
- * <remarks>:Good Question</remarks>
+ * <remarks>Good Question</remarks>
  * <companies>Meta:Apple</companies>
  * </metadata>
  * */
