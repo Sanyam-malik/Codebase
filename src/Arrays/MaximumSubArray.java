@@ -8,7 +8,7 @@ package Arrays;
  * <url>https://leetcode.com/problems/maximum-subarray/description/</url>
  * <date>2024-03-12</date>
  * <level>Medium</level>
- * <remarks>Solve Using Divide and Conquer:</remarks>
+ * <remarks>Use Divide and Conquer</remarks>
  * <notes>Solution - Use Kadane's Algorithm</notes>
  * <companies>Uber:Apple:Adobe:Cisco:Paytm:Amazon:Google:Shopee:VMware:Oracle:Samsung:Infosys:LinkedIn:Facebook:JPMorgan:Docusign:Microsoft:Bloomberg:ByteDance:Salesforce:ServiceNow:Goldman Sachs:Walmart Global Tech</companies>
  * </metadata>
