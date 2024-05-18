@@ -4,7 +4,7 @@ package Extra_Problems.Arrays;
 /*
  * <metadata>
  * <name>Number of Good Pairs - Revision</name>
- * <description><img src="http://lordmaximus.duckdns.org:9001/api/v1/buckets/codebase/objects/download?preview=true&prefix=U2NyZWVuc2hvdF81My5wbmc=&version_id=null"></description>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/GoodPairs.png"></description>
  * <status>Completed</status>
  * <url>https://leetcode.com/problems/number-of-good-pairs</url>
  * <date>2024-02-18</date>

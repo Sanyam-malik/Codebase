@@ -8,7 +8,7 @@ import java.util.Map;
  * <metadata>
  * <name>Number of Good Pairs - Revision</name>
  * <status>Completed</status>
- * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/Number_Good_Pairs.png"></description>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/GoodPairs.png"></description>
  * <url>https://leetcode.com/problems/number-of-good-pairs</url>
  * <date>2024-02-23</date>
  * <level>Easy</level>
