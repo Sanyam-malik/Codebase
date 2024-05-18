@@ -10,7 +10,7 @@ package Arrays;
  * <date>2024-03-12</date>
  * <level>Medium</level>
  * <companies>Apple:Google:Amazon:Facebook:Microsoft:ByteDance:Bloomberg</companies>
- * <remarks>Needs Revision of Concept:</remarks>
+ * <remarks>Needs Revision of Concept</remarks>
  * <notes>Use Variable Sliding Window if zero is encountered update the zero count else increase the window size if zero count is greator shrink the size</notes>
  * </metadata>
  * */
