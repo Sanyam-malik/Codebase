@@ -10,7 +10,7 @@ import java.util.Stack;
  * <metadata>
  * <name>Palindrome Linked List</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/PalindromeLL.png"></description>
- * <status>Needs Improvement</status>
+ * <status>Completed</status>
  * <url>https://leetcode.com/problems/palindrome-linked-list/description/</url>
  * <date>2024-05-06</date>
  * <level>Easy</level>
@@ -30,44 +30,38 @@ public class CheckPalindrome {
         ListNode(int val, ListNode next) { this.val = val; this.next = next; }
     }
 
-    public static ListNode reverseList(ListNode head) {
-        ListNode current = head;
+    public static ListNode reverse(ListNode head) {
         ListNode prev = null;
-        Stack<Integer> stack = new Stack<>();
-
-        while(current != null) {
-            stack.push(current.val);
-            current= current.next;
-        }
-
-        ListNode currNode = null;
-        while(!stack.isEmpty()) {
-            ListNode n =new ListNode(stack.pop());
-            if (prev == null) {
-                prev = n;
-                currNode = prev;
-            } else {
-                currNode.next = n;
-                currNode = currNode.next;
-            }
+        ListNode curr = head;
+        while(curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
         return prev;
     }
 
     public static boolean isPalindrome(ListNode head) {
         if (head == null) return true;
-        ListNode reverse = reverseList(head);
-        ListNode forward = head;
+        ListNode slow = head;
+        ListNode fast = head.next;
 
-        while (forward != null && reverse != null) {
-            if(forward.val != reverse.val) {
-                return false;
-            } else {
-                forward = forward.next;
-                reverse = reverse.next;
-            }
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        return forward == null && reverse == null;
+
+        ListNode rev = reverse(slow.next); // reverse second list
+        slow.next = null;
+        while(rev != null) {
+            if(head.val != rev.val) {
+                return false;
+            }
+            head = head.next;
+            rev = rev.next;
+        }
+        return true;
     }
 
     public static void main(String args[]) {
