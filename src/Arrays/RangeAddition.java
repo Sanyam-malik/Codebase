@@ -13,7 +13,7 @@ import java.util.Arrays;
  * <level>Medium</level>
  * <companies>Google</companies>
  * <notes>At Start index add the k and at end and its inverse and then combine everything back</notes>
- * <remarks>:Needs Revision of Concept</remarks>
+ * <remarks>Needs Revision of Concept</remarks>
  * </metadata>
  * */
 public class RangeAddition {

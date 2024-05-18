@@ -12,7 +12,7 @@ package Arrays;
  * <level>Medium</level>
  * <companies>Lyft:Amazon:Google:Samsung:Facebook</companies>
  * <notes>Solution 1 - For loops </br>           Solution 2 - Prefix sum Technique (Arrays -> Practice 5)</notes>
- * <remarks>:Needs Revision of Concept</remarks>
+ * <remarks>Needs Revision of Concept</remarks>
  * </metadata>
  * */
 public class RangeSumQuery2D {
