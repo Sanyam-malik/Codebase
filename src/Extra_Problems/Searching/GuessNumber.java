@@ -12,7 +12,7 @@ import java.util.Random;
  * <date>2024-04-12</date>
  * <level>Easy</level>
  * <notes>Use Binary Search</notes>
- * <remarks>Kunal Kushwaha</remarks>
+ * <remarks></remarks>
  * <companies>Adobe:Bloomberg</companies>
  * </metadata>
  * */

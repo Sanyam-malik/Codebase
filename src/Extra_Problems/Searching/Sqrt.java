@@ -11,7 +11,7 @@ package Extra_Problems.Searching;
  * <level>Easy</level>
  * <notes>No Notes Needed</notes>
  * <companies>Apple:Adobe:Amazon:Google:LinkedIn:Microsoft:Bloomberg</companies>
- * <remarks>Kunal Kushwaha</remarks>
+ * <remarks></remarks>
  * <countinclusion>no</countinclusion>
  * </metadata>
  * */

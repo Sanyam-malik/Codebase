@@ -13,7 +13,7 @@ import java.util.Arrays;
  * <date>2024-04-12</date>
  * <level>Easy</level>
  * <notes>Use Binary Search</notes>
- * <remarks>Kunal Kushwaha</remarks>
+ * <remarks></remarks>
  * <companies>Apple:Adobe:Cisco:Google:Amazon:Facebook:Microsoft</companies>
  * </metadata>
  * */

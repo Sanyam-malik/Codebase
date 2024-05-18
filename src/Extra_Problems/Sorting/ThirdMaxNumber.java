@@ -12,7 +12,7 @@ import java.util.*;
  * <date>2024-04-16</date>
  * <level>Easy</level>
  * <notes>1. Using Set and Sort </br> 2. Using Direct Approach</notes>
- * <remarks>Kunal Kushwaha</remarks>
+ * <remarks></remarks>
  * <companies>Apple:Amazon:Google</companies>
  * </metadata>
  * */

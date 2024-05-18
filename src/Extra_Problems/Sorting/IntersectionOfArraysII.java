@@ -11,7 +11,7 @@ import java.util.*;
  * <date>2024-04-16</date>
  * <level>Easy</level>
  * <notes>1. Use HashMap </br> 2. Use Arrays as Map</notes>
- * <remarks>Kunal Kushwaha</remarks>
+ * <remarks></remarks>
  * <companies>Yahoo:Adobe:Amazon:Facebook:Bloomberg</companies>
  * </metadata>
  * */

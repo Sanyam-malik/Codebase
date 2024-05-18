@@ -10,7 +10,7 @@ import java.util.*;
  * <date>2024-04-16</date>
  * <level>Easy</level>
  * <notes>1. Use Sets </br> 2. Use Two Pointers Approach</notes>
- * <remarks>Kunal Kushwaha</remarks>
+ * <remarks></remarks>
  * <companies>Apple:Adobe:Amazon:Google:Facebook:JPMorgan:Microsoft:Bloomberg</companies>
  * </metadata>
  * */
