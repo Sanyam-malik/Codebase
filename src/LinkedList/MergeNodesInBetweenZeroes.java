@@ -42,7 +42,7 @@ public class MergeNodesInBetweenZeroes {
 
         ListNode newHead = new ListNode();
         ListNode newHeadCurr = newHead;
-        ListNode currNode = head;
+        ListNode currNode = head.next;
         int sumSOFar = 0;
         while(currNode != null) {
             if(currNode.val == 0) {
@@ -54,7 +54,7 @@ public class MergeNodesInBetweenZeroes {
             }
             currNode = currNode.next;
         }
-        return newHead.next.next;
+        return newHead.next;
     }
 
     public static ListNode mergeNodesUsingSpace(ListNode head) {
