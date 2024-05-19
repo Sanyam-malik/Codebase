@@ -1,8 +1,5 @@
 package Stacks;
 
-
-
-
 /*
  * <metadata>
  * <name>Backspace String Compare</name>
