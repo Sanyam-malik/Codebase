@@ -7,7 +7,7 @@ import java.util.List;
  * <metadata>
  * <name>Reverse a Doubly Linked List</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ReverseDoublyLL.png"></description>
- * <status>Try Again</status>
+ * <status>Completed</status>
  * <url>https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1</url>
  * <date>2024-05-06</date>
  * <level>Easy</level>
