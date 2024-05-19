@@ -9,7 +9,7 @@ import java.util.List;
  * <metadata>
  * <name>Merge Nodes in Between Zeros</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MergeBwZeroesLL.png"></description>
- * <status>Try Again</status>
+ * <status>Completed</status>
  * <url>https://leetcode.com/problems/merge-nodes-in-between-zeros/description/</url>
  * <date>2024-05-16</date>
  * <level>Medium</level>
