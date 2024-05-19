@@ -3,6 +3,20 @@ package HashMap;
 import java.util.HashMap;
 import java.util.Map;
 
+
+/*
+ * <metadata>
+ * <name>Subarray Sum Equals K</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/SubArrayEqualsK.png"></description>
+ * <status>Try Again</status>
+ * <url>https://leetcode.com/problems/subarray-sum-equals-k/description/</url>
+ * <date>2024-05-20</date>
+ * <level>Medium</level>
+ * <remarks>Good Question</remarks>
+ * <companies>Visa:Bolt:Apple:Quora:Adobe:Amazon:Google:Oracle:tiktok:Nvidia:Expedia:Facebook:DoorDash:Microsoft:Bloomberg:ServiceNow</companies>
+ * <notes>Use Prefix Sum and Hashmap</notes>
+ * </metadata>
+ * */
 public class SubArrayEqualsK {
 
     public static int subarraySum(int[] nums, int k) {
