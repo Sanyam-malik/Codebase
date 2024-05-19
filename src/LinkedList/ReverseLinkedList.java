@@ -6,7 +6,7 @@ import java.util.List;
  * <metadata>
  * <name>Reverse Linked List</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/ReverseLL.png"></description>
- * <status>Try Again</status>
+ * <status>Completed</status>
  * <url>https://leetcode.com/problems/reverse-linked-list/description/</url>
  * <date>2024-05-06</date>
  * <level>Easy</level>
