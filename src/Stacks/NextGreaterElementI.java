@@ -12,10 +12,12 @@ import java.util.Stack;
  * <url>https://leetcode.com/problems/next-greater-element-i/description/</url>
  * <date>2024-05-20</date>
  * <level>Easy</level>
+ * <remarks>Good Question</remarks>
+ * <companies>Uber:Apple:Adobe:Yahoo:Amazon:Google:Facebook:Bloomberg:Microsoft:Goldman Sachs</companies>
  * <notes>Using Stack, Temp Array and Map</notes>
  * </metadata>
  * */
-public class NextGreatorElementI {
+public class NextGreaterElementI {
 
     public static int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int[] temp = new int[nums2.length];
