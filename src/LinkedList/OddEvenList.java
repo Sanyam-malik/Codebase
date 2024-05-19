@@ -7,7 +7,7 @@ import java.util.List;
  * <metadata>
  * <name>Odd Even Linked List</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/OddEvenLL.png"></description>
- * <status>Try Again</status>
+ * <status>Completed</status>
  * <url>https://leetcode.com/problems/odd-even-linked-list/description/</url>
  * <date>2024-05-16</date>
  * <level>Medium</level>
@@ -38,19 +38,19 @@ public class OddEvenList {
             return head;
         }
 
-        ListNode even=head.next;
-        ListNode odd=head;
-        ListNode evenHead=even;
-        ListNode oddHead=odd;
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode currOdd = odd;
+        ListNode currEven = even;
 
-        while(even!=null && even.next!=null){
-            odd.next=even.next;
-            odd=odd.next;
-            even.next=odd.next;
-            even=even.next;
+        while (currEven != null){
+            currOdd.next = currEven.next;
+            currOdd = currOdd.next;
+            currEven.next = currOdd.next;
+            currEven = currEven.next;
         }
-        odd.next=evenHead;
-        return oddHead;
+        currOdd.next = even;
+        return odd;
     }
 
     public static void main(String args[]) {
