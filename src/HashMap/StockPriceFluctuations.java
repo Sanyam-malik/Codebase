@@ -13,7 +13,7 @@ import java.util.TreeMap;
  * <url>https://leetcode.com/problems/stock-price-fluctuation/description/</url>
  * <date>2024-05-21</date>
  * <level>Medium</level>
- * <notes>Use TreeMap and HashMap</notes>
+ * <notes>Use TreeMap and HashMap <a href="https://playground.learnyard.com/compiler/clua38r16009uv3015hps39rh">Solution</a></notes>
  * <remarks>Good Question</remarks>
  * <companies>Google</companies>
  * </metadata>
