@@ -6,7 +6,7 @@ import java.util.Stack;
 /*
  * <metadata>
  * <name>Evaluate Reverse Polish Notation</name>
- * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/MiddleofLinkedList.png"></description>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/EvalRPN.png"></description>
  * <status>Completed</status>
  * <url>https://leetcode.com/problems/evaluate-reverse-polish-notation/description/</url>
  * <date>2024-05-21</date>

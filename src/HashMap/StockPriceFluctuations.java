@@ -9,7 +9,7 @@ import java.util.TreeMap;
  * <metadata>
  * <name>Stock Price Fluctuation</name>
  * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/StockPriceFluctuations.png"></description>
- * <status>Completed</status>
+ * <status>Try Again</status>
  * <url>https://leetcode.com/problems/stock-price-fluctuation/description/</url>
  * <date>2024-05-21</date>
  * <level>Medium</level>
