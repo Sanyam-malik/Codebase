@@ -2,7 +2,22 @@ package HashMap;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
+import java.util.Map;
 
+
+/*
+ * <metadata>
+ * <name>LFU Cache</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/LFUCache.png"></description>
+ * <status>Partial Complete</status>
+ * <url>https://leetcode.com/problems/lfu-cache/description/</url>
+ * <date>2024-05-25</date>
+ * <level>Hard</level>
+ * <remarks>Good Question</remarks>
+ * <companies>Apple:Amazon:Google:VMware:Oracle:Snapchat:LinkedIn:Microsoft:ShareChat:Walmart Global Tech</companies>
+ * <notes>See The Code</notes>
+ * </metadata>
+ * */
 public class LFUCache {
 
     HashMap<Integer, Integer> map = new HashMap<>();
