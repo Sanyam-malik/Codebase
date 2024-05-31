@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 /*
  * <metadata>
  * <name>Top K Frequent Elements</name>
- * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/AppyBalloons.png"></description>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/TopKFrequency.png"></description>
  * <status>Completed</status>
  * <url>https://leetcode.com/problems/top-k-frequent-elements/description/</url>
  * <date>2024-05-31</date>
