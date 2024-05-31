@@ -4,6 +4,19 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
 
+
+/*
+ * <metadata>
+ * <name>Top K Frequent Elements</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/AppyBalloons.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/top-k-frequent-elements/description/</url>
+ * <date>2024-05-31</date>
+ * <level>Medium</level>
+ * <notes>Use Hashmap + Priority Queue and one more thing order of result DOES NOT MATTER</notes>
+ * <remarks>Good Question</remarks>
+ * </metadata>
+ * */
 public class TopKFrequency {
 
     public static int[] topKFrequent(int[] nums, int k) {
