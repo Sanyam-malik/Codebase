@@ -29,6 +29,8 @@
       "alternativeColor": "rgba(255, 255, 255, 0.12)",
       "textPrimaryColor": "#f5f5f5bf",
       "textSecondaryColor": "white",
+      "buttonText": "#3c3b3b",
+      "buttonTextHover": "white",
       "boxColor": "#1E1E1E",
       "boxText": "var(--textPrimaryColor)",
       "boxShadow": "rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px",
