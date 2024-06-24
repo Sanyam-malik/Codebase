@@ -3,8 +3,8 @@
   "icon": "https://static.vecteezy.com/system/resources/previews/012/377/752/original/fire-icon-flame-sign-png.png",
   "theme": {
     "light": {
-      "primaryColor": "#b76712",
-      "secondaryColor": "#ca7231",
+      "primaryColor": "#017908",
+      "secondaryColor": "#017908",
       "headerColor": "rgb(247, 247, 247)",
       "backgroundColor": "rgb(255, 255, 255)",
       "alternativeColor": "rgba(221, 221, 221, 0.61)",
@@ -22,8 +22,8 @@
       "paginationTXTColor": "black"
     },
     "dark": {
-      "primaryColor": "#b76712",
-      "secondaryColor": "#ca7231",
+      "primaryColor": "#017908",
+      "secondaryColor": "#017908",
       "headerColor": "rgb(17 17 17)",
       "backgroundColor": "rgb(26, 26, 26)",
       "alternativeColor": "rgba(255, 255, 255, 0.12)",
