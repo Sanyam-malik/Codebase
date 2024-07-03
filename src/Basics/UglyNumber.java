@@ -1,5 +1,14 @@
 package Basics;
 
+/*
+ * <metadata>
+ * <name>Ugly Number</name>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/ugly-number/description/</url>
+ * <date>2024-07-02</date>
+ * <level>Easy</level>
+ * </metadata>
+ * */
 public class UglyNumber {
 
     public boolean isUgly(int n) {

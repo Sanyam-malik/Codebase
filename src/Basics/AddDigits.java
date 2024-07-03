@@ -1,5 +1,14 @@
 package Basics;
 
+/*
+ * <metadata>
+ * <name>Add Digits</name>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/add-digits</url>
+ * <date>2024-07-02</date>
+ * <level>Easy</level>
+ * </metadata>
+ * */
 public class AddDigits {
 
     public int addDigits(int num) {

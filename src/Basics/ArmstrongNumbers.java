@@ -1,5 +1,14 @@
 package Basics;
 
+/*
+ * <metadata>
+ * <name>Armstrong Numbers</name>
+ * <status>Completed</status>
+ * <url>https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1</url>
+ * <date>2024-07-02</date>
+ * <level>Easy</level>
+ * </metadata>
+ * */
 public class ArmstrongNumbers {
 
     static String armstrongNumber(int n) {
