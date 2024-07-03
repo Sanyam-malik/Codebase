@@ -1,5 +1,14 @@
 package Basics;
 
+/*
+ * <metadata>
+ * <name>Sum Multiples</name>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/sum-multiples/description/</url>
+ * <date>2024-07-02</date>
+ * <level>Easy</level>
+ * </metadata>
+ * */
 public class SumMultiples {
 
     public int sumOfMultiples(int n) {
