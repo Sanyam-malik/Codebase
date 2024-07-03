@@ -1,5 +1,14 @@
 package Basics;
 
+/*
+ * <metadata>
+ * <name>Power of Two</name>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/power-of-two/description/</url>
+ * <date>2024-07-02</date>
+ * <level>Easy</level>
+ * </metadata>
+ * */
 public class PowerTwo {
 
     public boolean isPowerOfTwo(int n) {

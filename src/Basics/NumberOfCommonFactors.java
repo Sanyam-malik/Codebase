@@ -1,5 +1,14 @@
 package Basics;
 
+/*
+ * <metadata>
+ * <name>Number of Common Factors</name>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/number-of-common-factors/description/</url>
+ * <date>2024-07-02</date>
+ * <level>Easy</level>
+ * </metadata>
+ * */
 public class NumberOfCommonFactors {
 
     public int commonFactors(int a, int b) {
