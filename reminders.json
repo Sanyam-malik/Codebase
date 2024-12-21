@@ -11,8 +11,8 @@
         "name": "Monthly Contest",
         "description": "Solve Problem Every Month to enhance your skills.",
         "recurrence": "MONTHLY",
-        "start_time": null,
-        "end_time": null,
-        "date": null
+        "start_time": "02:07",
+        "end_time": "02:07",
+        "date": "2024-12-15"
     }
 ]
